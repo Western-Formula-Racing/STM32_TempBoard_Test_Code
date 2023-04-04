@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 1
 
 
    1              		.cpu cortex-m33
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   26:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
   27:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /* Includes ------------------------------------------------------------------*/
   28:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #include "stm32u5xx.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 2
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 2
 
 
   29:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   83:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
   84:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
   85:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 3
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 3
 
 
   86:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  140:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
  141:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_LSEDRIVE  LSE oscillator drive capability
  142:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 4
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 4
 
 
  143:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  197:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_MSIKRANGE_6                 (RCC_ICSCR1_MSIKRANGE_1 | RCC_ICSCR1_MSIKRANGE_2)       
  198:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_MSIKRANGE_7                 (RCC_ICSCR1_MSIKRANGE_0 | RCC_ICSCR1_MSIKRANGE_1 | RCC_I
  199:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_MSIKRANGE_8                  RCC_ICSCR1_MSIKRANGE_3                                 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 5
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 5
 
 
  200:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_MSIKRANGE_9                 (RCC_ICSCR1_MSIKRANGE_0 | RCC_ICSCR1_MSIKRANGE_3)       
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  254:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_HSEEXT  EXTERNAL HSE Mode
  255:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
  256:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 6
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 6
 
 
  257:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_HSE_ANALOG_MODE               0U                    /*!< HSE clock used as ANALOG cl
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  311:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
  312:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_SYSCLK_DIV  AHB prescaler
  313:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 7
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 7
 
 
  314:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  368:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_APB3_DIV_2                    RCC_CFGR3_PPRE3_2                                     
  369:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_APB3_DIV_4                    (RCC_CFGR3_PPRE3_2 | RCC_CFGR3_PPRE3_0)               
  370:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_APB3_DIV_8                    (RCC_CFGR3_PPRE3_2 | RCC_CFGR3_PPRE3_1)               
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 8
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 8
 
 
  371:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_APB3_DIV_16                   (RCC_CFGR3_PPRE3_2 | RCC_CFGR3_PPRE3_1 | RCC_CFGR3_PPR
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  425:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_RTC_CLKSOURCE  RTC clock source selection
  426:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
  427:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 9
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 9
 
 
  428:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_RTC_CLKSOURCE_NONE            0x00000000U             /*!< No clock used as RTC cloc
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  482:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_LPUART1_CLKSOURCE_SYSCLK     RCC_CCIPR3_LPUART1SEL_0                             /*!
  483:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_LPUART1_CLKSOURCE_HSI        RCC_CCIPR3_LPUART1SEL_1                             /*!
  484:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_LPUART1_CLKSOURCE_LSE        (RCC_CCIPR3_LPUART1SEL_0 | RCC_CCIPR3_LPUART1SEL_1) /*!
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 10
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 10
 
 
  485:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_LPUART1_CLKSOURCE_MSIK       RCC_CCIPR3_LPUART1SEL_2                             /*!
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  539:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
  540:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
  541:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 11
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 11
 
 
  542:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  596:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
  597:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
  598:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 12
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 12
 
 
  599:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_FDCAN_CLKSOURCE  Peripheral FDCAN kernel clock source selection
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  653:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_RNG_CLKSOURCE_HSI           RCC_CCIPR2_RNGSEL_1    /*!< HSI clock used as RNG clock 
  654:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
  655:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 13
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 13
 
 
  656:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  710:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_MDF1_CLKSOURCE_PIN         (RCC_CCIPR2_MDF1SEL_1 | RCC_CCIPR2_MDF1SEL_0) /*!< PIN SA
  711:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
  712:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 14
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 14
 
 
  713:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  767:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****                                            (RCC_CCIPR1_USART1SEL >> RCC_CCIPR1_USART1SEL_Pos)) /*!<
  768:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_USART2_CLKSOURCE           ((RCC_OFFSET_CCIPR1 << 24U) | (RCC_CCIPR1_USART2SEL_Pos <
  769:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****                                            (RCC_CCIPR1_USART2SEL >> RCC_CCIPR1_USART2SEL_Pos)) /*!<
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 15
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 15
 
 
  770:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_USART3_CLKSOURCE           ((RCC_OFFSET_CCIPR1 << 24U) | (RCC_CCIPR1_USART3SEL_Pos <
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  824:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
  825:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_LTDC_CLKSOURCE_PLL2              (RCC_CCIPR2_LTDCSEL)
  826:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_LTDC_CLKSOURCE_PLL3             (0x00000000U)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 16
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 16
 
 
  827:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  881:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_SAI  Peripheral SAIx get clock source
  882:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
  883:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 17
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 17
 
 
  884:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_SAI1_CLKSOURCE             RCC_CCIPR2_SAI1SEL /*!< SAI1 Clock source selection */
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  938:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_DAC1  Peripheral DAC1 get clock source
  939:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
  940:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 18
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 18
 
 
  941:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_DAC1_CLKSOURCE             RCC_CCIPR3_DAC1SEL /* DAC1 Clock source selection */
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  995:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #endif /* DSI */
  996:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
  997:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #if defined(LTDC)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 19
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 19
 
 
  998:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_LTDC  Peripheral LTDC get clock source
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1052:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 1053:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 1054:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /** @defgroup RCC_LL_EC_PLL3SOURCE  PLL3 entry clock source
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 20
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 20
 
 
 1055:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1109:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_PLL_NSEC                    LL_RCC_PLL1_NSEC        /*!< alias define for compatibil
 1110:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 1111:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 21
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 21
 
 
 1112:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1166:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *             @ref LL_RCC_PLL1_GetN (), @ref LL_RCC_PLL1_GetP ());
 1167:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param __INPUTFREQ__ PLL1 Input frequency (based on MSI/HSE/HSI)
 1168:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param __PLL1M__ parameter can be a value between 1 and 16
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 22
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 22
 
 
 1169:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param __PLL1N__ parameter can be a value between 4 and 512
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1223:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param __PLL2N__ parameter can be a value between 4 and 512
 1224:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param __PLL2R__ parameter can be a value between 1 and 128
 1225:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval PLL2 clock frequency (in Hz)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 23
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 23
 
 
 1226:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1280:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_8
 1281:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_16
 1282:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_64
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 24
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 24
 
 
 1283:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_128
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1337:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 1338:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Helper macro to calculate the MSIS frequency (in Hz)
 1339:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @note __MSISSEL__ can be retrieved thanks to function LL_RCC_MSI_IsEnabledRangeSelect()
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 25
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 25
 
 
 1340:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @note if __MSISSEL__ is equal to LL_RCC_MSIRANGESEL_STANDBY,
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1394:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIKRANGE_6
 1395:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIKRANGE_7
 1396:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIKRANGE_8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 26
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 26
 
 
 1397:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIKRANGE_9
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1451:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_HSE_DisableBypass(void)
 1452:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 1453:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   CLEAR_BIT(RCC->CR, RCC_CR_HSEBYP);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 27
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 27
 
 
 1454:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1508:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 1509:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->CR, RCC_CR_HSEEXT));
 1510:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 28
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 28
 
 
 1511:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1565:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 1566:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_HSI_Disable(void)
 1567:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 29
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 29
 
 
 1568:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   CLEAR_BIT(RCC->CR, RCC_CR_HSION);
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1622:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
 1623:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 1624:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 30
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 30
 
 
 1625:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1679:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 1680:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   SET_BIT(RCC->BDCR, RCC_BDCR_LSEON);
 1681:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 31
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 31
 
 
 1682:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1736:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_LSEDRIVE_HIGH
 1737:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 1738:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_LSE_GetDriveCapability(void)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 32
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 32
 
 
 1739:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1793:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 1794:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 1795:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 33
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 33
 
 
 1796:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Disable LSE oscillator propagation for system clock
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1850:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   CLEAR_BIT(RCC->BDCR, RCC_BDCR_LSION);
 1851:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 1852:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 34
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 34
 
 
 1853:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1907:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Disable MSIK oscillator
 1908:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CR           MSIKON         LL_RCC_MSIK_Disable
 1909:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 35
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 35
 
 
 1910:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1964:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
 1965:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 1966:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 36
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 36
 
 
 1967:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2021:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 2022:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 2023:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Disable MSI-PLL mode
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 37
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 37
 
 
 2024:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @note cleared by hardware when LSE is disabled (LSEON = 0) or when
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2078:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 2079:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 2080:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Check if MSI PLL Fast Mode is enable
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 38
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 38
 
 
 2081:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CR           MSIPLLFAST        LL_RCC_MSI_IsEnabledMSIPLLFAST
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2135:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 2136:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 2137:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 39
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 39
 
 
 2138:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Check if MSIK is enabled in stop mode
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2192:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_MSIS_SetRange(uint32_t Range)
 2193:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 2194:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   MODIFY_REG(RCC->ICSCR1, RCC_ICSCR1_MSISRANGE, Range);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 40
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 40
 
 
 2195:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2249:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSISSRANGE_7
 2250:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSISSRANGE_8
 2251:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 41
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 41
 
 
 2252:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_MSIS_GetRangeAfterStandby(void)
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2306:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 2307:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 2308:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 42
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 42
 
 
 2309:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2363:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 2364:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_MSIK_GetRange(void)
 2365:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 43
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 43
 
 
 2366:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->ICSCR1, RCC_ICSCR1_MSIKRANGE));
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2420:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval None
 2421:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 2422:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_LSCO_Disable(void)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 44
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 44
 
 
 2423:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2477:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CFGR1        SWS           LL_RCC_GetSysClkSource
 2478:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
 2479:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYS_CLKSOURCE_STATUS_MSIS
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 45
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 45
 
 
 2480:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYS_CLKSOURCE_STATUS_HSI
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2534:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_SetAPB1Prescaler(uint32_t Prescaler)
 2535:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 2536:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   MODIFY_REG(RCC->CFGR2, RCC_CFGR2_PPRE1, Prescaler);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 46
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 46
 
 
 2537:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2591:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Get Sysctick clock source
 2592:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CCIPR1       SYSTICKSEL    LL_RCC_SetSystickClockSource
 2593:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 47
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 47
 
 
 2594:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSTICK_CLKSOURCE_LSI
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2648:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 2649:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Set Clock After Wake-Up From Stop mode
 2650:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CFGR1       STOPWUCK      LL_RCC_SetClkAfterWakeFromStop
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 48
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 48
 
 
 2651:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param  Clock This parameter can be one of the following values:
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2705:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 2706:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 2707:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 49
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 49
 
 
 2708:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @}
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2762:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 2763:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Configure LPUARTx clock source
 2764:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CCIPR3       LPUART1SEL    LL_RCC_SetLPUARTClockSource
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 50
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 50
 
 
 2765:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param  LPUARTxSource This parameter can be one of the following values:
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2819:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI1_CLKSOURCE_SYSCLK
 2820:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI1_CLKSOURCE_HSI
 2821:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI1_CLKSOURCE_MSIK
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 51
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 51
 
 
 2822:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI2_CLKSOURCE_PCLK1
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2876:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 2877:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_SetFDCANClockSource(uint32_t FDCANxSource)
 2878:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 52
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 52
 
 
 2879:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   MODIFY_REG(RCC->CCIPR1, RCC_CCIPR1_FDCANSEL, FDCANxSource);
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2933:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Configure RNG clock source
 2934:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CCIPR2       RNGSEL      LL_RCC_SetRNGClockSource
 2935:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param  RNGxSource This parameter can be one of the following values:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 53
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 53
 
 
 2936:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_RNG_CLKSOURCE_HSI48
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2990:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_SetADCDACClockSource(uint32_t ADCxDAC1Source)
 2991:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 2992:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   MODIFY_REG(RCC->CCIPR3, RCC_CCIPR3_ADCDACSEL, ADCxDAC1Source);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 54
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 54
 
 
 2993:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3047:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_OCTOSPI_CLKSOURCE_PLL2
 3048:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval None
 3049:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 55
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 55
 
 
 3050:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_SetOCTOSPIClockSource(uint32_t Source)
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3104:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_LTDC_CLKSOURCE_PLL2
 3105:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_LTDC_CLKSOURCE_PLL3
 3106:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 56
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 56
 
 
 3107:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3161:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 3162:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->CCIPR1, UARTx) | (UARTx << 16U));
 3163:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 57
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 57
 
 
 3164:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3218:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param  SPIx This parameter can be one of the following values:
 3219:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI1_CLKSOURCE
 3220:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI2_CLKSOURCE
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 58
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 58
 
 
 3221:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SPI3_CLKSOURCE
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3275:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CCIPR1       TIMICSEL      LL_RCC_SetTIMICClockSource
 3276:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param  TIMICSource This parameter can be one of the following combined values:
 3277:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *          @arg @ref    LL_RCC_TIMIC_CLKSOURCE_NONE
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 59
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 59
 
 
 3278:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *          @arg @ref    LL_RCC_TIMIC_CLKSOURCE_HSI_DIV256
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3332:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
 3333:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SAI1_CLKSOURCE_PLL1
 3334:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SAI1_CLKSOURCE_PLL2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 60
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 60
 
 
 3335:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_SAI1_CLKSOURCE_PLL3
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3389:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_GetRNGClockSource(uint32_t RNGx)
 3390:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 3391:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->CCIPR2, RNGx));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 61
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 61
 
 
 3392:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3446:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll CCIPR3        DAC1SEL        LL_RCC_GetDAC1ClockSource
 3447:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param  DAC1x This parameter can be one of the following values:
 3448:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_DAC1_CLKSOURCE
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 62
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 62
 
 
 3449:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3503:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_GetHSPIClockSource(uint32_t HSPIx)
 3504:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 3505:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->CCIPR2, HSPIx));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 63
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 63
 
 
 3506:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3560:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 3561:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 3562:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 64
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 64
 
 
 3563:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Set RTC Clock Source
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3617:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval State of bit (1 or 0).
 3618:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 3619:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_IsEnabledRTC(void)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 65
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 65
 
 
 3620:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3674:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_PLL_Disable     LL_RCC_PLL1_Disable    /*!< alias for compatibility with legacy code
 3675:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
 3676:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 66
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 66
 
 
 3677:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Check if PLL1 Ready
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3708:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****              ((PLLM - 1UL) << RCC_PLL1CFGR_PLL1M_Pos));
 3709:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   MODIFY_REG(RCC->PLL1DIVR, RCC_PLL1DIVR_PLL1N | RCC_PLL1DIVR_PLL1R, ((PLLN - 1UL) << \
   54              		.loc 2 3709 3 is_stmt 1 view .LVU5
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 67
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 67
 
 
   55 001a 686B     		ldr	r0, [r5, #52]
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   15:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   *
   16:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   ******************************************************************************
   17:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 68
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 68
 
 
   18:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** /* Includes ------------------------------------------------------------------*/
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   72:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** #define UTILS_SCALE3_LATENCY3_FREQ    (50000000U)      /*!< HCLK frequency to set FLASH latency 3 i
   73:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** #define UTILS_SCALE4_LATENCY0_FREQ    (8000000U)       /*!< HCLK frequency to set FLASH latency 0 i
   74:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** #define UTILS_SCALE4_LATENCY1_FREQ    (16000000U)      /*!< HCLK frequency to set FLASH latency 1 i
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 69
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 69
 
 
   75:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** #define UTILS_SCALE4_LATENCY2_FREQ    (24000000U)      /*!< HCLK frequency to set FLASH latency 2 i
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  129:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****                                               ((__VALUE__) <= UTILS_MAX_FREQUENCY_SCALE2) : \
  130:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****                                               ((__VALUE__) <= UTILS_MAX_FREQUENCY_SCALE3))
  131:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 70
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 70
 
 
  132:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** #define IS_LL_UTILS_HSE_BYPASS(__STATE__) (((__STATE__) == LL_UTILS_HSEBYPASS_ON) \
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  186:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
  187:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** void LL_mDelay(uint32_t Delay)
  188:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 71
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 71
 
 
  189:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   __IO uint32_t  tmp = SysTick->CTRL;  /* Clear the COUNTFLAG first */
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  243:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****              (++) |-----------------|-------------------|------------------|------------------|----
  244:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****              (++) |3WS(4 CPU cycles)|  96 < HCLK <= 128 |  75 < HCLK <= 100| 37.5 < HCLK <= 50|    
  245:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****              (++) |-----------------|-------------------|------------------|------------------|    
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 72
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 72
 
 
  246:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****              (++) |4WS(5 CPU cycles)|  128 < HCLK <= 160|                  |                  |    
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  300:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         /* 64 < HCLK <= 96 => 2WS (3 CPU cycles) */
  301:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         latency = LL_FLASH_LATENCY_2;
  302:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 73
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 73
 
 
  303:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       else if (HCLK_Frequency <= UTILS_SCALE1_LATENCY3_FREQ)
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  357:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       else if (HCLK_Frequency <= UTILS_SCALE3_LATENCY2_FREQ)
  358:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       {
  359:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         /* 25 < HCLK <= 37.5 => 2WS (3 CPU cycles) */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 74
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 74
 
 
  360:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         latency = LL_FLASH_LATENCY_2;
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  414:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     }
  415:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   }
  416:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 75
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 75
 
 
  417:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   return status;
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  471:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         case LL_RCC_MSISRANGE_3:     /* MSI = 12 MHz   */
  472:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         case LL_RCC_MSISRANGE_4:     /* MSI = 4 MHz    */
  473:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****         default:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 76
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 76
 
 
  474:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****           break;
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  528:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   return status;
  529:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** }
  530:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 77
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 77
 
 
  531:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** /**
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  585:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
  586:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** /**
  587:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   * @brief  This function configures system clock with HSE as clock source of the PLL
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 78
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 78
 
 
  588:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   * @note   The application need to ensure that PLL, PLLSAI1 and/or PLLSAI2 are disabled.
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  642:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       }
  643:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     }
  644:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 79
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 79
 
 
  645:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     /* Configure PLL */
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  690:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   /*  - PLLM: ensure that the VCO input frequency ranges from 1 to 16 MHz.   */
  691:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   pllfreq = PLL_InputFrequency / (UTILS_PLLInitStruct->PLLM);
  103              		.loc 1 691 3 view .LVU16
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 80
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 80
 
 
  104              		.loc 1 691 54 is_stmt 0 view .LVU17
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  139              		.loc 1 712 1 is_stmt 1 view -0
  140              		.cfi_startproc
  141              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 81
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 81
 
 
  142              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3727:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLL1SOURCE_HSE
 3728:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLLM parameter can be a value between 1 and 16
 3729:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLLN parameter can be a value between 4 and 512
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 82
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 82
 
 
 3730:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLLP parameter can be a value between 1 and 128
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3784:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 3785:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_PLL_SetMainSource     LL_RCC_PLL1_SetMainSource    /*!< alias for compatibility with
 3786:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 83
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 83
 
 
 3787:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3841:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 3842:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_PLL1_GetP(void)
 3843:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 84
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 84
 
 
 3844:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)((READ_BIT(RCC->PLL1DIVR, RCC_PLL1DIVR_PLL1P) >>  RCC_PLL1DIVR_PLL1P_Pos) + 1UL)
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3898:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll PLL1CFGR      PLL1M          LL_RCC_PLL1_SetDivider
 3899:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLL1M parameter can be a value between 1 and 16
 3900:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 85
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 85
 
 
 3901:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_PLL1_SetDivider(uint32_t PLL1M)
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 3955:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
 3956:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Enable PLL output mapped on 48MHz domain clock
 3957:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll PLL1CFGR      PLL1QEN        LL_RCC_PLL1_EnableDomain_48M
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 86
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 86
 
 
 3958:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval None
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4012:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
 4013:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   CLEAR_BIT(RCC->PLL1CFGR, RCC_PLL1CFGR_PLL1REN);
 4014:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 87
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 87
 
 
 4015:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_PLL_DisableDomain_SYS     LL_RCC_PLL1_DisableDomain_SYS    /*!< alias for compatibil
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4069:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 4070:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** #define LL_RCC_PLL_SetFRACN     LL_RCC_PLL1_SetFRACN    /*!< alias for compatibility with legacy co
 4071:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 88
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 88
 
 
 4072:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4126:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref   LL_RCC_PLL1MBOOST_DIV_10
 4127:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref   LL_RCC_PLL1MBOOST_DIV_12
 4128:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref   LL_RCC_PLL1MBOOST_DIV_14
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 89
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 89
 
 
 4129:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref   LL_RCC_PLL1MBOOST_DIV_16
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  724:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   {
  725:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     /* PLL2 configuration cannot be modified */
  726:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     status = ERROR;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 90
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 90
 
 
  178              		.loc 1 726 12 view .LVU43
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4215:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLLN parameter can be a value between 4 and 512
 4216:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLLP parameter can be a value between 1 and 128
 4217:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 91
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 91
 
 
 4218:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4272:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll PLL2CFGR      PLL2SRC        LL_RCC_PLL2_GetSource
 4273:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
 4274:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLL2SOURCE_NONE
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 92
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 92
 
 
 4275:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLL2SOURCE_MSIS
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4329:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @brief  Set Main PLL division factor for PLLQ
 4330:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @note Used for PLL48M1CLK selected for USB, SDMMC (48 MHz clock)
 4331:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll PLLCFGR      PLL2Q          LL_RCC_PLL2_SetQ
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 93
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 93
 
 
 4332:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @param PLL2Q parameter can be a value between 1 and 128
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4386:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 4387:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_PLL2_GetDivider(void)
 4388:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 94
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 94
 
 
 4389:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   return (uint32_t)((READ_BIT(RCC->PLL2CFGR, RCC_PLL2CFGR_PLL2M) >>  RCC_PLL2CFGR_PLL2M_Pos) + 1UL)
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4443:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   CLEAR_BIT(RCC->PLL2CFGR, RCC_PLL2CFGR_PLL2QEN);
 4444:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
 4445:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 95
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 95
 
 
 4446:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4500:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @rmtoll PLL2CFGR           PLL2FRACEN         LL_RCC_PLL2FRACN_IsEnabled
 4501:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @retval State of bit (1 or 0).
 4502:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 96
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 96
 
 
 4503:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_PLL2FRACN_IsEnabled(void)
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 4557:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   * @{
 4558:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h ****   */
 4559:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 97
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 97
 
 
 4560:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** /**
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  204              	.L10:
  713:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
  205              		.loc 1 713 15 view .LVU52
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 98
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 98
 
 
  206 0026 0020     		movs	r0, #0
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   27:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** 
   28:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   @endverbatim
   29:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****  */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 99
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 99
 
 
   30:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** /* Define to prevent recursive inclusion -------------------------------------*/
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   84:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   * @}
   85:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   */
   86:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** /* Exported types ------------------------------------------------------------*/
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 100
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 100
 
 
   87:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** /** @defgroup UTILS_LL_ES_INIT UTILS Exported structures
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  141:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****                                        This feature can be modified afterwards using unitary functi
  142:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****                                        @ref LL_RCC_SetAPB3Prescaler(). */
  143:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 101
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 101
 
 
  144:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** } LL_UTILS_ClkInitTypeDef;
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  198:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   * @{
  199:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   */
  200:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 102
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 102
 
 
  201:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h **** /** @defgroup UTILS_EF_DEVICE_ELECTRONIC_SIGNATURE DEVICE ELECTRONIC SIGNATURE
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  255:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   *         @arg @ref LL_UTILS_PACKAGETYPE_UFBGA132_SMPS
  256:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   *         @arg @ref LL_UTILS_PACKAGETYPE_LQFP144_SMPS
  257:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   *         @arg @ref LL_UTILS_PACKAGETYPE_LQFP48_SMPS
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 103
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 103
 
 
  258:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_utils.h ****   *         @arg @ref LL_UTILS_PACKAGETYPE_UFBGA169_SMPS
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  253 0016 1361     		str	r3, [r2, #16]
  254              	.LVL18:
  255              		.loc 3 292 18 view .LVU64
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 104
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 104
 
 
  256              	.LBE75:
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  300              		.loc 1 198 5 is_stmt 1 view .LVU76
  198:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   }
  301              		.loc 1 198 13 is_stmt 0 view .LVU77
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 105
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 105
 
 
  302 0012 0130     		adds	r0, r0, #1
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  347 0002 1860     		str	r0, [r3]
  263:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
  348              		.loc 1 263 1 view .LVU89
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 106
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 106
 
 
  349 0004 7047     		bx	lr
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   14:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * If no LICENSE file comes with this software, it is provided AS-IS.
   15:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *
   16:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   ******************************************************************************
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 107
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 107
 
 
   17:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   71:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @{
   72:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
   73:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_FLAG_VOSRDY      PWR_VOSR_VOSRDY      /*!< Voltage scaling ready flag               
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 108
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 108
 
 
   74:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_FLAG_BOOSTRDY    PWR_VOSR_BOOSTRDY    /*!< VOS EPOD booster ready flag              
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  128:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
  129:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /** @defgroup PWR_LL_EC_SRAM1_STOP_CONTENTS_RETENTION PWR SRAM1 Content Retention in Stop Mode
  130:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @{
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 109
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 109
 
 
  131:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  185:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_SRAM3_STOP_PAGE10_RETENTION (PWR_CR4_SRAM3PDS10)                     /*!< SRAM3 page
  186:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_SRAM3_STOP_PAGE11_RETENTION (PWR_CR4_SRAM3PDS11)                     /*!< SRAM3 page
  187:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_SRAM3_STOP_PAGE12_RETENTION (PWR_CR4_SRAM3PDS12)                     /*!< SRAM3 page
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 110
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 110
 
 
  188:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_SRAM3_STOP_PAGE13_RETENTION (PWR_CR4_SRAM3PDS13)                     /*!< SRAM3 page
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  242:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_ICACHERAM_STOP_FULL_RETENTION  PWR_CR2_ICRAMPDS /*!< ICACHE SRAM retention in Stop m
  243:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
  244:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 111
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 111
 
 
  245:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  299:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_GRAPHICPERIPHRAM_STOP_FULL_RETENTION PWR_CR2_GPRAMPDS /*!< Graphic peripherals (LTDC
  300:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
  301:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 112
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 112
 
 
  302:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  356:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_SRAM5_RUN_NO_RETENTION   0U              /*!< SRAM5 no retention in Run mode */
  357:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_SRAM5_RUN_FULL_RETENTION PWR_CR1_SRAM5PD /*!< SRAM5 retention in Run mode    */
  358:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 113
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 113
 
 
  359:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @}
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  413:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_WAKEUP_PIN3 PWR_WUCR1_WUPEN3 /*!< Wakeup pin 3 enable */
  414:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_WAKEUP_PIN4 PWR_WUCR1_WUPEN4 /*!< Wakeup pin 4 enable */
  415:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_WAKEUP_PIN5 PWR_WUCR1_WUPEN5 /*!< Wakeup pin 5 enable */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 114
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 114
 
 
  416:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_WAKEUP_PIN6 PWR_WUCR1_WUPEN6 /*!< Wakeup pin 6 enable */
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  470:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_GPIO_PIN_5  (0x0020U) /*!< GPIO port I/O pin 5  */
  471:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_GPIO_PIN_6  (0x0040U) /*!< GPIO port I/O pin 6  */
  472:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_GPIO_PIN_7  (0x0080U) /*!< GPIO port I/O pin 7  */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 115
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 115
 
 
  473:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #define LL_PWR_GPIO_PIN_8  (0x0100U) /*!< GPIO port I/O pin 8  */
@@ -6898,7 +6898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  527:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /** @defgroup PWR_LL_EM_WRITE_READ Common Write and Read Registers Macros
  528:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @{
  529:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 116
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 116
 
 
  530:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
@@ -6958,7 +6958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  584:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_STOP0_MODE
  585:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_STOP1_MODE
  586:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_STOP2_MODE
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 117
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 117
 
 
  587:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_STOP3_MODE
@@ -7018,7 +7018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  641:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
  642:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** __STATIC_INLINE void LL_PWR_DisableUltraLowPowerMode(void)
  643:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 118
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 118
 
 
  644:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   CLEAR_BIT(PWR->CR1, PWR_CR1_ULPMEN);
@@ -7078,7 +7078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  698:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @retval Returned value can be one of the following values:
  699:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM2_RUN_NO_RETENTION
  700:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM2_RUN_FULL_RETENTION
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 119
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 119
 
 
  701:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -7138,7 +7138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  755:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** }
  756:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
  757:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** #if defined (PWR_CR1_SRAM5PD)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 120
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 120
 
 
  758:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
@@ -7198,7 +7198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  812:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM1PDS10      LL_PWR_SetSRAM1StopRetention_4_12\n
  813:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM1PDS11      LL_PWR_SetSRAM1StopRetention_4_12\n
  814:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM1PDS12      LL_PWR_SetSRAM1StopRetention_4_12
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 121
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 121
 
 
  815:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @param  SRAM1PageRetention : This parameter can be one of the following values:
@@ -7258,7 +7258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  869:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         Or a combination of the following values:
  870:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM1_STOP_PAGE4_RETENTION
  871:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM1_STOP_PAGE5_RETENTION
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 122
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 122
 
 
  872:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM1_STOP_PAGE6_RETENTION
@@ -7318,7 +7318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  926:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM3PDS8       LL_PWR_SetSRAM3StopRetention_1_8
  927:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @param  SRAM3PageRetention : This parameter can be one of the following values:
  928:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM3_STOP_NO_RETENTION
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 123
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 123
 
 
  929:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM3_STOP_1_8_RETENTION
@@ -7378,7 +7378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  983:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM3_STOP_1_8_RETENTION
  984:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *                      Or can be a combination of the following values:
  985:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM3_STOP_PAGE1_RETENTION
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 124
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 124
 
 
  986:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM3_STOP_PAGE2_RETENTION
@@ -7438,7 +7438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1040:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM4_STOP_NO_RETENTION
 1041:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_SRAM4_STOP_FULL_RETENTION
 1042:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 125
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 125
 
 
 1043:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** __STATIC_INLINE uint32_t LL_PWR_GetSRAM4StopRetention(void)
@@ -7498,7 +7498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1097:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM5PDS8       LL_PWR_GetSRAM5StopRetention\n
 1098:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM5PDS9       LL_PWR_GetSRAM5StopRetention\n
 1099:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM5PDS10      LL_PWR_GetSRAM5StopRetention\n
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 126
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 126
 
 
 1100:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM5PDS11      LL_PWR_GetSRAM5StopRetention\n
@@ -7558,7 +7558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1154:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @brief  Set the DCACHE1 SRAM page retention in Stop mode.
 1155:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    DC1RAMPDS       LL_PWR_SetDCache1RAMStopRetention\n
 1156:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @param  DCache1PageRetention : This parameter can be one of the following values:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 127
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 127
 
 
 1157:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_DCACHE1RAM_STOP_NO_RETENTION
@@ -7618,7 +7618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1211:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_DMA2DRAM_STOP_NO_RETENTION
 1212:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   *         @arg @ref LL_PWR_DMA2DRAM_STOP_FULL_RETENTION
 1213:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 128
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 128
 
 
 1214:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -7678,7 +7678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1268:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** {
 1269:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   MODIFY_REG(PWR->CR2, LL_PWR_PKARAM_STOP_FULL_RETENTION, ((~PKARAMPageRetention) & LL_PWR_PKARAM_S
 1270:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 129
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 129
 
 
 1271:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
@@ -7738,7 +7738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1325:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** }
 1326:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
 1327:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 130
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 130
 
 
 1328:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @brief  Get the DSI SRAM page retention in Stop mode.
@@ -7798,7 +7798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1382:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @brief  Disable the SRAM4 memory fast wakeup from Stop mode (Stop 0, 1, 2).
 1383:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR2    SRAM4FWU       LL_PWR_DisableSRAM4FastWakeUp
 1384:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 131
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 131
 
 
 1385:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   */
@@ -7858,7 +7858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1439:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
 1440:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
 1441:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @brief  Get the VCore regulator supply.
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 132
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 132
 
 
 1442:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll CR3    REGSEL       LL_PWR_GetRegulatorSupply
@@ -7918,7 +7918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1496:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** 
 1497:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h **** /**
 1498:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @brief  Get the regulator supply output voltage.
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 133
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 133
 
 
 1499:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_pwr.h ****   * @rmtoll VOSR          VOS           LL_PWR_GetRegulVoltageScaling
@@ -7978,7 +7978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  422              		.loc 4 1508 10 view .LVU113
  423 0024 03F44033 		and	r3, r3, #196608
  424              	.LBE81:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 134
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 134
 
 
  425              	.LBE80:
@@ -8038,7 +8038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  303:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       {
  464              		.loc 1 303 15 is_stmt 0 view .LVU129
  465 0056 344B     		ldr	r3, .L58+28
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 135
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 135
 
 
  466 0058 9842     		cmp	r0, r3
@@ -8098,7 +8098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  506              	.L56:
  348:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       {
  507              		.loc 1 348 7 is_stmt 1 view .LVU144
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 136
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 136
 
 
  348:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       {
@@ -8158,7 +8158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   10:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * All rights reserved.
   11:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *
   12:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * This software is licensed under terms that can be found in the LICENSE file
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 137
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 137
 
 
   13:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * in the root directory of this software component.
@@ -8218,7 +8218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
   67:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
   68:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_FLASH_PDKEY2_1                 0x40516273U /*!< Flash Bank2 power down key1 */
   69:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_FLASH_PDKEY2_2                 0xAFBFCFDFU /*!< Flash Bank2 power down key2: used with F
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 138
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 138
 
 
   70:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****                                                        to unlock the RUN_PD bit in FLASH_ACR */
@@ -8278,7 +8278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  124:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @{
  125:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
  126:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 139
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 139
 
 
  127:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /** @defgroup SYSTEM_LL_EC_FASTMODEPLUS SYSCFG FASTMODEPLUS
@@ -8338,7 +8338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  181:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @{
  182:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
  183:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_DBGMCU_APB1_GRP1_TIM2_STOP      DBGMCU_APB1FZR1_DBG_TIM2_STOP   /*!< The counter clock o
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 140
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 140
 
 
  184:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_DBGMCU_APB1_GRP1_TIM3_STOP      DBGMCU_APB1FZR1_DBG_TIM3_STOP   /*!< The counter clock o
@@ -8398,7 +8398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  238:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_DBGMCU_AHB1_GRP1_GPDMA4_STOP    DBGMCU_AHB1FZR_DBG_GPDMA4_STOP    /*!< The counter clock
  239:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_DBGMCU_AHB1_GRP1_GPDMA5_STOP    DBGMCU_AHB1FZR_DBG_GPDMA5_STOP    /*!< The counter clock
  240:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_DBGMCU_AHB1_GRP1_GPDMA6_STOP    DBGMCU_AHB1FZR_DBG_GPDMA6_STOP    /*!< The counter clock
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 141
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 141
 
 
  241:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_DBGMCU_AHB1_GRP1_GPDMA7_STOP    DBGMCU_AHB1FZR_DBG_GPDMA7_STOP    /*!< The counter clock
@@ -8458,7 +8458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  295:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_FLASH_LATENCY_14                FLASH_ACR_LATENCY_14WS  /*!< FLASH fourteen wait states 
  296:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** #define LL_FLASH_LATENCY_15                FLASH_ACR_LATENCY_15WS  /*!< FLASH fifteen wait states *
  297:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 142
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 142
 
 
  298:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @}
@@ -8518,7 +8518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  352:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval None
  353:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
  354:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** __STATIC_INLINE void LL_SYSCFG_EnableAnalogBooster(void)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 143
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 143
 
 
  355:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
@@ -8578,7 +8578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  409:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Enable Floating Point Unit Invalid operation Interrupt
  410:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll SYSCFG_FPUIMR FPU_IE_0      LL_SYSCFG_EnableIT_FPU_IOC
  411:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 144
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 144
 
 
  412:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
@@ -8638,7 +8638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  466:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
  467:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
  468:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 145
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 145
 
 
  469:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Disable Floating Point Unit Invalid operation Interrupt
@@ -8698,7 +8698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  523:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** __STATIC_INLINE void LL_SYSCFG_DisableIT_FPU_IXC(void)
  524:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
  525:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   CLEAR_BIT(SYSCFG->FPUIMR, SYSCFG_FPUIMR_FPU_IE_5);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 146
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 146
 
 
  526:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
@@ -8758,7 +8758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  580:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll SYSCFG_FPUIMR FPU_IE_5      LL_SYSCFG_IsEnabledIT_FPU_IXC
  581:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval State of bit (1 or 0).
  582:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 147
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 147
 
 
  583:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** __STATIC_INLINE uint32_t LL_SYSCFG_IsEnabledIT_FPU_IXC(void)
@@ -8818,7 +8818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  637:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         SECCFGR     FPUSEC        LL_SYSCFG_ConfigSecure
  638:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @param  Configuration This parameter shall be the full combination
  639:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         of the following values:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 148
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 148
 
 
  640:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_SYSCFG_CLOCK_SEC or LL_SYSCFG_CLOCK_NSEC
@@ -8878,7 +8878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  694:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
  695:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** __STATIC_INLINE uint32_t LL_SYSCFG_GetNMOSVddCompensationValue(void)
  696:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 149
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 149
 
 
  697:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   return (uint32_t)(READ_BIT(SYSCFG->CCVR, SYSCFG_CCVR_NCV1));
@@ -8938,7 +8938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  751:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
  752:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   MODIFY_REG(SYSCFG->CCCR, SYSCFG_CCCR_PCC1, PMOSCode << SYSCFG_CCCR_PCC1_Pos);
  753:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 150
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 150
 
 
  754:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
@@ -8998,7 +8998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  808:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** __STATIC_INLINE uint32_t LL_SYSCFG_GetPMOSVddHSPICompensationCode(void)
  809:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
  810:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   return (uint32_t)(READ_BIT(SYSCFG->CCCR, SYSCFG_CCCR_PCC3));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 151
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 151
 
 
  811:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
@@ -9058,7 +9058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  865:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @param  NMOSCode NMOS compensation code
  866:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         This code is applied to the NMOS compensation cell when the CS3 bit of the
  867:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         SYSCFG_CCCSR is set
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 152
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 152
 
 
  868:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval None
@@ -9118,7 +9118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  922:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
  923:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Disable the Compensation Cell of GPIO supplied by VDD
  924:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll CCCSR   EN1    LL_SYSCFG_DisableVddCompensationCell
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 153
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 153
 
 
  925:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @note   The Vdd compensation cell can be used only when the device supply
@@ -9178,7 +9178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  979:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
  980:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Check if the Compensation Cell of HSPI IO supplied by VDD is enable
  981:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll CCCSR   EN3   LL_SYSCFG_IsEnabled_VddHSPICompensationCell
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 154
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 154
 
 
  982:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval State of bit (1 or 0).
@@ -9238,7 +9238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1036:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
 1037:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Set the compensation cell code selection of GPIO supplied by VDDIO2
 1038:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll CCCSR   CS2    LL_SYSCFG_SetVddIO2CellCompensationCode
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 155
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 155
 
 
 1039:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @param  CompCode: Selects the code to be applied for the VddIO compensation cell
@@ -9298,7 +9298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1093:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Get the compensation cell code selection of HSPI IO supplied by VDD
 1094:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll CCCSR   CS3    LL_SYSCFG_GetVddHSPICellCompensationCode
 1095:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval Returned value can be one of the following values:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 156
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 156
 
 
 1096:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *   @arg LL_SYSCFG_VDDHSPI_CELL_CODE : Selected Code is from the cell (available in the SYSCFG_CC
@@ -9358,7 +9358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1150:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
 1151:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   CLEAR_BIT(DBGMCU->CR, DBGMCU_CR_DBG_STOP);
 1152:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 157
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 157
 
 
 1153:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
@@ -9418,7 +9418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1207:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Set Trace pin assignment control
 1208:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @rmtoll DBGMCU_CR    TRACE_IOEN    LL_DBGMCU_SetTracePinAssignment\n
 1209:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         DBGMCU_CR    TRACE_MODE    LL_DBGMCU_SetTracePinAssignment
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 158
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 158
 
 
 1210:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @param  PinAssignment This parameter can be one of the following values:
@@ -9478,7 +9478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1264:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP2_I2C4_STOP
 1265:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP2_LPTIM2_STOP
 1266:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @retval None
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 159
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 159
 
 
 1267:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   */
@@ -9538,7 +9538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1321:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
 1322:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
 1323:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 160
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 160
 
 
 1324:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Unfreeze APB2 peripherals
@@ -9598,7 +9598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1378:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_DBGMCU_AHB1_GRP1_GPDMA3_STOP
 1379:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_DBGMCU_AHB1_GRP1_GPDMA4_STOP
 1380:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_DBGMCU_AHB1_GRP1_GPDMA5_STOP
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 161
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 161
 
 
 1381:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   *         @arg @ref LL_DBGMCU_AHB1_GRP1_GPDMA6_STOP
@@ -9658,7 +9658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1435:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** __STATIC_INLINE void LL_DBGMCU_AHB3_GRP1_FreezePeriph(uint32_t Periphs)
 1436:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
 1437:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   SET_BIT(DBGMCU->AHB3FZR, Periphs);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 162
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 162
 
 
 1438:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
@@ -9718,7 +9718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1492:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
 1493:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
 1494:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 163
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 163
 
 
 1495:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   * @brief  Disable high impedance (VREF+pin is internally connected to the voltage reference buffe
@@ -9778,7 +9778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1549:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** {
 1550:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h ****   return (uint32_t)(READ_BIT(VREFBUF->CCR, VREFBUF_CCR_TRIM));
 1551:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 164
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 164
 
 
 1552:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_system.h **** 
@@ -9838,7 +9838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  551              		.loc 5 1596 3 is_stmt 0 view .LVU158
  552              	.LBE83:
  553              	.LBE82:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 165
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 165
 
 
  403:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     do
@@ -9898,7 +9898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  576              		.loc 1 408 14 is_stmt 0 discriminator 2 view .LVU169
  577 00b6 013A     		subs	r2, r2, #1
  578              	.LVL35:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 166
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 166
 
 
  409:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
@@ -9958,7 +9958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  620 00de DFE7     		b	.L31
  621              	.L44:
  333:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 167
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 167
 
 
  622              		.loc 1 333 17 view .LVU183
@@ -10018,7 +10018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  665              		.loc 1 283 12 view .LVU194
  666 0106 7047     		bx	lr
  667              	.LVL42:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 168
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 168
 
 
  668              	.L52:
@@ -10078,7 +10078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  709              		.loc 1 750 1 is_stmt 0 view .LVU198
  710 0000 70B5     		push	{r4, r5, r6, lr}
  711              		.cfi_def_cfa_offset 16
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 169
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 169
 
 
  712              		.cfi_offset 4, -16
@@ -10138,7 +10138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  772:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     /* Enable PLL1 */
  773:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     LL_RCC_PLL1_Enable();
  744              		.loc 1 773 5 is_stmt 1 view .LVU212
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 170
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 170
 
 
  745              	.LBB86:
@@ -10198,7 +10198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  775:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     while (LL_RCC_PLL1_IsReady() != 1U)
  787              		.loc 1 775 34 view .LVU225
  788 003e 012B     		cmp	r3, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 171
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 171
 
 
  789 0040 06D0     		beq	.L71
@@ -10258,7 +10258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  827              	.LBE93:
  828              	.LBE92:
  782:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****     LL_RCC_SetSysClkSource(LL_RCC_SYS_CLKSOURCE_PLL1);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 172
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 172
 
 
  829              		.loc 1 782 5 is_stmt 1 view .LVU238
@@ -10318,7 +10318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  866              	.LBB99:
 2536:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
  867              		.loc 2 2536 3 view .LVU251
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 173
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 173
 
 
  868 0074 124B     		ldr	r3, .L74+8
@@ -10378,7 +10378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  911              	.LVL64:
  912              	.L62:
 2568:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 174
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 174
 
 
  913              		.loc 2 2568 3 view .LVU263
@@ -10438,7 +10438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  946 00b0 2846     		mov	r0, r5
  947 00b2 FFF7FEFF 		bl	LL_SetSystemCoreClock
  948              	.LVL69:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 175
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 175
 
 
  949 00b6 F4E7     		b	.L67
@@ -10498,7 +10498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 2165:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
  996              		.loc 2 2165 26 view .LVU284
  997              	.LBB105:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 176
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 176
 
 
 2167:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
@@ -10558,7 +10558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1042              	.L79:
  451:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       {
  1043              		.loc 1 451 7 is_stmt 0 view .LVU295
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 177
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 177
 
 
  1044 0050 B3F1504F 		cmp	r3, #-805306368
@@ -10618,7 +10618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1091              	.LVL76:
  500:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****                                             UTILS_PLLInitStruct);
  1092              		.loc 1 500 7 view .LVU303
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 178
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 178
 
 
  1093              	.LBB110:
@@ -10678,7 +10678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1134              	.LBI114:
 1980:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** {
  1135              		.loc 2 1980 22 view .LVU317
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 179
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 179
 
 
  1136              	.LBB115:
@@ -10738,7 +10738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1177              	.L86:
  1178              	.LBE117:
  1179              	.LBE116:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 180
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 180
 
 
  514:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****                                    UTILS_PLLInitStruct->PLLR);
@@ -10798,7 +10798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  451:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       {
  1223              		.loc 1 451 7 view .LVU342
  1224 0118 0120     		movs	r0, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 181
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 181
 
 
  1225 011a F4E7     		b	.L77
@@ -10858,7 +10858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1275 0004 0E46     		mov	r6, r1
  551:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   uint32_t pllfreq;
  1276              		.loc 1 551 3 is_stmt 1 view .LVU349
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 182
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 182
 
 
  552:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
@@ -10918,7 +10918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1316              		.loc 2 1559 1 is_stmt 0 view .LVU364
  1317 002a 01E0     		b	.L114
  1318              	.L113:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 183
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 183
 
 
  1319              	.LBE121:
@@ -10978,7 +10978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1360              		.loc 1 583 3 is_stmt 1 view .LVU377
  584:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c **** 
  1361              		.loc 1 584 1 is_stmt 0 view .LVU378
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 184
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 184
 
 
  1362 0052 70BD     		pop	{r4, r5, r6, pc}
@@ -11038,7 +11038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1409 000c FFF7FEFF 		bl	UTILS_PLL_IsBusy
  1410              	.LVL96:
  619:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 185
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 185
 
 
  1411              		.loc 1 619 6 view .LVU388
@@ -11098,7 +11098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  638:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_utils.c ****       while (LL_RCC_HSE_IsReady() != 1U)
  1453              		.loc 1 638 7 view .LVU401
  1454              	.LBB128:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 186
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 186
 
 
  1455              	.LBI128:
@@ -11158,7 +11158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
 1483:Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_rcc.h **** }
  1496              		.loc 2 1483 12 is_stmt 0 discriminator 1 view .LVU415
  1497 0052 0A4A     		ldr	r2, .L129
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 187
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 187
 
 
  1498 0054 1468     		ldr	r4, [r2]
@@ -11218,45 +11218,45 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 1
  1544              		.file 9 "Drivers/CMSIS/Device/ST/STM32U5xx/Include/system_stm32u5xx.h"
  1545              		.file 10 "Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u575xx.h"
  1546              		.file 11 "Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u5xx.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 188
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 188
 
 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s 			page 189
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s 			page 189
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32u5xx_ll_utils.c
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:22     .text.LL_RCC_PLL1_ConfigDomain_SYS:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:27     .text.LL_RCC_PLL1_ConfigDomain_SYS:0000000000000000 LL_RCC_PLL1_ConfigDomain_SYS
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:80     .text.LL_RCC_PLL1_ConfigDomain_SYS:0000000000000030 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:86     .text.UTILS_GetPLLOutputFrequency:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:91     .text.UTILS_GetPLLOutputFrequency:0000000000000000 UTILS_GetPLLOutputFrequency
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:132    .text.UTILS_PLL_IsBusy:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:137    .text.UTILS_PLL_IsBusy:0000000000000000 UTILS_PLL_IsBusy
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:211    .text.UTILS_PLL_IsBusy:000000000000002c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:216    .text.LL_Init1msTick:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:222    .text.LL_Init1msTick:0000000000000000 LL_Init1msTick
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:263    .text.LL_Init1msTick:000000000000001c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:268    .text.LL_mDelay:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:274    .text.LL_mDelay:0000000000000000 LL_mDelay
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:330    .text.LL_SetSystemCoreClock:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:336    .text.LL_SetSystemCoreClock:0000000000000000 LL_SetSystemCoreClock
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:353    .text.LL_SetSystemCoreClock:0000000000000008 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:358    .text.LL_SetFlashLatency:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:364    .text.LL_SetFlashLatency:0000000000000000 LL_SetFlashLatency
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:677    .text.LL_SetFlashLatency:000000000000010c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:697    .text.UTILS_EnablePLLAndSwitchSystem:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:702    .text.UTILS_EnablePLLAndSwitchSystem:0000000000000000 UTILS_EnablePLLAndSwitchSystem
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:953    .text.UTILS_EnablePLLAndSwitchSystem:00000000000000b8 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:960    .text.LL_PLL_ConfigSystemClock_MSI:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:966    .text.LL_PLL_ConfigSystemClock_MSI:0000000000000000 LL_PLL_ConfigSystemClock_MSI
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1248   .text.LL_PLL_ConfigSystemClock_MSI:0000000000000130 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1254   .text.LL_PLL_ConfigSystemClock_HSI:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1260   .text.LL_PLL_ConfigSystemClock_HSI:0000000000000000 LL_PLL_ConfigSystemClock_HSI
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1371   .text.LL_PLL_ConfigSystemClock_HSI:0000000000000058 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1377   .text.LL_PLL_ConfigSystemClock_HSE:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1383   .text.LL_PLL_ConfigSystemClock_HSE:0000000000000000 LL_PLL_ConfigSystemClock_HSE
-C:\Users\Yamaan\AppData\Local\Temp\ccYFBqbo.s:1535   .text.LL_PLL_ConfigSystemClock_HSE:000000000000007c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:22     .text.LL_RCC_PLL1_ConfigDomain_SYS:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:27     .text.LL_RCC_PLL1_ConfigDomain_SYS:0000000000000000 LL_RCC_PLL1_ConfigDomain_SYS
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:80     .text.LL_RCC_PLL1_ConfigDomain_SYS:0000000000000030 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:86     .text.UTILS_GetPLLOutputFrequency:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:91     .text.UTILS_GetPLLOutputFrequency:0000000000000000 UTILS_GetPLLOutputFrequency
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:132    .text.UTILS_PLL_IsBusy:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:137    .text.UTILS_PLL_IsBusy:0000000000000000 UTILS_PLL_IsBusy
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:211    .text.UTILS_PLL_IsBusy:000000000000002c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:216    .text.LL_Init1msTick:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:222    .text.LL_Init1msTick:0000000000000000 LL_Init1msTick
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:263    .text.LL_Init1msTick:000000000000001c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:268    .text.LL_mDelay:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:274    .text.LL_mDelay:0000000000000000 LL_mDelay
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:330    .text.LL_SetSystemCoreClock:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:336    .text.LL_SetSystemCoreClock:0000000000000000 LL_SetSystemCoreClock
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:353    .text.LL_SetSystemCoreClock:0000000000000008 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:358    .text.LL_SetFlashLatency:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:364    .text.LL_SetFlashLatency:0000000000000000 LL_SetFlashLatency
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:677    .text.LL_SetFlashLatency:000000000000010c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:697    .text.UTILS_EnablePLLAndSwitchSystem:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:702    .text.UTILS_EnablePLLAndSwitchSystem:0000000000000000 UTILS_EnablePLLAndSwitchSystem
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:953    .text.UTILS_EnablePLLAndSwitchSystem:00000000000000b8 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:960    .text.LL_PLL_ConfigSystemClock_MSI:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:966    .text.LL_PLL_ConfigSystemClock_MSI:0000000000000000 LL_PLL_ConfigSystemClock_MSI
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1248   .text.LL_PLL_ConfigSystemClock_MSI:0000000000000130 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1254   .text.LL_PLL_ConfigSystemClock_HSI:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1260   .text.LL_PLL_ConfigSystemClock_HSI:0000000000000000 LL_PLL_ConfigSystemClock_HSI
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1371   .text.LL_PLL_ConfigSystemClock_HSI:0000000000000058 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1377   .text.LL_PLL_ConfigSystemClock_HSE:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1383   .text.LL_PLL_ConfigSystemClock_HSE:0000000000000000 LL_PLL_ConfigSystemClock_HSE
+C:\Users\Yamaan\AppData\Local\Temp\ccJqvOoC.s:1535   .text.LL_PLL_ConfigSystemClock_HSE:000000000000007c $d
 
 UNDEFINED SYMBOLS
 SystemCoreClock

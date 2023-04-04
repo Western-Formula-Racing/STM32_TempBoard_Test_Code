@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 1
 
 
    1              		.cpu cortex-m33
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
   27:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
   28:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /** @addtogroup STM32U5xx_HAL_Driver
   29:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @{
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 2
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 2
 
 
   30:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
   84:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_USART2CLKSOURCE_SYSCLK) || \
   85:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_USART2CLKSOURCE_HSI) || \
   86:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_USART2CLKSOURCE_LSE))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 3
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 3
 
 
   87:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  141:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_I2C4CLKSOURCE_SYSCLK)|| \
  142:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_I2C4CLKSOURCE_HSI)|| \
  143:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_I2C4CLKSOURCE_MSIK))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 4
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 4
 
 
  144:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  198:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** #define IS_RCC_SDMMCCLKSOURCE(__SOURCE__)  \
  199:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   (((__SOURCE__) == RCC_SDMMCCLKSOURCE_CLK48) || \
  200:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_SDMMCCLKSOURCE_PLL1))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 5
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 5
 
 
  201:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  255:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_SPI1CLKSOURCE_SYSCLK) || \
  256:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_SPI1CLKSOURCE_HSI)|| \
  257:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****    ((__SOURCE__) == RCC_SPI1CLKSOURCE_MSIK))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 6
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 6
 
 
  258:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  312:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** #define IS_RCC_CRS_SYNC_DIV(__DIV__)       (((__DIV__) == RCC_CRS_SYNC_DIV1) || ((__DIV__) == RCC_C
  313:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                             ((__DIV__) == RCC_CRS_SYNC_DIV4) || ((__DIV__) == RCC_C
  314:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                             ((__DIV__) == RCC_CRS_SYNC_DIV16) || ((__DIV__) == RCC_
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 7
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 7
 
 
  315:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                             ((__DIV__) == RCC_CRS_SYNC_DIV64) || ((__DIV__) == RCC_
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  369:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** @endverbatim
  370:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @{
  371:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 8
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 8
 
 
  372:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /**
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  426:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   assert_param(IS_RCC_PERIPHCLOCK(pPeriphClkInit->PeriphClockSelection));
  427:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  428:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /*-------------------------- USART1 clock source configuration -------------------*/
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 9
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 9
 
 
  429:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   if (((pPeriphClkInit->PeriphClockSelection) & RCC_PERIPHCLK_USART1) == RCC_PERIPHCLK_USART1)
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  483:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  484:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Configure the USART6 clock source */
  485:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     __HAL_RCC_USART6_CONFIG(pPeriphClkInit->Usart6ClockSelection);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 10
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 10
 
 
  486:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  540:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /*-------------------------- I2C5 clock source configuration ---------------------*/
  541:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   if (((pPeriphClkInit->PeriphClockSelection) & RCC_PERIPHCLK_I2C5) == RCC_PERIPHCLK_I2C5)
  542:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 11
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 11
 
 
  543:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Check the parameters */
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  597:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  598:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_SAI1CLKSOURCE_PLL2:  /* PLL2 is used as clock source for SAI1*/
  599:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* PLL2 P input clock, parameters M, N & P configuration and clock output (PLL2ClockOut) */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 12
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 12
 
 
  600:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         ret = RCCEx_PLL2_Config(&(pPeriphClkInit->PLL2));
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  654:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  655:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_SAI2CLKSOURCE_PLL3:  /* PLL3 is used as clock source for SAI2*/
  656:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* PLL3 P input clock, parameters M, N & P configuration and clock output (PLL3ClockOut) */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 13
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 13
 
 
  657:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         ret = RCCEx_PLL3_Config(&(pPeriphClkInit->PLL3));
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  711:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Configure the ADC1 interface clock source */
  712:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       __HAL_RCC_ADCDAC_CONFIG(pPeriphClkInit->AdcDacClockSelection);
  713:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 14
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 14
 
 
  714:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  768:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         __HAL_RCC_PLLCLKOUT_ENABLE(RCC_PLL1_DIVP);
  769:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  770:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_ADF1CLKSOURCE_PLL3:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 15
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 15
 
 
  771:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* PLL3 Q input clock, parameters M, N & Q configuration and clock output (PLL3ClockOut) */
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  825:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Reset the Backup domain only if the RTC Clock source selection is modified from default */
  826:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       tmpregister = READ_BIT(RCC->BDCR, RCC_BDCR_RTCSEL);
  827:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 16
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 16
 
 
  828:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       if ((tmpregister != RCC_RTCCLKSOURCE_NO_CLK) && (tmpregister != pPeriphClkInit->RTCClockSelec
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  882:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  883:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Check the parameters */
  884:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     assert_param(IS_RCC_ICLKCLKSOURCE(pPeriphClkInit->IclkClockSelection));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 17
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 17
 
 
  885:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  939:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     if (ret == HAL_OK)
  940:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  941:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Set the source of RNG clock*/
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 18
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 18
 
 
  942:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       __HAL_RCC_RNG_CONFIG(pPeriphClkInit->RngClockSelection);
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  996:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   if (((pPeriphClkInit->PeriphClockSelection) & RCC_PERIPHCLK_SPI3) == RCC_PERIPHCLK_SPI3)
  997:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  998:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Check the parameters */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 19
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 19
 
 
  999:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     assert_param(IS_RCC_SPI3CLKSOURCE(pPeriphClkInit->Spi3ClockSelection));
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1053:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_HSPICLKSOURCE_PLL2:  /* PLL2 is used as clock source for HSPI kernel clock*/
 1054:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* PLL2 input clock, parameters M, N & Q configuration and clock output (PLL2ClockOut) */
 1055:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         ret = RCCEx_PLL2_Config(&(pPeriphClkInit->PLL2));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 20
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 20
 
 
 1056:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* HSPI kernel clock source config set later after clock selection check */
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1110:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       __HAL_RCC_FDCAN1_CONFIG(pPeriphClkInit->Fdcan1ClockSelection);
 1111:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 1112:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 21
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 21
 
 
 1113:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1167:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 1168:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
 1169:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 22
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 22
 
 
 1170:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** #endif /* defined(LTDC) */
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1224:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 1225:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       default:
 1226:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         ret = HAL_ERROR;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 23
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 23
 
 
 1227:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1281:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                          RCC_PERIPHCLK_ICLK | RCC_PERIPHCLK_SDMMC | RCC_PERIPHCLK_R
 1282:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                          RCC_PERIPHCLK_I2C4 | RCC_PERIPHCLK_SPI1 | RCC_PERIPHCLK_SP
 1283:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                          RCC_PERIPHCLK_SPI3 | RCC_PERIPHCLK_OSPI | RCC_PERIPHCLK_FD
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 24
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 24
 
 
 1284:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                          RCC_PERIPHCLK_DAC1 | RCC_PERIPHCLK_HSPI | RCC_PERIPHCLK_US
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1338:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 1339:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** #if defined(USART6)
 1340:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /* Get the UART6 clock source ---------------------------------------------*/
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 25
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 25
 
 
 1341:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->Usart6ClockSelection = __HAL_RCC_GET_USART6_SOURCE();
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1395:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 1396:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /* Get the SDMMC clock source ----------------------------------------------*/
 1397:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->SdmmcClockSelection = __HAL_RCC_GET_SDMMC_SOURCE();
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 26
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 26
 
 
 1398:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1452:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *         baud-rate for the communication peripherals or configure other parameters.
 1453:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *
 1454:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @note   Each time PLL1CLK changes, this function must be called to update the
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 27
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 27
 
 
 1455:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *         right PLL1CLK value. Otherwise, any configuration based on this function will be incorr
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1509:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     if (__HAL_RCC_GET_PLLCLKOUT_CONFIG(RCC_PLL1_DIVQ) != 0U)
 1510:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
 1511:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       PLL1_Clocks->PLL1_Q_Frequency = (uint32_t)(float_t)(pll1vco / ((float_t)(uint32_t)((RCC->PLL1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 28
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 28
 
 
 1512:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      RCC_PLL1DIVR_PLL1Q) >> RCC_PLL
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1566:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****      PLL2xCLK = PLL2_VCO / PLL2x */
 1567:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pll2n = (RCC->PLL2DIVR & RCC_PLL2DIVR_PLL2N);
 1568:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pll2source = (RCC->PLL2CFGR & RCC_PLL2CFGR_PLL2SRC);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 29
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 29
 
 
 1569:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pll2m = ((RCC->PLL2CFGR & RCC_PLL2CFGR_PLL2M) >> RCC_PLL2CFGR_PLL2M_Pos) + 1U;
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1623:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 1624:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else
 1625:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 30
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 30
 
 
 1626:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       PLL2_Clocks->PLL2_R_Frequency = 0U;
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1680:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
 1681:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_PLLSOURCE_MSI:  /* MSI used as PLL clock source */
 1682:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         pll3vco = ((float_t)MSIRangeTable[(__HAL_RCC_GET_MSI_RANGE() >> RCC_ICSCR1_MSISRANGE_Pos)] 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 31
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 31
 
 
 1683:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll3n + (fracn3 / (float_t)0x2000) + (float_t)1);
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1737:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** }
 1738:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 1739:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 32
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 32
 
 
 1740:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @brief  Return the peripheral clock frequency for peripherals
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1794:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Check if LSI is ready and if RTC clock selection is LSI */
 1795:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else if ((HAL_IS_BIT_SET(RCC->BDCR, RCC_BDCR_LSIRDY)) && (srcclk == RCC_RTCCLKSOURCE_LSI))
 1796:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 33
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 33
 
 
 1797:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       if (HAL_IS_BIT_SET(RCC->BDCR, RCC_BDCR_LSIPREDIV))
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1851:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         }
 1852:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         else
 1853:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 34
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 34
 
 
 1854:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****           frequency = 0U;
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1908:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         frequency = 0U;
 1909:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
 1910:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 35
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 35
 
 
 1911:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1965:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 1966:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       default :
 1967:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 36
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 36
 
 
 1968:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         frequency = 0U;
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2022:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else
 2023:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
 2024:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       frequency = 0U;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 37
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 37
 
 
 2025:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2079:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 2080:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
 2081:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   else if (PeriphClk == RCC_PERIPHCLK_USART3)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 38
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 38
 
 
 2082:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2136:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
 2137:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Get the current UART5 source */
 2138:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     srcclk = __HAL_RCC_GET_UART5_SOURCE();
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 39
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 39
 
 
 2139:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2193:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Get the current LPUART1 source */
 2194:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     srcclk = __HAL_RCC_GET_LPUART1_SOURCE();
 2195:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 40
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 40
 
 
 2196:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     if (srcclk == RCC_LPUART1CLKSOURCE_PCLK3)
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2250:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 2251:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Clock not enabled for ADC */
 2252:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 41
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 41
 
 
 2253:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2307:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         frequency = pll1_clocks.PLL1_P_Frequency;
 2308:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
 2309:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 42
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 42
 
 
 2310:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_ADF1CLKSOURCE_PLL3:
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2364:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   else if (PeriphClk == RCC_PERIPHCLK_I2C2)
 2365:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
 2366:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Get the current I2C2 source */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 43
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 43
 
 
 2367:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     srcclk = __HAL_RCC_GET_I2C2_SOURCE();
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2421:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       {
 2422:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         frequency = MSIRangeTable[(__HAL_RCC_GET_MSI_RANGE() >> RCC_ICSCR1_MSISRANGE_Pos)];
 2423:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 44
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 44
 
 
 2424:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       }
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2478:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
 2479:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       frequency = MSIRangeTable[(__HAL_RCC_GET_MSIK_RANGE() >> RCC_ICSCR1_MSIKRANGE_Pos)];
 2480:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 45
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 45
 
 
 2481:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Clock not enabled for I2C5 */
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2535:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       }
 2536:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 2537:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else if ((HAL_IS_BIT_SET(RCC->CR, RCC_CR_HSIRDY)) && (srcclk == RCC_LPTIM34CLKSOURCE_HSI))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 46
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 46
 
 
 2538:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2592:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       frequency = HAL_RCC_GetPCLK1Freq();
 2593:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 2594:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     else if ((HAL_IS_BIT_SET(RCC->BDCR, RCC_BDCR_LSIRDY)) && (srcclk == RCC_LPTIM2CLKSOURCE_LSI))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 47
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 47
 
 
 2595:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2649:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
 2650:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_SPI1CLKSOURCE_PCLK2:
 2651:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 48
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 48
 
 
 2652:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         frequency = HAL_RCC_GetPCLK2Freq();
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2706:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         {
 2707:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****           frequency = 0U;
 2708:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 49
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 49
 
 
 2709:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2763:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Get the current OSPI kernel source */
 2764:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     srcclk = __HAL_RCC_GET_OSPI_SOURCE();
 2765:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 50
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 50
 
 
 2766:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     switch (srcclk)
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2820:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
 2821:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_HSPICLKSOURCE_PLL3:
 2822:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 51
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 51
 
 
 2823:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         HAL_RCCEx_GetPLL3ClockFreq(&pll3_clocks);
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2877:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****  ===============================================================================
 2878:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     [..]
 2879:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     This subsection provides a set of functions allowing to control the
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 52
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 52
 
 
 2880:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     activation or deactivation of MSI PLL-mode, PLL2, PLL3, LSE CSS,
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2934:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Disable PLL2FRACN  */
 2935:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       __HAL_RCC_PLL2FRACN_DISABLE();
 2936:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 53
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 53
 
 
 2937:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Configure PLL  PLL2FRACN */
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2991:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       break;
 2992:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 2993:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 54
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 54
 
 
 2994:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3048:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Disable PLL3FRACN . */
 3049:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       __HAL_RCC_PLL3FRACN_DISABLE();
 3050:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 55
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 55
 
 
 3051:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       /* Configure PLL  PLL3FRACN */
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3105:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       break;
 3106:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 3107:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 56
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 56
 
 
 3108:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3162:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* This bit is used only if PLL mode is selected (MSIPLLEN = 1) */
 3163:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     SET_BIT(RCC->CR, RCC_CR_MSIPLLFAST);
 3164:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     status = HAL_OK;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 57
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 57
 
 
 3165:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3219:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 3220:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /**
 3221:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @brief  Configure the MSI range after standby mode.
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 58
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 58
 
 
 3222:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @note   After Standby its frequency can be selected between 3 possible values (1, 3.072 or 4 MH
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3276:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @retval none
 3277:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   */
 3278:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** __weak void HAL_RCCEx_LSECSS_Callback(void)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 59
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 59
 
 
 3279:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** {
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3333:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
 3334:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** }
 3335:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 60
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 60
 
 
 3336:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /**
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3390:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   CLEAR_BIT(RCC->CR, RCC_CR_MSIPLLEN);
 3391:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** }
 3392:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 61
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 61
 
 
 3393:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @}
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3447:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****               (++) Enable CRS interrupt (__HAL_RCC_CRS_ENABLE_IT)
 3448:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****               (++) Implement CRS status management in the following user callbacks called from
 3449:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                    HAL_RCCEx_CRS_IRQHandler():
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 62
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 62
 
 
 3450:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                    (+++) HAL_RCCEx_CRS_SyncOkCallback()
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3504:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 3505:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** /**
 3506:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @brief  Generate the software synchronization event
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 63
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 63
 
 
 3507:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   * @retval None
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3561:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   do
 3562:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
 3563:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     if (Timeout != HAL_MAX_DELAY)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 64
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 64
 
 
 3564:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3618:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
 3619:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 3620:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     /* Check CRS Expected SYNC flag  */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 65
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 65
 
 
 3621:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     if (__HAL_RCC_CRS_GET_FLAG(RCC_CRS_FLAG_ESYNC))
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3675:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       {
 3676:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         crserror |= RCC_CRS_SYNCERR;
 3677:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 66
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 66
 
 
 3678:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       if ((itflags & RCC_CRS_FLAG_SYNCMISS) != 0U)
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3732:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *         This parameter can be a combination of the following values:
 3733:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *           @arg @ref RCC_CRS_SYNCERR
 3734:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *           @arg @ref RCC_CRS_SYNCMISS
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 67
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 67
 
 
 3735:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   *           @arg @ref RCC_CRS_TRIMOVF
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3789:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         while (READ_BIT(RCC->CR, RCC_CR_MSISRDY) == 0U)
 3790:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         {
 3791:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****           if ((HAL_GetTick() - tickstart) > MSI_TIMEOUT_VALUE)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 68
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 68
 
 
 3792:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****           {
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3846:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       break;
 3847:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
 3848:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 69
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 69
 
 
 3849:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   return status;
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3903:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /* Configures PLL2 clock Fractional Part Of The Multiplication Factor */
 3904:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   __HAL_RCC_PLL2FRACN_CONFIG(pll2->PLL2FRACN);
 3905:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 70
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 70
 
 
 3906:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /* Enable PLL2FRACN  */
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3942:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   assert_param(IS_RCC_PLLR_VALUE(pll3->PLL3R));
   48              		.loc 1 3942 3 view .LVU8
 3943:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 71
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 71
 
 
 3944:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /* Disable  PLL3 */
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3965:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                         pll3->PLL3R);
 3966:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
 3967:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   /* Select PLL3 input reference frequency range: VCI */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 72
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 72
 
 
 3968:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   __HAL_RCC_PLL3_VCIRANGE(pll3->PLL3RGE);
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  103 004e 013A     		subs	r2, r2, #1
  104 0050 C2F30802 		ubfx	r2, r2, #0, #9
  105 0054 E968     		ldr	r1, [r5, #12]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 73
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 73
 
 
  106 0056 0139     		subs	r1, r1, #1
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3986:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  153              		.loc 1 3986 3 view .LVU33
 3986:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 74
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 74
 
 
  154              		.loc 1 3986 15 is_stmt 0 view .LVU34
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  200              	.LFB374:
 3861:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  201              		.loc 1 3861 1 is_stmt 1 view -0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 75
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 75
 
 
  202              		.cfi_startproc
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  240 001c 06D0     		beq	.L23
 3880:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  241              		.loc 1 3880 5 is_stmt 1 view .LVU62
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 76
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 76
 
 
 3880:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  288 006e 0906     		lsls	r1, r1, #24
  289 0070 01F0FE41 		and	r1, r1, #2130706432
  290 0074 0A43     		orrs	r2, r2, r1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 77
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 77
 
 
  291 0076 1043     		orrs	r0, r0, r2
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  333              		.loc 1 3916 10 is_stmt 0 view .LVU82
  334 00be 074B     		ldr	r3, .L25
  335 00c0 1B68     		ldr	r3, [r3]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 78
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 78
 
 
 3916:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3774:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  382              		.loc 1 3774 3 view .LVU93
  383              	.LVL17:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 79
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 79
 
 
 3776:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  425              		.loc 1 3789 9 is_stmt 1 view .LVU106
  426              	.L31:
 3789:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 80
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 80
 
 
  427              		.loc 1 3789 50 view .LVU107
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  467 005a 194A     		ldr	r2, .L52
  468 005c 1368     		ldr	r3, [r2]
  469 005e 43F48073 		orr	r3, r3, #256
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 81
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 81
 
 
  470 0062 1360     		str	r3, [r2]
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3824:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       {
  509              		.loc 1 3824 10 view .LVU137
  510 008a 13F4003F 		tst	r3, #131072
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 82
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 82
 
 
  511 008e 01D0     		beq	.L50
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  550 00b8 0320     		movs	r0, #3
  551 00ba A9E7     		b	.L30
  552              	.L51:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 83
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 83
 
 
 3774:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  598              		.loc 1 429 6 view .LVU163
  599 000a 13F0010F 		tst	r3, #1
  600 000e 08D0     		beq	.L55
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 84
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 84
 
 
  432:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  641              		.loc 1 459 23 is_stmt 0 view .LVU177
  642 0056 2368     		ldr	r3, [r4]
  459:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 85
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 85
 
 
  643              		.loc 1 459 6 view .LVU178
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  500:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  685              		.loc 1 500 3 view .LVU191
  500:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 86
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 86
 
 
  686              		.loc 1 500 23 is_stmt 0 view .LVU192
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  727 00ec 0B43     		orrs	r3, r3, r1
  728 00ee C2F8E830 		str	r3, [r2, #232]
  729              	.L63:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 87
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 87
 
 
  530:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  769 0130 D2F8E030 		ldr	r3, [r2, #224]
  770 0134 23F44023 		bic	r3, r3, #786432
  771 0138 E16F     		ldr	r1, [r4, #124]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 88
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 88
 
 
  772 013a 0B43     		orrs	r3, r3, r1
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  811              		.loc 1 606 15 view .LVU235
  812 0178 FFF7FEFF 		bl	RCCEx_PLL3_Config
  813              	.LVL40:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 89
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 89
 
 
  814 017c 0546     		mov	r5, r0
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  859              	.L71:
  600:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* SAI1 clock source config set later after clock selection check */
  860              		.loc 1 600 9 is_stmt 1 view .LVU245
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 90
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 90
 
 
  600:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         /* SAI1 clock source config set later after clock selection check */
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  641:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  900              		.loc 1 641 5 view .LVU261
  901 01e2 B3F5007F 		cmp	r3, #512
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 91
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 91
 
 
  902 01e6 45D0     		beq	.L76
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  946              	.L75:
  686:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  947              		.loc 1 686 3 view .LVU272
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 92
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 92
 
 
  686:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  988 0268 35       		.byte	(.L86-.L87)/2
  989 0269 30       		.byte	(.L89-.L87)/2
  990 026a 55       		.byte	(.L88-.L87)/2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 93
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 93
 
 
  991 026b 35       		.byte	(.L86-.L87)/2
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1034 0298 0126     		movs	r6, #1
  1035              	.LVL65:
  691:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 94
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 94
 
 
  1036              		.loc 1 691 5 view .LVU298
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  732:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       case RCC_MDF1CLKSOURCE_PLL3:
  1080              		.loc 1 732 9 view .LVU309
  1081              	.L86:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 95
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 95
 
 
  747:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1122 0316 FFF7FEFF 		bl	RCCEx_PLL3_Config
  1123              	.LVL73:
  1124 031a 0546     		mov	r5, r0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 96
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 96
 
 
  1125              	.LVL74:
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1166              		.loc 1 787 7 is_stmt 1 view .LVU336
  1167 033e 5C4A     		ldr	r2, .L162
  1168 0340 D2F8E830 		ldr	r3, [r2, #232]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 97
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 97
 
 
  1169 0344 23F4E023 		bic	r3, r3, #458752
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1208              		.loc 1 806 7 view .LVU351
  1209              	.LVL85:
  806:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 98
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 98
 
 
  1210              		.loc 1 806 21 is_stmt 0 view .LVU352
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1250              		.loc 1 826 21 is_stmt 0 view .LVU366
  1251 03ae 404B     		ldr	r3, .L162
  1252 03b0 D3F8F030 		ldr	r3, [r3, #240]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 99
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 99
 
 
  1253              	.LVL91:
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  856:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       {
  1292              		.loc 1 856 10 is_stmt 0 view .LVU382
  1293 03ee 002D     		cmp	r5, #0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 100
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 100
 
 
  1294 03f0 50D1     		bne	.L139
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1337 0422 AFE7     		b	.L96
  1338              	.LVL104:
  1339              	.L154:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 101
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 101
 
 
  843:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1378              		.loc 1 874 8 is_stmt 0 view .LVU409
  1379 044a B8F1000F 		cmp	r8, #0
  1380 044e 23D1     		bne	.L155
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 102
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 102
 
 
  1381              	.LVL111:
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1421 048e C2F8E030 		str	r3, [r2, #224]
  1422 0492 16E0     		b	.L105
  1423              	.LVL114:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 103
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 103
 
 
  1424              	.L139:
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  917:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  1468              		.loc 1 917 23 is_stmt 0 view .LVU434
  1469 04c2 2368     		ldr	r3, [r4]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 104
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 104
 
 
  917:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1510 050a 0FD0     		beq	.L113
  963:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  1511              		.loc 1 963 5 is_stmt 1 view .LVU449
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 105
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 105
 
 
  965:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1552 0556 23F44033 		bic	r3, r3, #196608
  1553 055a D4F8B810 		ldr	r1, [r4, #184]
  1554 055e 0B43     		orrs	r3, r3, r1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 106
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 106
 
 
  1555 0560 C2F8E030 		str	r3, [r2, #224]
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1593              		.loc 1 1021 5 is_stmt 1 view .LVU479
 1021:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  1594              		.loc 1 1021 8 is_stmt 0 view .LVU480
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 107
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 107
 
 
  1595 059c 002D     		cmp	r5, #0
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1636 05e0 23F40043 		bic	r3, r3, #32768
  1637 05e4 D4F8AC10 		ldr	r1, [r4, #172]
  1638 05e8 0B43     		orrs	r3, r3, r1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 108
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 108
 
 
  1639 05ea C2F8E830 		str	r3, [r2, #232]
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1683              	.L157:
  968:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  1684              		.loc 1 968 7 is_stmt 1 view .LVU504
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 109
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 109
 
 
  1685 061e 164A     		ldr	r2, .L164
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1728 0658 23F04073 		bic	r3, r3, #50331648
  1729 065c D4F88410 		ldr	r1, [r4, #132]
  1730 0660 0B43     		orrs	r3, r3, r1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 110
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 110
 
 
  1731 0662 C2F8E030 		str	r3, [r2, #224]
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1777              		.loc 1 1300 52 is_stmt 0 view .LVU525
  1778 000a 774B     		ldr	r3, .L167
  1779 000c DA6A     		ldr	r2, [r3, #44]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 111
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 111
 
 
 1300:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->PLL2.PLL2M = (uint32_t)((RCC->PLL2CFGR & RCC_PLL2CFGR_PLL2M) >> RCC_PLL2CFGR_PLL2
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1814              		.loc 1 1304 32 view .LVU545
  1815 0034 C2F30642 		ubfx	r2, r2, #16, #7
 1304:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->PLL2.PLL2R = (uint32_t)((RCC->PLL2DIVR & RCC_PLL2DIVR_PLL2R) >> RCC_PLL2DIVR_PLL2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 112
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 112
 
 
  1816              		.loc 1 1304 107 view .LVU546
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1312:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->PLL3.PLL3N = (uint32_t)((RCC->PLL3DIVR & RCC_PLL3DIVR_PLL3N) >> RCC_PLL3DIVR_PLL3
  1851              		.loc 1 1312 47 is_stmt 0 view .LVU566
  1852 005e 1A6B     		ldr	r2, [r3, #48]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 113
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 113
 
 
 1312:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->PLL3.PLL3N = (uint32_t)((RCC->PLL3DIVR & RCC_PLL3DIVR_PLL3N) >> RCC_PLL3DIVR_PLL3
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  1887              		.loc 1 1316 47 is_stmt 0 view .LVU586
  1888 0086 5A6C     		ldr	r2, [r3, #68]
 1316:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pPeriphClkInit->PLL3.PLL3RGE = (uint32_t)((RCC->PLL3CFGR & RCC_PLL3CFGR_PLL3RGE) >> RCC_PLL3CFGR_
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 114
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 114
 
 
  1889              		.loc 1 1316 32 view .LVU587
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1328:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  1925              		.loc 1 1328 40 view .LVU606
  1926 00bc 8265     		str	r2, [r0, #88]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 115
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 115
 
 
 1331:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -6898,7 +6898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1354:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  1963              		.loc 1 1354 3 is_stmt 1 view .LVU625
 1354:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 116
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 116
 
 
  1964              		.loc 1 1354 40 is_stmt 0 view .LVU626
@@ -6958,7 +6958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2000              		.loc 1 1382 40 is_stmt 0 view .LVU644
  2001 013c D3F8E820 		ldr	r2, [r3, #232]
  2002 0140 02F4E022 		and	r2, r2, #458752
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 117
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 117
 
 
 1382:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -7018,7 +7018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1400:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  2039              		.loc 1 1400 40 view .LVU663
  2040 018c C0F8A820 		str	r2, [r0, #168]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 118
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 118
 
 
 1403:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -7078,7 +7078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1421:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  2077              		.loc 1 1421 3 is_stmt 1 view .LVU682
 1421:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 119
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 119
 
 
  2078              		.loc 1 1421 39 is_stmt 0 view .LVU683
@@ -7138,7 +7138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2121              		.loc 1 1468 9 view .LVU696
  2122 0006 C2F3080E 		ubfx	lr, r2, #0, #9
  2123              	.LVL141:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 120
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 120
 
 
 1469:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   pll1m = ((RCC->PLL1CFGR & RCC_PLL1CFGR_PLL1M) >> RCC_PLL1CFGR_PLL1M_Pos) + 1U;
@@ -7198,7 +7198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2161 0036 00F0B980 		beq	.L172
  2162 003a 0129     		cmp	r1, #1
  2163 003c 00F08A80 		beq	.L188
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 121
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 121
 
 
 1493:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll1n + (fracn1 / (float_t)0x2000) + (float_t)1);
@@ -7258,7 +7258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2203 0088 66EEA77A 		vmul.f32	s15, s13, s15
  2204              	.LVL149:
 1495:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 122
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 122
 
 
  2205              		.loc 1 1495 9 is_stmt 1 discriminator 4 view .LVU729
@@ -7318,7 +7318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1500:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      RCC_PLL1DIVR_PLL1P) >> RCC_PLL
  2245              		.loc 1 1500 7 is_stmt 1 view .LVU744
 1500:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      RCC_PLL1DIVR_PLL1P) >> RCC_PLL
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 123
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 123
 
 
  2246              		.loc 1 1500 94 is_stmt 0 view .LVU745
@@ -7378,7 +7378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1511:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      RCC_PLL1DIVR_PLL1Q) >> RCC_PLL
  2285              		.loc 1 1511 39 view .LVU761
  2286 011c FCEEE66A 		vcvt.u32.f32	s13, s13
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 124
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 124
 
 
 1511:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      RCC_PLL1DIVR_PLL1Q) >> RCC_PLL
@@ -7438,7 +7438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2325 0158 13F4000F 		tst	r3, #8388608
  2326 015c 20D0     		beq	.L176
 1485:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll1n + (fracn1 / (float_t)0x2000) + (float_t)1);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 125
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 125
 
 
  2327              		.loc 1 1485 44 discriminator 1 view .LVU778
@@ -7498,7 +7498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1485:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll1n + (fracn1 / (float_t)0x2000) + (float_t)1);
  2368              		.loc 1 1485 70 discriminator 2 view .LVU792
  2369 01a6 C3F30333 		ubfx	r3, r3, #12, #4
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 126
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 126
 
 
  2370 01aa DBE7     		b	.L177
@@ -7558,7 +7558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1506:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  2411              		.loc 1 1506 7 is_stmt 1 view .LVU806
 1506:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 127
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 127
 
 
  2412              		.loc 1 1506 37 is_stmt 0 view .LVU807
@@ -7618,7 +7618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2459              		.loc 1 1560 3 view .LVU816
 1561:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   float_t fracn2;
  2460              		.loc 1 1561 3 view .LVU817
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 128
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 128
 
 
 1562:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   float_t pll2vco;
@@ -7678,7 +7678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2496 0026 07EE903A 		vmov	s15, r3	@ int
  2497 002a F8EE677A 		vcvt.f32.u32	s15, s15
  2498              	.LVL167:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 129
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 129
 
 
 1574:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
@@ -7738,7 +7738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1595:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  2539              		.loc 1 1595 47 discriminator 4 view .LVU851
  2540 0074 9FED656A 		vldr.32	s12, .L211+8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 130
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 130
 
 
  2541 0078 67EE867A 		vmul.f32	s15, s15, s12
@@ -7798,7 +7798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2581              	.LVL174:
 1581:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  2582              		.loc 1 1581 9 is_stmt 1 view .LVU866
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 131
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 131
 
 
  2583              	.L197:
@@ -7858,7 +7858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1610:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      RCC_PLL2DIVR_PLL2Q) >> RCC_PLL
  2621              		.loc 1 1610 79 view .LVU883
  2622 0104 C3F30643 		ubfx	r3, r3, #16, #7
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 132
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 132
 
 
  2623 0108 07EE103A 		vmov	s14, r3	@ int
@@ -7918,7 +7918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2661              	.L191:
 1635:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  2662              		.loc 1 1635 1 view .LVU900
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 133
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 133
 
 
  2663 0152 10BD     		pop	{r4, pc}
@@ -7978,7 +7978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2703 0196 77EE877A 		vadd.f32	s15, s15, s14
 1584:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll2n + (fracn2 / (float_t)0x2000) + (float_t)1);
  2704              		.loc 1 1584 17 discriminator 4 view .LVU915
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 134
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 134
 
 
  2705 019a 66EEA77A 		vmul.f32	s15, s13, s15
@@ -8038,7 +8038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2745              		.loc 1 1591 9 is_stmt 1 view .LVU929
  2746 01e4 6FE7     		b	.L197
  2747              	.LVL182:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 135
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 135
 
 
  2748              	.L200:
@@ -8098,7 +8098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2795              		.cfi_startproc
  2796              		@ args = 0, pretend = 0, frame = 0
  2797              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 136
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 136
 
 
 1653:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   uint32_t pll3source;
@@ -8158,7 +8158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2833              	.LVL188:
 1669:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                              RCC_PLL3FRACR_PLL3FRACN_Pos));
  2834              		.loc 1 1669 3 is_stmt 1 view .LVU958
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 137
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 137
 
 
 1669:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                              RCC_PLL3FRACR_PLL3FRACN_Pos));
@@ -8218,7 +8218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1692:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll3n + (fracn3 / (float_t)0x2000) + (float_t)1);
  2875              		.loc 1 1692 20 discriminator 4 view .LVU973
  2876 005c B8EE466A 		vcvt.f32.u32	s12, s12
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 138
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 138
 
 
 1692:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                   ((float_t)pll3n + (fracn3 / (float_t)0x2000) + (float_t)1);
@@ -8278,7 +8278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2916              		.loc 1 1678 68 view .LVU988
  2917 00ae 9FED576A 		vldr.32	s12, .L233+8
  2918 00b2 67EE867A 		vmul.f32	s15, s15, s12
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 139
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 139
 
 
  2919              	.LVL195:
@@ -8338,7 +8338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1708:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  2957              		.loc 1 1708 9 is_stmt 0 view .LVU1005
  2958 00f6 434B     		ldr	r3, .L233
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 140
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 140
 
 
  2959 00f8 1B6B     		ldr	r3, [r3, #48]
@@ -8398,7 +8398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  2997 013a B8EE477A 		vcvt.f32.u32	s14, s14
 1722:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                                      (float_t)1));
  2998              		.loc 1 1722 117 view .LVU1022
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 141
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 141
 
 
  2999 013e F7EE006A 		vmov.f32	s13, #1.0e+0
@@ -8458,7 +8458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3038              		.loc 1 1683 20 discriminator 4 view .LVU1037
  3039 017e 07EE10EA 		vmov	s14, lr	@ int
  3040 0182 B8EE477A 		vcvt.f32.u32	s14, s14
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 142
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 142
 
 
 1683:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
@@ -8518,7 +8518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3081 01d0 67EE867A 		vmul.f32	s15, s15, s12
  3082              	.LVL202:
 1687:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                                                            (fracn3 / (float_t)0x2000) + (float_t)1)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 143
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 143
 
 
  3083              		.loc 1 1687 116 view .LVU1052
@@ -8578,7 +8578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3126 0210 0024744B 		.word	1265902592
  3127              		.cfi_endproc
  3128              	.LFE344:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 144
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 144
 
 
  3130              		.section	.text.HAL_RCCEx_GetPeriphCLKFreq,"ax",%progbits
@@ -8638,7 +8638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3176              	.LVL207:
 1784:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  3177              		.loc 1 1784 3 is_stmt 0 view .LVU1073
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 145
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 145
 
 
  3178 0040 41F1FF31 		adc	r1, r1, #-1
@@ -8698,7 +8698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3230 00d8 4D000000 		.word	.L410+1
  3231 00dc 7B070000 		.word	.L242+1
  3232              	.LVL208:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 146
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 146
 
 
  3233              		.p2align 1
@@ -8758,7 +8758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3271              		.loc 1 2354 13 view .LVU1091
  3272 0112 10F02000 		ands	r0, r0, #32
  3273 0116 9AD0     		beq	.L235
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 147
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 147
 
 
 2354:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -8818,7 +8818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3318              		.loc 1 1837 9 view .LVU1101
  3319 0170 01A8     		add	r0, sp, #4
  3320 0172 FFF7FEFF 		bl	HAL_RCCEx_GetPLL3ClockFreq
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 148
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 148
 
 
  3321              	.LVL216:
@@ -8878,7 +8878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3360              		.loc 1 2605 15 is_stmt 0 view .LVU1116
  3361 01ae 784A     		ldr	r2, .L533
  3362 01b0 1268     		ldr	r2, [r2]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 149
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 149
 
 
 2605:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -8938,7 +8938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3403 01f2 00F2D283 		bhi	.L355
  3404 01f6 002B     		cmp	r3, #0
  3405 01f8 00F0E183 		beq	.L356
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 150
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 150
 
 
  3406 01fc 402B     		cmp	r3, #64
@@ -8998,7 +8998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3451              		.loc 1 2837 12 view .LVU1139
  3452 0254 03F40043 		and	r3, r3, #32768
  3453              	.LVL229:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 151
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 151
 
 
 2840:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -9058,7 +9058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3495 02a4 0B43     		orrs	r3, r3, r1
  3496 02a6 00F05181 		beq	.L264
  3497 02aa A0F50010 		sub	r0, r0, #2097152
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 152
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 152
 
 
  3498              	.LVL232:
@@ -9118,7 +9118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3538              	.L486:
 1991:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         }
  3539              		.loc 1 1991 11 is_stmt 0 view .LVU1167
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 153
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 153
 
 
  3540 02ec A0F58033 		sub	r3, r0, #65536
@@ -9178,7 +9178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2224:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  3582              		.loc 1 2224 14 is_stmt 0 view .LVU1180
  3583 0334 164B     		ldr	r3, .L533
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 154
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 154
 
 
  3584 0336 D3F8E830 		ldr	r3, [r3, #232]
@@ -9238,7 +9238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2247:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  3622              		.loc 1 2247 55 discriminator 1 view .LVU1197
  3623 037a B3F5804F 		cmp	r3, #16384
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 155
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 155
 
 
  3624 037e 00F04985 		beq	.L440
@@ -9298,7 +9298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3671 03d4 6705     		.2byte	(.L463-.L396)/2
  3672 03d6 6D04     		.2byte	(.L398-.L396)/2
  3673 03d8 6705     		.2byte	(.L463-.L396)/2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 156
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 156
 
 
  3674 03da 6705     		.2byte	(.L463-.L396)/2
@@ -9358,7 +9358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3719              	.LVL253:
  3720              	.L496:
 2859:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 157
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 157
 
 
  3721              		.loc 1 2859 17 is_stmt 0 view .LVU1214
@@ -9418,7 +9418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3761              		.loc 1 1807 13 view .LVU1228
  3762 0464 12F4003F 		tst	r2, #131072
  3763 0468 00F07E84 		beq	.L413
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 158
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 158
 
 
 1807:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -9478,7 +9478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3804 049a 1868     		ldr	r0, [r3]
 1848:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         {
  3805              		.loc 1 1848 12 view .LVU1243
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 159
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 159
 
 
  3806 049c 10F48060 		ands	r0, r0, #1024
@@ -9538,7 +9538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3847              	.LVL269:
 1869:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  3848              		.loc 1 1869 5 is_stmt 1 view .LVU1257
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 160
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 160
 
 
  3849 04ca B3F5007F 		cmp	r3, #512
@@ -9598,7 +9598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1898:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         }
  3891              		.loc 1 1898 21 view .LVU1270
  3892 0502 4448     		ldr	r0, .L535+4
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 161
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 161
 
 
  3893 0504 A3E5     		b	.L235
@@ -9658,7 +9658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3933 051e 3C4A     		ldr	r2, .L535
  3934 0520 D2F8E430 		ldr	r3, [r2, #228]
 1915:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 162
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 162
 
 
  3935              		.loc 1 1915 12 view .LVU1285
@@ -9718,7 +9718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  3975 055c 0AD8     		bhi	.L287
  3976 055e 03B3     		cbz	r3, .L288
  3977 0560 B3F1806F 		cmp	r3, #67108864
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 163
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 163
 
 
  3978 0564 04D1     		bne	.L502
@@ -9778,7 +9778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1963:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  4018              		.loc 1 1963 19 discriminator 4 view .LVU1314
  4019 058c 224A     		ldr	r2, .L535+8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 164
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 164
 
 
  4020 058e 52F82300 		ldr	r0, [r2, r3, lsl #2]
@@ -9838,7 +9838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4061              	.L291:
 1963:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  4062              		.loc 1 1963 36 discriminator 2 view .LVU1328
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 165
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 165
 
 
  4063 05b2 174B     		ldr	r3, .L535
@@ -9898,7 +9898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1985:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         }
  4104              		.loc 1 1985 11 is_stmt 1 view .LVU1342
  4105 05e8 31E5     		b	.L235
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 166
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 166
 
 
  4106              	.LVL317:
@@ -9958,7 +9958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4147 0618 00000000 		.word	MSIRangeTable
  4148 061c 006CDC02 		.word	48000000
  4149              	.LVL323:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 167
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 167
 
 
  4150              	.L248:
@@ -10018,7 +10018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4188 0654 0020     		movs	r0, #0
  4189 0656 FAE4     		b	.L235
  4190              	.L504:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 168
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 168
 
 
 2034:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
@@ -10078,7 +10078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2067:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  4229              		.loc 1 2067 55 discriminator 1 view .LVU1388
  4230 067e 082B     		cmp	r3, #8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 169
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 169
 
 
  4231 0680 00F09383 		beq	.L423
@@ -10138,7 +10138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4270 06ae 13F03003 		ands	r3, r3, #48
  4271              	.LVL337:
 2086:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 170
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 170
 
 
  4272              		.loc 1 2086 8 view .LVU1404
@@ -10198,7 +10198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4311              		.loc 1 2092 7 is_stmt 1 view .LVU1419
 2092:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  4312              		.loc 1 2092 19 is_stmt 0 view .LVU1420
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 171
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 171
 
 
  4313 06e6 FFF7FEFF 		bl	HAL_RCC_GetSysClockFreq
@@ -10258,7 +10258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2125:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  4352              		.loc 1 2125 59 discriminator 1 view .LVU1436
  4353 071a C02B     		cmp	r3, #192
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 172
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 172
 
 
  4354 071c 00F05F83 		beq	.L431
@@ -10318,7 +10318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4392 0742 644A     		ldr	r2, .L537
  4393 0744 1268     		ldr	r2, [r2]
 2148:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 173
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 173
 
 
  4394              		.loc 1 2148 13 view .LVU1453
@@ -10378,7 +10378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4434 077c D3F8E830 		ldr	r3, [r3, #232]
  4435              	.LVL354:
 2196:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 174
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 174
 
 
  4436              		.loc 1 2196 5 is_stmt 1 view .LVU1468
@@ -10438,7 +10438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2212:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  4475              		.loc 1 2212 56 discriminator 1 view .LVU1484
  4476 07b8 042B     		cmp	r3, #4
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 175
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 175
 
 
  4477 07ba 07D0     		beq	.L516
@@ -10498,7 +10498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4517              	.L320:
 2214:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  4518              		.loc 1 2214 34 discriminator 2 view .LVU1499
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 176
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 176
 
 
  4519 07e2 3C4B     		ldr	r3, .L537
@@ -10558,7 +10558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4559 0806 9B68     		ldr	r3, [r3, #8]
 2241:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  4560              		.loc 1 2241 60 view .LVU1514
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 177
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 177
 
 
  4561 0808 13F4000F 		tst	r3, #8388608
@@ -10618,7 +10618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4605              	.LVL376:
 2262:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  4606              		.loc 1 2262 5 is_stmt 0 view .LVU1525
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 178
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 178
 
 
  4607 0846 02E4     		b	.L235
@@ -10678,7 +10678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2288:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  4647              		.loc 1 2288 36 is_stmt 0 view .LVU1540
  4648 0868 1A4B     		ldr	r3, .L537
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 179
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 179
 
 
  4649              	.LVL388:
@@ -10738,7 +10738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4690              		.loc 1 2328 36 is_stmt 0 view .LVU1553
  4691 08a4 0B4B     		ldr	r3, .L537
  4692              	.LVL394:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 180
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 180
 
 
 2328:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
@@ -10798,7 +10798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4734 08d4 000C0246 		.word	1174539264
  4735 08d8 00000000 		.word	MSIRangeTable
  4736              	.LVL402:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 181
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 181
 
 
  4737              	.L339:
@@ -10858,7 +10858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2356:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  4777              		.loc 1 2356 34 discriminator 1 view .LVU1581
  4778 0908 9368     		ldr	r3, [r2, #8]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 182
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 182
 
 
 2356:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
@@ -10918,7 +10918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4818 093a 12F4806F 		tst	r2, #1024
  4819 093e 03D0     		beq	.L351
 2377:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 183
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 183
 
 
  4820              		.loc 1 2377 55 discriminator 1 view .LVU1597
@@ -10978,7 +10978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4860              		.loc 1 2383 61 view .LVU1611
  4861 0972 13F4000F 		tst	r3, #8388608
  4862 0976 07D0     		beq	.L352
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 184
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 184
 
 
 2383:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
@@ -11038,7 +11038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4904              	.L360:
 2422:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  4905              		.loc 1 2422 19 discriminator 4 view .LVU1625
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 185
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 185
 
 
  4906 09ae 874A     		ldr	r2, .L539+4
@@ -11098,7 +11098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2435:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  4947              		.loc 1 2435 14 is_stmt 0 view .LVU1639
  4948 09e4 784B     		ldr	r3, .L539
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 186
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 186
 
 
  4949 09e6 D3F8E030 		ldr	r3, [r3, #224]
@@ -11158,7 +11158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  4988              		.loc 1 2439 7 is_stmt 1 view .LVU1654
 2439:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  4989              		.loc 1 2439 19 is_stmt 0 view .LVU1655
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 187
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 187
 
 
  4990 0a20 FFF7FEFF 		bl	HAL_RCC_GetPCLK1Freq
@@ -11218,7 +11218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5031              	.L250:
 2520:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  5032              		.loc 1 2520 5 is_stmt 1 view .LVU1669
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 188
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 188
 
 
 2520:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -11278,7 +11278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5073              	.L366:
 2526:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  5074              		.loc 1 2526 10 is_stmt 1 view .LVU1684
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 189
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 189
 
 
 2526:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -11338,7 +11338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5114              		.loc 1 2528 11 is_stmt 0 view .LVU1699
  5115 0ac8 3F4B     		ldr	r3, .L539
  5116              	.LVL453:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 190
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 190
 
 
 2528:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       {
@@ -11398,7 +11398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5155              		.loc 1 2558 17 discriminator 4 view .LVU1715
  5156 0afa 344A     		ldr	r2, .L539+4
  5157 0afc 52F82300 		ldr	r0, [r2, r3, lsl #2]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 191
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 191
 
 
  5158              	.LVL459:
@@ -11458,7 +11458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5198 0b3a 12F0020F 		tst	r2, #2
  5199 0b3e 00F09181 		beq	.L455
 2575:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 192
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 192
 
 
  5200              		.loc 1 2575 59 discriminator 1 view .LVU1730
@@ -11518,7 +11518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2596:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       {
  5240              		.loc 1 2596 10 view .LVU1745
  5241 0b72 13F0805F 		tst	r3, #268435456
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 193
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 193
 
 
  5242 0b76 00F07C81 		beq	.L457
@@ -11578,7 +11578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5281              	.L527:
 2630:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       frequency = pll1_clocks.PLL1_Q_Frequency;
  5282              		.loc 1 2630 7 is_stmt 1 view .LVU1761
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 194
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 194
 
 
  5283 0baa 07A8     		add	r0, sp, #28
@@ -11638,7 +11638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5325              	.LVL483:
 2674:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  5326              		.loc 1 2674 36 view .LVU1774
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 195
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 195
 
 
  5327 0bdc 9B68     		ldr	r3, [r3, #8]
@@ -11698,7 +11698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5367 0c10 AB48     		ldr	r0, .L541+8
  5368 0c12 FFF71CBA 		b	.L235
  5369              	.L386:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 196
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 196
 
 
 2674:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
@@ -11758,7 +11758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2713:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         break;
  5411              		.loc 1 2713 36 is_stmt 0 view .LVU1802
  5412 0c50 994B     		ldr	r3, .L541
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 197
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 197
 
 
  5413              	.LVL495:
@@ -11818,7 +11818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5453 0c7c 1868     		ldr	r0, [r3]
  5454              	.LVL503:
 2701:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 198
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 198
 
 
  5455              		.loc 1 2701 12 view .LVU1817
@@ -11878,7 +11878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5496 0cb0 3FF4CDA9 		beq	.L235
 2742:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         }
  5497              		.loc 1 2742 21 view .LVU1831
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 199
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 199
 
 
  5498 0cb4 8248     		ldr	r0, .L541+8
@@ -11938,7 +11938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5539              	.LVL517:
 2766:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  5540              		.loc 1 2766 5 is_stmt 1 view .LVU1845
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 200
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 200
 
 
  5541 0cec B3F5001F 		cmp	r3, #2097152
@@ -11998,7 +11998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2770:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****         frequency = pll2_clocks.PLL2_Q_Frequency;
  5583              		.loc 1 2770 9 is_stmt 0 view .LVU1858
  5584 0d28 FFF7FEFF 		bl	HAL_RCCEx_GetPLL2ClockFreq
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 201
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 201
 
 
  5585              	.LVL524:
@@ -12058,7 +12058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5625 0d52 0020     		movs	r0, #0
  5626              	.LVL534:
 2859:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 202
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 202
 
 
  5627              		.loc 1 2859 17 view .LVU1873
@@ -12118,7 +12118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 1919:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  5670              		.loc 1 1919 17 view .LVU1885
  5671 0d84 4E48     		ldr	r0, .L541+8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 203
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 203
 
 
  5672              	.LVL546:
@@ -12178,7 +12178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5714              		.loc 1 2096 17 view .LVU1897
  5715 0dbe 4048     		ldr	r0, .L541+8
  5716 0dc0 FFF745B9 		b	.L235
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 204
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 204
 
 
  5717              	.L427:
@@ -12238,7 +12238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5760 0e0a FFF720B9 		b	.L235
  5761              	.L439:
 2254:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 205
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 205
 
 
  5762              		.loc 1 2254 17 view .LVU1909
@@ -12298,7 +12298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5805              	.LVL560:
 2534:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****       }
  5806              		.loc 1 2534 19 view .LVU1921
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 206
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 206
 
 
  5807 0e3e FFF706B9 		b	.L235
@@ -12358,7 +12358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5849 0e66 FFF7F2B8 		b	.L235
  5850              	.LVL573:
  5851              	.L456:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 207
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 207
 
 
 2577:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
@@ -12418,7 +12418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2726:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
  5894              		.loc 1 2726 5 view .LVU1946
  5895 0e94 0020     		movs	r0, #0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 208
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 208
 
 
  5896              	.LVL586:
@@ -12478,7 +12478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  5943              		.loc 1 2893 1 is_stmt 1 view -0
  5944              		.cfi_startproc
  5945              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 209
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 209
 
 
  5946              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -12538,7 +12538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 2913:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  5983              		.loc 1 2913 44 view .LVU1973
  5984 0018 13F0006F 		tst	r3, #134217728
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 210
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 210
 
 
  5985 001c 06D0     		beq	.L553
@@ -12598,7 +12598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6024 003a 0446     		mov	r4, r0
  6025 003c 0028     		cmp	r0, #0
  6026 003e F7D1     		bne	.L547
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 211
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 211
 
 
 2931:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                             PLL2Init->PLL2P, PLL2Init->PLL2Q, PLL2Init->PLL2R);
@@ -12658,7 +12658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6074 00a0 E969     		ldr	r1, [r5, #28]
  6075 00a2 42EAC102 		orr	r2, r2, r1, lsl #3
  6076 00a6 1A64     		str	r2, [r3, #64]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 212
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 212
 
 
 2941:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -12718,7 +12718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6117              		.loc 1 2958 12 view .LVU2009
  6118 00e2 0228     		cmp	r0, #2
  6119 00e4 F5D9     		bls	.L548
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 213
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 213
 
 
 2960:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****           break;
@@ -12778,7 +12778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6166 0012 0A4B     		ldr	r3, .L564
  6167 0014 1B68     		ldr	r3, [r3]
 2986:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 214
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 214
 
 
  6168              		.loc 1 2986 44 view .LVU2020
@@ -12838,7 +12838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6214              	.LVL612:
  6215              	.LFB348:
 3009:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   uint32_t tickstart;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 215
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 215
 
 
  6216              		.loc 1 3009 1 is_stmt 1 view -0
@@ -12898,7 +12898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6254              		.loc 1 3027 44 view .LVU2047
  6255 0018 13F0005F 		tst	r3, #536870912
  6256 001c 06D0     		beq	.L576
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 216
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 216
 
 
 3029:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -12958,7 +12958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6296 003c 0028     		cmp	r0, #0
  6297 003e F7D1     		bne	.L570
 3045:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****                             PLL3Init->PLL3R);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 217
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 217
 
 
  6298              		.loc 1 3045 7 is_stmt 1 view .LVU2063
@@ -13018,7 +13018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6346 00a2 42EAC102 		orr	r2, r2, r1, lsl #3
  6347 00a6 9A64     		str	r2, [r3, #72]
 3055:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 218
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 218
 
 
  6348              		.loc 1 3055 7 view .LVU2070
@@ -13078,7 +13078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6389 00e2 0228     		cmp	r0, #2
  6390 00e4 F5D9     		bls	.L571
 3074:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****           break;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 219
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 219
 
 
  6391              		.loc 1 3074 18 view .LVU2084
@@ -13138,7 +13138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6438 0014 1B68     		ldr	r3, [r3]
 3100:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  6439              		.loc 1 3100 44 view .LVU2094
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 220
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 220
 
 
  6440 0016 13F0005F 		tst	r3, #536870912
@@ -13198,7 +13198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6486              	.LFB350:
 3128:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   HAL_StatusTypeDef status = HAL_ERROR;
  6487              		.loc 1 3128 1 is_stmt 1 view -0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 221
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 221
 
 
  6488              		.cfi_startproc
@@ -13258,7 +13258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3129:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  6529              		.loc 1 3129 21 view .LVU2119
  6530 002a 0120     		movs	r0, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 222
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 222
 
 
  6531              	.LVL638:
@@ -13318,7 +13318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3158:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  6577              		.loc 1 3158 21 view .LVU2130
  6578 0018 0120     		movs	r0, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 223
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 223
 
 
  6579              	.LVL642:
@@ -13378,7 +13378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3177:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  6625              		.loc 1 3177 21 view .LVU2141
  6626 0018 0120     		movs	r0, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 224
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 224
 
 
  6627              	.LVL646:
@@ -13438,7 +13438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3214:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   assert_param(IS_RCC_STOP_KERWAKEUPCLOCK(WakeUpClk));
  6679              		.loc 1 3214 1 is_stmt 1 view -0
  6680              		.cfi_startproc
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 225
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 225
 
 
  6681              		@ args = 0, pretend = 0, frame = 0
@@ -13498,7 +13498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3237:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  6728              		.loc 1 3237 1 is_stmt 0 view .LVU2158
  6729 001a 7047     		bx	lr
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 226
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 226
 
 
  6730              	.L614:
@@ -13558,7 +13558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6783 000a C2F8F030 		str	r3, [r2, #240]
 3259:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  6784              		.loc 1 3259 1 is_stmt 0 view .LVU2164
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 227
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 227
 
 
  6785 000e 7047     		bx	lr
@@ -13618,7 +13618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3272:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  6837              		.loc 1 3272 1 view .LVU2171
  6838 000e 08BD     		pop	{r3, pc}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 228
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 228
 
 
  6839              	.L625:
@@ -13678,7 +13678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6884 0006 284C     		ldr	r4, .L639
  6885 0008 D4F88C30 		ldr	r3, [r4, #140]
  6886 000c 43F00103 		orr	r3, r3, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 229
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 229
 
 
  6887 0010 C4F88C30 		str	r3, [r4, #140]
@@ -13738,7 +13738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3315:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     pwrclkchanged = SET;
  6925              		.loc 1 3315 5 is_stmt 1 view .LVU2199
  6926              	.LBB7:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 230
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 230
 
 
 3315:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     pwrclkchanged = SET;
@@ -13798,7 +13798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  6967              	.LVL658:
  6968              	.L631:
 3330:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 231
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 231
 
 
  6969              		.loc 1 3330 3 is_stmt 1 view .LVU2214
@@ -13858,7 +13858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7013 00ac 00000242 		.word	1107427328
  7014 00b0 00080246 		.word	1174538240
  7015              		.cfi_endproc
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 232
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 232
 
 
  7016              	.LFE360:
@@ -13918,7 +13918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7061              	.LBE8:
 3348:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     pwrclkchanged = SET;
  7062              		.loc 1 3348 5 view .LVU2236
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 233
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 233
 
 
 3349:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   }
@@ -13978,7 +13978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7104 004e 0024     		movs	r4, #0
  7105 0050 ECE7     		b	.L642
  7106              	.LVL670:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 234
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 234
 
 
  7107              	.L649:
@@ -14038,7 +14038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7154 0002 1368     		ldr	r3, [r2]
  7155 0004 43F00803 		orr	r3, r3, #8
  7156 0008 1360     		str	r3, [r2]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 235
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 235
 
 
 3381:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -14098,7 +14098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7209              		.loc 1 3469 3 view .LVU2264
 3472:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   assert_param(IS_RCC_CRS_SYNC_SOURCE(pInit->Source));
  7210              		.loc 1 3472 3 view .LVU2265
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 236
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 236
 
 
 3473:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   assert_param(IS_RCC_CRS_SYNC_POLARITY(pInit->Polarity));
@@ -14158,7 +14158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7246              		.loc 1 3492 9 view .LVU2284
  7247 0022 43EA0242 		orr	r2, r3, r2, lsl #16
  7248              	.LVL677:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 237
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 237
 
 
 3493:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -14218,7 +14218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7297              		.align	2
  7298              	.L664:
  7299 000c 00600040 		.word	1073766400
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 238
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 238
 
 
  7300              		.cfi_endproc
@@ -14278,7 +14278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7341              		.loc 1 3534 3 is_stmt 1 view .LVU2307
 3534:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** }
  7342              		.loc 1 3534 49 is_stmt 0 view .LVU2308
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 239
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 239
 
 
  7343 0016 9B68     		ldr	r3, [r3, #8]
@@ -14338,7 +14338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3554:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   uint32_t tickstart;
  7389              		.loc 1 3554 12 view .LVU2319
  7390 000a 0024     		movs	r4, #0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 240
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 240
 
 
  7391 000c 0EE0     		b	.L677
@@ -14398,7 +14398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7431              	.L677:
 3561:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****   {
  7432              		.loc 1 3561 3 view .LVU2334
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 241
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 241
 
 
 3563:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     {
@@ -14458,7 +14458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
 3587:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  7470              		.loc 1 3587 7 view .LVU2352
 3587:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 242
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 242
 
 
  7471              		.loc 1 3587 7 view .LVU2353
@@ -14518,7 +14518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7508              		.loc 1 3607 7 view .LVU2370
 3607:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c ****     }
  7509              		.loc 1 3607 7 view .LVU2371
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 243
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 243
 
 
  7510 007c 0A4B     		ldr	r3, .L684
@@ -14578,7 +14578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7548              	.LVL698:
  7549              	.L685:
 3629:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 244
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 244
 
 
  7550              		.loc 1 3629 1 view .LVU2388
@@ -14638,7 +14638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7605              		.cfi_startproc
  7606              		@ args = 0, pretend = 0, frame = 0
  7607              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 245
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 245
 
 
  7608              		@ link register save eliminated.
@@ -14698,7 +14698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7658              	.LVL701:
 3640:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  7659              		.loc 1 3640 3 is_stmt 1 view .LVU2402
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 246
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 246
 
 
 3640:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
@@ -14758,7 +14758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7698              		.loc 1 3676 18 view .LVU2418
  7699 003e 0820     		movs	r0, #8
  7700              	.L695:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 247
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 247
 
 
  7701              	.LVL703:
@@ -14818,7 +14818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7740              	.LVL711:
 3646:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_rcc_ex.c **** 
  7741              		.loc 1 3646 5 view .LVU2434
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 248
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 248
 
 
  7742 0064 DA60     		str	r2, [r3, #12]
@@ -14878,7 +14878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7787              		.file 3 "c:\\users\\yamaan\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xp
  7788              		.file 4 "Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u575xx.h"
  7789              		.file 5 "Drivers/CMSIS/Device/ST/STM32U5xx/Include/stm32u5xx.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 249
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 249
 
 
  7790              		.file 6 "c:\\users\\yamaan\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xp
@@ -14889,142 +14889,142 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 1
  7795              		.file 11 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_rcc.h"
  7796              		.file 12 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal.h"
  7797              		.file 13 "Drivers/CMSIS/Device/ST/STM32U5xx/Include/system_stm32u5xx.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 250
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 250
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32u5xx_hal_rcc_ex.c
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:22     .text.RCCEx_PLL3_Config:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:27     .text.RCCEx_PLL3_Config:0000000000000000 RCCEx_PLL3_Config
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:187    .text.RCCEx_PLL3_Config:00000000000000dc $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:193    .text.RCCEx_PLL2_Config:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:198    .text.RCCEx_PLL2_Config:0000000000000000 RCCEx_PLL2_Config
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:358    .text.RCCEx_PLL2_Config:00000000000000dc $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:364    .text.RCCEx_PLLSource_Enable:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:369    .text.RCCEx_PLLSource_Enable:0000000000000000 RCCEx_PLLSource_Enable
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:559    .text.RCCEx_PLLSource_Enable:00000000000000c0 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:564    .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:570    .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 HAL_RCCEx_PeriphCLKConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:988    .text.HAL_RCCEx_PeriphCLKConfig:0000000000000268 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1072   .text.HAL_RCCEx_PeriphCLKConfig:00000000000002c4 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1076   .text.HAL_RCCEx_PeriphCLKConfig:00000000000002c8 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1454   .text.HAL_RCCEx_PeriphCLKConfig:00000000000004b0 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1459   .text.HAL_RCCEx_PeriphCLKConfig:00000000000004b8 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1752   .text.HAL_RCCEx_PeriphCLKConfig:0000000000000678 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1757   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:1763   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 HAL_RCCEx_GetPeriphCLKConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2088   .text.HAL_RCCEx_GetPeriphCLKConfig:00000000000001e8 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2093   .text.HAL_RCCEx_GetPLL1ClockFreq:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2099   .text.HAL_RCCEx_GetPLL1ClockFreq:0000000000000000 HAL_RCCEx_GetPLL1ClockFreq
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2431   .text.HAL_RCCEx_GetPLL1ClockFreq:0000000000000204 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2439   .text.HAL_RCCEx_GetPLL2ClockFreq:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2445   .text.HAL_RCCEx_GetPLL2ClockFreq:0000000000000000 HAL_RCCEx_GetPLL2ClockFreq
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2777   .text.HAL_RCCEx_GetPLL2ClockFreq:0000000000000204 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2785   .text.HAL_RCCEx_GetPLL3ClockFreq:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:2791   .text.HAL_RCCEx_GetPLL3ClockFreq:0000000000000000 HAL_RCCEx_GetPLL3ClockFreq
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3123   .text.HAL_RCCEx_GetPLL3ClockFreq:0000000000000204 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3131   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3137   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 HAL_RCCEx_GetPeriphCLKFreq
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3200   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000060 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3233   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000000e0 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3639   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000390 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3646   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000003a0 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3664   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000003c6 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:3690   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000003f8 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4145   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000610 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4153   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000620 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4597   .text.HAL_RCCEx_GetPeriphCLKFreq:000000000000083c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4734   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000008d4 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4740   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000008dc $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:5316   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000bc8 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:5320   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000bd4 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:5925   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000eb8 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:5934   .text.HAL_RCCEx_EnablePLL2:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:5940   .text.HAL_RCCEx_EnablePLL2:0000000000000000 HAL_RCCEx_EnablePLL2
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6126   .text.HAL_RCCEx_EnablePLL2:00000000000000ec $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6132   .text.HAL_RCCEx_DisablePLL2:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6138   .text.HAL_RCCEx_DisablePLL2:0000000000000000 HAL_RCCEx_DisablePLL2
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6202   .text.HAL_RCCEx_DisablePLL2:000000000000003c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6207   .text.HAL_RCCEx_EnablePLL3:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6213   .text.HAL_RCCEx_EnablePLL3:0000000000000000 HAL_RCCEx_EnablePLL3
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6397   .text.HAL_RCCEx_EnablePLL3:00000000000000ec $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6403   .text.HAL_RCCEx_DisablePLL3:0000000000000000 $t
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 251
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:22     .text.RCCEx_PLL3_Config:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:27     .text.RCCEx_PLL3_Config:0000000000000000 RCCEx_PLL3_Config
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:187    .text.RCCEx_PLL3_Config:00000000000000dc $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:193    .text.RCCEx_PLL2_Config:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:198    .text.RCCEx_PLL2_Config:0000000000000000 RCCEx_PLL2_Config
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:358    .text.RCCEx_PLL2_Config:00000000000000dc $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:364    .text.RCCEx_PLLSource_Enable:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:369    .text.RCCEx_PLLSource_Enable:0000000000000000 RCCEx_PLLSource_Enable
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:559    .text.RCCEx_PLLSource_Enable:00000000000000c0 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:564    .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:570    .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 HAL_RCCEx_PeriphCLKConfig
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:988    .text.HAL_RCCEx_PeriphCLKConfig:0000000000000268 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1072   .text.HAL_RCCEx_PeriphCLKConfig:00000000000002c4 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1076   .text.HAL_RCCEx_PeriphCLKConfig:00000000000002c8 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1454   .text.HAL_RCCEx_PeriphCLKConfig:00000000000004b0 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1459   .text.HAL_RCCEx_PeriphCLKConfig:00000000000004b8 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1752   .text.HAL_RCCEx_PeriphCLKConfig:0000000000000678 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1757   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:1763   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 HAL_RCCEx_GetPeriphCLKConfig
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2088   .text.HAL_RCCEx_GetPeriphCLKConfig:00000000000001e8 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2093   .text.HAL_RCCEx_GetPLL1ClockFreq:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2099   .text.HAL_RCCEx_GetPLL1ClockFreq:0000000000000000 HAL_RCCEx_GetPLL1ClockFreq
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2431   .text.HAL_RCCEx_GetPLL1ClockFreq:0000000000000204 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2439   .text.HAL_RCCEx_GetPLL2ClockFreq:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2445   .text.HAL_RCCEx_GetPLL2ClockFreq:0000000000000000 HAL_RCCEx_GetPLL2ClockFreq
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2777   .text.HAL_RCCEx_GetPLL2ClockFreq:0000000000000204 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2785   .text.HAL_RCCEx_GetPLL3ClockFreq:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:2791   .text.HAL_RCCEx_GetPLL3ClockFreq:0000000000000000 HAL_RCCEx_GetPLL3ClockFreq
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3123   .text.HAL_RCCEx_GetPLL3ClockFreq:0000000000000204 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3131   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3137   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 HAL_RCCEx_GetPeriphCLKFreq
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3200   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000060 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3233   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000000e0 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3639   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000390 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3646   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000003a0 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3664   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000003c6 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:3690   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000003f8 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4145   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000610 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4153   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000620 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4597   .text.HAL_RCCEx_GetPeriphCLKFreq:000000000000083c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4734   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000008d4 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4740   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000008dc $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:5316   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000bc8 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:5320   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000bd4 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:5925   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000eb8 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:5934   .text.HAL_RCCEx_EnablePLL2:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:5940   .text.HAL_RCCEx_EnablePLL2:0000000000000000 HAL_RCCEx_EnablePLL2
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6126   .text.HAL_RCCEx_EnablePLL2:00000000000000ec $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6132   .text.HAL_RCCEx_DisablePLL2:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6138   .text.HAL_RCCEx_DisablePLL2:0000000000000000 HAL_RCCEx_DisablePLL2
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6202   .text.HAL_RCCEx_DisablePLL2:000000000000003c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6207   .text.HAL_RCCEx_EnablePLL3:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6213   .text.HAL_RCCEx_EnablePLL3:0000000000000000 HAL_RCCEx_EnablePLL3
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6397   .text.HAL_RCCEx_EnablePLL3:00000000000000ec $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6403   .text.HAL_RCCEx_DisablePLL3:0000000000000000 $t
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 251
 
 
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6409   .text.HAL_RCCEx_DisablePLL3:0000000000000000 HAL_RCCEx_DisablePLL3
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6473   .text.HAL_RCCEx_DisablePLL3:000000000000003c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6478   .text.HAL_RCCEx_EnableMSIPLLModeSelection:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6484   .text.HAL_RCCEx_EnableMSIPLLModeSelection:0000000000000000 HAL_RCCEx_EnableMSIPLLModeSelection
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6538   .text.HAL_RCCEx_EnableMSIPLLModeSelection:0000000000000030 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6543   .text.HAL_RCCEx_EnableMSIPLLFastStartup:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6549   .text.HAL_RCCEx_EnableMSIPLLFastStartup:0000000000000000 HAL_RCCEx_EnableMSIPLLFastStartup
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6586   .text.HAL_RCCEx_EnableMSIPLLFastStartup:000000000000001c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6591   .text.HAL_RCCEx_DisableMSIPLLFastStartup:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6597   .text.HAL_RCCEx_DisableMSIPLLFastStartup:0000000000000000 HAL_RCCEx_DisableMSIPLLFastStartup
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6634   .text.HAL_RCCEx_DisableMSIPLLFastStartup:000000000000001c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6639   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6645   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 HAL_RCCEx_WakeUpStopCLKConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6665   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000010 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6670   .text.HAL_RCCEx_KerWakeUpStopCLKConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6676   .text.HAL_RCCEx_KerWakeUpStopCLKConfig:0000000000000000 HAL_RCCEx_KerWakeUpStopCLKConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6696   .text.HAL_RCCEx_KerWakeUpStopCLKConfig:0000000000000010 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6701   .text.HAL_RCCEx_StandbyMSIRangeConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6707   .text.HAL_RCCEx_StandbyMSIRangeConfig:0000000000000000 HAL_RCCEx_StandbyMSIRangeConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6733   .text.HAL_RCCEx_StandbyMSIRangeConfig:000000000000001c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6738   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6744   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 HAL_RCCEx_EnableLSECSS
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6761   .text.HAL_RCCEx_EnableLSECSS:0000000000000010 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6766   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6772   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 HAL_RCCEx_DisableLSECSS
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6789   .text.HAL_RCCEx_DisableLSECSS:0000000000000010 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6794   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6800   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 HAL_RCCEx_LSECSS_Callback
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6813   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6819   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 HAL_RCCEx_LSECSS_IRQHandler
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6848   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000018 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6853   .text.HAL_RCCEx_EnableLSCO:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:6859   .text.HAL_RCCEx_EnableLSCO:0000000000000000 HAL_RCCEx_EnableLSCO
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7012   .text.HAL_RCCEx_EnableLSCO:00000000000000a8 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7019   .text.HAL_RCCEx_DisableLSCO:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7025   .text.HAL_RCCEx_DisableLSCO:0000000000000000 HAL_RCCEx_DisableLSCO
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7133   .text.HAL_RCCEx_DisableLSCO:0000000000000070 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7139   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7145   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 HAL_RCCEx_EnableMSIPLLMode
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7162   .text.HAL_RCCEx_EnableMSIPLLMode:000000000000000c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7167   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7173   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 HAL_RCCEx_DisableMSIPLLMode
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7190   .text.HAL_RCCEx_DisableMSIPLLMode:000000000000000c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7195   .text.HAL_RCCEx_CRSConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7201   .text.HAL_RCCEx_CRSConfig:0000000000000000 HAL_RCCEx_CRSConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7270   .text.HAL_RCCEx_CRSConfig:0000000000000044 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7276   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7282   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 HAL_RCCEx_CRSSoftwareSynchronizationGenerate
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7299   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:000000000000000c $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7304   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7310   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 HAL_RCCEx_CRSGetSynchronizationInfo
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7353   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000020 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7358   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7364   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 HAL_RCCEx_CRSWaitSynchronization
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7553   .text.HAL_RCCEx_CRSWaitSynchronization:00000000000000a8 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7558   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7564   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 HAL_RCCEx_CRS_SyncOkCallback
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s 			page 252
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6409   .text.HAL_RCCEx_DisablePLL3:0000000000000000 HAL_RCCEx_DisablePLL3
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6473   .text.HAL_RCCEx_DisablePLL3:000000000000003c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6478   .text.HAL_RCCEx_EnableMSIPLLModeSelection:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6484   .text.HAL_RCCEx_EnableMSIPLLModeSelection:0000000000000000 HAL_RCCEx_EnableMSIPLLModeSelection
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6538   .text.HAL_RCCEx_EnableMSIPLLModeSelection:0000000000000030 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6543   .text.HAL_RCCEx_EnableMSIPLLFastStartup:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6549   .text.HAL_RCCEx_EnableMSIPLLFastStartup:0000000000000000 HAL_RCCEx_EnableMSIPLLFastStartup
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6586   .text.HAL_RCCEx_EnableMSIPLLFastStartup:000000000000001c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6591   .text.HAL_RCCEx_DisableMSIPLLFastStartup:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6597   .text.HAL_RCCEx_DisableMSIPLLFastStartup:0000000000000000 HAL_RCCEx_DisableMSIPLLFastStartup
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6634   .text.HAL_RCCEx_DisableMSIPLLFastStartup:000000000000001c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6639   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6645   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 HAL_RCCEx_WakeUpStopCLKConfig
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6665   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000010 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6670   .text.HAL_RCCEx_KerWakeUpStopCLKConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6676   .text.HAL_RCCEx_KerWakeUpStopCLKConfig:0000000000000000 HAL_RCCEx_KerWakeUpStopCLKConfig
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6696   .text.HAL_RCCEx_KerWakeUpStopCLKConfig:0000000000000010 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6701   .text.HAL_RCCEx_StandbyMSIRangeConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6707   .text.HAL_RCCEx_StandbyMSIRangeConfig:0000000000000000 HAL_RCCEx_StandbyMSIRangeConfig
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6733   .text.HAL_RCCEx_StandbyMSIRangeConfig:000000000000001c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6738   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6744   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 HAL_RCCEx_EnableLSECSS
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6761   .text.HAL_RCCEx_EnableLSECSS:0000000000000010 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6766   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6772   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 HAL_RCCEx_DisableLSECSS
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6789   .text.HAL_RCCEx_DisableLSECSS:0000000000000010 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6794   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6800   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 HAL_RCCEx_LSECSS_Callback
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6813   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6819   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 HAL_RCCEx_LSECSS_IRQHandler
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6848   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000018 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6853   .text.HAL_RCCEx_EnableLSCO:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:6859   .text.HAL_RCCEx_EnableLSCO:0000000000000000 HAL_RCCEx_EnableLSCO
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7012   .text.HAL_RCCEx_EnableLSCO:00000000000000a8 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7019   .text.HAL_RCCEx_DisableLSCO:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7025   .text.HAL_RCCEx_DisableLSCO:0000000000000000 HAL_RCCEx_DisableLSCO
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7133   .text.HAL_RCCEx_DisableLSCO:0000000000000070 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7139   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7145   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 HAL_RCCEx_EnableMSIPLLMode
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7162   .text.HAL_RCCEx_EnableMSIPLLMode:000000000000000c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7167   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7173   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 HAL_RCCEx_DisableMSIPLLMode
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7190   .text.HAL_RCCEx_DisableMSIPLLMode:000000000000000c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7195   .text.HAL_RCCEx_CRSConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7201   .text.HAL_RCCEx_CRSConfig:0000000000000000 HAL_RCCEx_CRSConfig
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7270   .text.HAL_RCCEx_CRSConfig:0000000000000044 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7276   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7282   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7299   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:000000000000000c $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7304   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7310   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 HAL_RCCEx_CRSGetSynchronizationInfo
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7353   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000020 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7358   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7364   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 HAL_RCCEx_CRSWaitSynchronization
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7553   .text.HAL_RCCEx_CRSWaitSynchronization:00000000000000a8 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7558   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7564   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 HAL_RCCEx_CRS_SyncOkCallback
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s 			page 252
 
 
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7577   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7583   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 HAL_RCCEx_CRS_SyncWarnCallback
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7596   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7602   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 HAL_RCCEx_CRS_ExpectedSyncCallback
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7615   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7621   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 HAL_RCCEx_CRS_ErrorCallback
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7636   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7642   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 HAL_RCCEx_CRS_IRQHandler
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:7780   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000084 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:993    .text.HAL_RCCEx_PeriphCLKConfig:000000000000026d $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:993    .text.HAL_RCCEx_PeriphCLKConfig:000000000000026e $t
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4602   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000841 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccjv3pBJ.s:4602   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000842 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7577   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7583   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 HAL_RCCEx_CRS_SyncWarnCallback
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7596   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7602   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 HAL_RCCEx_CRS_ExpectedSyncCallback
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7615   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7621   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 HAL_RCCEx_CRS_ErrorCallback
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7636   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7642   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 HAL_RCCEx_CRS_IRQHandler
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:7780   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000084 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:993    .text.HAL_RCCEx_PeriphCLKConfig:000000000000026d $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:993    .text.HAL_RCCEx_PeriphCLKConfig:000000000000026e $t
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4602   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000841 $d
+C:\Users\Yamaan\AppData\Local\Temp\cc8DnunV.s:4602   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000842 $t
 
 UNDEFINED SYMBOLS
 HAL_GetTick

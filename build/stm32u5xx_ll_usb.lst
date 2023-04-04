@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 1
 
 
    1              		.cpu cortex-m33
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
   27:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                     ##### How to use this driver #####
   28:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   ==============================================================================
   29:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     [..]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 2
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 2
 
 
   30:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       (#) Fill parameters of Init structure in USB_OTG_CfgTypeDef structure.
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
   84:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** {
   85:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   HAL_StatusTypeDef ret;
   86:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** #if defined (STM32U595xx) || defined (STM32U5A5xx) || defined (STM32U599xx) || defined (STM32U5A9xx
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 3
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 3
 
 
   87:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   if (cfg.phy_itface == USB_OTG_HS_EMBEDDED_PHY)
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  141:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   if (speed == USBD_FS_SPEED)
  142:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  143:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     if ((hclk >= 14200000U) && (hclk < 15000000U))
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 4
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 4
 
 
  144:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  198:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   else
  199:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  200:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     UsbTrd = USBD_DEFAULT_TRDT_VALUE;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 5
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 5
 
 
  201:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  255:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       ms++;
  256:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     } while ((USB_GetMode(USBx) != (uint32_t)USB_HOST_MODE) && (ms < 50U));
  257:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 6
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 6
 
 
  258:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   else if (mode == USB_DEVICE_MODE)
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  312:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** #else
  313:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx->GOTGCTL |= USB_OTG_GOTGCTL_BVALOEN;
  314:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx->GOTGCTL |= USB_OTG_GOTGCTL_BVALOVAL;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 7
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 7
 
 
  315:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** #endif /* defined (STM32U595xx) || defined (STM32U5A5xx) || defined (STM32U599xx) || defined (STM32
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  369:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   USBx_DEVICE->DOEPMSK = 0U;
  370:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   USBx_DEVICE->DAINTMSK = 0U;
  371:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 8
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 8
 
 
  372:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   for (i = 0U; i < cfg.dev_endpoints; i++)
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  426:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  427:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx->GINTMSK |= USB_OTG_GINTMSK_RXFLVLM;
  428:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 9
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 9
 
 
  429:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  483:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
  484:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   } while ((USBx->GRSTCTL & USB_OTG_GRSTCTL_TXFFLSH) == USB_OTG_GRSTCTL_TXFFLSH);
  485:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 10
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 10
 
 
  486:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   return HAL_OK;
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  540:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  541:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   USBx_DEVICE->DCFG |= speed;
  542:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   return HAL_OK;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 11
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 11
 
 
  543:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** }
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  597:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
  598:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
  599:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   else
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 12
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 12
 
 
  600:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  654:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @brief  De-activate and de-initialize an endpoint
  655:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  USBx  Selected device
  656:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  ep pointer to endpoint structure
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 13
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 13
 
 
  657:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @retval HAL status
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  711:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   /* Read DEPCTLn register */
  712:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   if (ep->is_in == 1U)
  713:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 14
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 14
 
 
  714:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     if ((USBx_INEP(epnum)->DIEPCTL & USB_OTG_DIEPCTL_EPENA) == USB_OTG_DIEPCTL_EPENA)
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  768:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       * short_packet pktcnt = N + (short_packet
  769:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       * exist ? 1 : 0)
  770:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 15
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 15
 
 
  771:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       USBx_INEP(epnum)->DIEPTSIZ &= ~(USB_OTG_DIEPTSIZ_XFRSIZ);
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  825:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         }
  826:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         else
  827:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 16
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 16
 
 
  828:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****           USBx_INEP(epnum)->DIEPCTL |= USB_OTG_DIEPCTL_SD0PID_SEVNFRM;
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  882:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** }
  883:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  884:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 17
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 17
 
 
  885:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @brief  USB_EP0StartXfer : setup and starts a transfer over the EP  0
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  939:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       /* EP enable, IN data in FIFO */
  940:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       USBx_INEP(epnum)->DIEPCTL |= (USB_OTG_DIEPCTL_CNAK | USB_OTG_DIEPCTL_EPENA);
  941:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 18
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 18
 
 
  942:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       /* Enable the Tx FIFO Empty Interrupt for this EP */
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  996:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  997:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   /* IN endpoint */
  998:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   if (ep->is_in == 1U)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 19
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 19
 
 
  999:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1053:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @retval HAL status
 1054:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   */
 1055:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** HAL_StatusTypeDef USB_WritePacket(USB_OTG_GlobalTypeDef *USBx, uint8_t *src,
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 20
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 20
 
 
 1056:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                                   uint8_t ch_ep_num, uint16_t len, uint8_t dma)
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1110:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     do
 1111:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
 1112:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       *(uint8_t *)pDest = (uint8_t)(pData >> (8U * (uint8_t)(i)));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 21
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 21
 
 
 1113:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       i++;
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1167:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     if ((ep->type == EP_TYPE_INTR) || (ep->type == EP_TYPE_BULK))
 1168:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
 1169:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       USBx_INEP(epnum)->DIEPCTL |= USB_OTG_DIEPCTL_SD0PID_SEVNFRM; /* DATA0 */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 22
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 22
 
 
 1170:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1224:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  USBx  Selected device
 1225:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  address  new device address to be assigned
 1226:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   *          This parameter can be a value from 0 to 255
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 23
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 23
 
 
 1227:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @retval HAL status
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1281:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
 1282:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   tmpreg = USBx->GINTSTS;
 1283:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   tmpreg &= USBx->GINTMSK;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 24
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 24
 
 
 1284:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1338:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** /**
 1339:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @brief  Returns Device IN EP Interrupt register
 1340:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  USBx  Selected device
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 25
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 25
 
 
 1341:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  epnum  endpoint number
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1395:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
 1396:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   USBx_DEVICE->DCTL |= USB_OTG_DCTL_CGINAK;
 1397:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 26
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 26
 
 
 1398:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   return HAL_OK;
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
   36 0000 82B0     		sub	sp, sp, #8
   37              		.cfi_def_cfa_offset 8
 1446:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   __IO uint32_t count = 0U;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 27
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 27
 
 
   38              		.loc 1 1446 3 is_stmt 1 view .LVU2
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1465:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     count++;
   74              		.loc 1 1465 5 view .LVU19
   75              		.loc 1 1465 10 is_stmt 0 view .LVU20
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 28
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 28
 
 
   76 0026 019B     		ldr	r3, [sp, #4]
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  118 004a 00BF     		.align	2
  119              	.L8:
  120 004c 400D0300 		.word	200000
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 29
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 29
 
 
  121              		.cfi_endproc
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  113:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
  165              		.loc 1 113 9 is_stmt 0 view .LVU45
  166 001e A36B     		ldr	r3, [r4, #56]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 30
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 30
 
 
  113:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  141:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  213              		.loc 1 141 6 is_stmt 0 view .LVU56
  214 0000 022A     		cmp	r2, #2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 31
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 31
 
 
  215 0002 0AD0     		beq	.L26
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  253 0026 0B44     		add	r3, r3, r1
  148:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
  254              		.loc 1 148 13 view .LVU73
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 32
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 32
 
 
  255 0028 224A     		ldr	r2, .L27+12
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  294              		.loc 1 173 13 view .LVU88
  295 0062 1C4A     		ldr	r2, .L27+44
  296 0064 9342     		cmp	r3, r2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 33
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 33
 
 
  297 0066 19D3     		bcc	.L23
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  338              		.loc 1 171 14 view .LVU101
  339 0098 0A22     		movs	r2, #10
  340 009a B4E7     		b	.L15
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 34
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 34
 
 
  341              	.L23:
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  391 0000 8368     		ldr	r3, [r0, #8]
  217:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   return HAL_OK;
  392              		.loc 1 217 17 view .LVU108
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 35
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 35
 
 
  393 0002 43F00103 		orr	r3, r3, #1
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  441              	USB_FlushTxFifo:
  442              	.LVL19:
  443              	.LFB346:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 36
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 36
 
 
  458:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   __IO uint32_t count = 0U;
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  481              		.loc 1 474 51 is_stmt 0 view .LVU135
  482 001e 8901     		lsls	r1, r1, #6
  483              	.LVL20:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 37
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 37
 
 
  474:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  523              		@ sp needed
  524 0044 7047     		bx	lr
  525              	.LVL24:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 38
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 38
 
 
  526              	.L36:
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  571 000c 019A     		ldr	r2, [sp, #4]
  503:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
  572              		.loc 1 503 8 view .LVU162
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 39
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 39
 
 
  573 000e 0E4B     		ldr	r3, .L47
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  610              		.loc 1 523 10 view .LVU179
  611 0038 0020     		movs	r0, #0
  612              	.LVL27:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 40
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 40
 
 
  523:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** }
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  660 0000 D0F80038 		ldr	r3, [r0, #2048]
  541:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   return HAL_OK;
  661              		.loc 1 541 21 view .LVU189
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 41
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 41
 
 
  662 0004 1943     		orrs	r1, r1, r3
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  708              		.loc 1 293 3 view .LVU199
  295:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  709              		.loc 1 295 3 view .LVU200
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 42
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 42
 
 
  295:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  313:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx->GOTGCTL |= USB_OTG_GOTGCTL_BVALOVAL;
  748              		.loc 1 313 9 is_stmt 0 view .LVU217
  749 003c 2368     		ldr	r3, [r4]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 43
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 43
 
 
  313:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx->GOTGCTL |= USB_OTG_GOTGCTL_BVALOVAL;
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  362:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  789              		.loc 1 362 3 is_stmt 1 view .LVU233
  362:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 44
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 44
 
 
  790              		.loc 1 362 7 is_stmt 0 view .LVU234
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  378:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
  829              		.loc 1 378 9 is_stmt 1 view .LVU250
  378:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 45
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 45
 
 
  830              		.loc 1 378 31 is_stmt 0 view .LVU251
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  868              		.loc 1 382 31 is_stmt 0 view .LVU267
  869 00ca 4FF09040 		mov	r0, #1207959552
  870 00ce C2F80009 		str	r0, [r2, #2304]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 46
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 46
 
 
  871 00d2 E5E7     		b	.L60
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  909              		.loc 1 396 8 view .LVU283
  910 00fe 002E     		cmp	r6, #0
  911 0100 EADB     		blt	.L77
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 47
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 47
 
 
  409:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  949 0132 A361     		str	r3, [r4, #24]
  950              	.L67:
  431:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                    USB_OTG_GINTMSK_ENUMDNEM | USB_OTG_GINTMSK_IEPINT |
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 48
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 48
 
 
  951              		.loc 1 431 3 is_stmt 1 view .LVU301
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  992              	.LVL56:
  993              	.L78:
  994              		.cfi_restore_state
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 49
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 49
 
 
  443:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1038              		.loc 1 563 11 is_stmt 0 view .LVU327
  1039 000a 022B     		cmp	r3, #2
  1040 000c 07D0     		beq	.L84
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 50
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 50
 
 
  563:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****            (DevEnumSpeed == DSTS_ENUMSPD_FS_PHY_48MHZ))
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1086              		@ args = 0, pretend = 0, frame = 0
  1087              		@ frame_needed = 0, uses_anonymous_args = 0
  583:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 51
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 51
 
 
  1088              		.loc 1 583 1 is_stmt 0 view .LVU339
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1126              		.loc 1 605 7 is_stmt 1 view .LVU355
  605:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                                     ((uint32_t)ep->type << 18) |
  1127              		.loc 1 605 24 is_stmt 0 view .LVU356
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 52
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 52
 
 
  1128 0032 D0F8003B 		ldr	r3, [r0, #2816]
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  591:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
  1167              		.loc 1 591 26 view .LVU372
  1168 006c D0F80039 		ldr	r3, [r0, #2304]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 53
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 53
 
 
  591:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  622:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t epnum = (uint32_t)ep->num;
  1214              		.loc 1 622 3 is_stmt 1 view .LVU384
  1215              	.LVL77:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 54
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 54
 
 
  623:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1252              		.loc 1 647 5 is_stmt 1 view .LVU402
  647:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
  1253              		.loc 1 647 16 is_stmt 0 view .LVU403
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 55
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 55
 
 
  1254 0038 D0F83C38 		ldr	r3, [r0, #2108]
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  631:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                                    USB_OTG_DIEPCTL_SD0PID_SEVNFRM |
  1292              		.loc 1 631 49 view .LVU420
  1293 006a 91F804E0 		ldrb	lr, [r1, #4]	@ zero_extendqisi2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 56
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 56
 
 
  630:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                                    ((uint32_t)ep->type << 18) | (epnum << 22) |
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1339              		@ link register save eliminated.
  660:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
  1340              		.loc 1 660 1 is_stmt 0 view .LVU432
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 57
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 57
 
 
  1341 0000 30B4     		push	{r4, r5}
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1379 0028 24EA0242 		bic	r2, r4, r2, lsl #16
  1380 002c C0F83C28 		str	r2, [r0, #2108]
  690:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx_OUTEP(epnum)->DOEPCTL &= ~(USB_OTG_DOEPCTL_USBAEP |
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 58
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 58
 
 
  1381              		.loc 1 690 5 is_stmt 1 view .LVU449
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1421 005c D3F80029 		ldr	r2, [r3, #2304]
  667:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
  1422              		.loc 1 667 8 view .LVU464
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 59
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 59
 
 
  1423 0060 002A     		cmp	r2, #0
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1460              		.loc 1 675 31 view .LVU481
  1461 0098 104A     		ldr	r2, .L108+4
  1462 009a 0A40     		ands	r2, r2, r1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 60
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 60
 
 
  1463 009c C3F80029 		str	r2, [r3, #2304]
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1506              		.align	1
  1507              		.global	USB_DeactivateDedicatedEndpoint
  1508              		.syntax unified
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 61
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 61
 
 
  1509              		.thumb
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  732:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
  1549              		.loc 1 732 16 is_stmt 0 view .LVU509
  1550 0020 D0F81C38 		ldr	r3, [r0, #2076]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 62
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 62
 
 
  732:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1589              		.loc 1 721 16 is_stmt 0 view .LVU525
  1590 0052 D0F81C28 		ldr	r2, [r0, #2076]
  721:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 63
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 63
 
 
  1591              		.loc 1 721 77 view .LVU526
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  728:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
  1631              		.loc 1 728 24 is_stmt 0 view .LVU541
  1632 0092 D3F8002B 		ldr	r2, [r3, #2816]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 64
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 64
 
 
  728:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1677              		.loc 1 955 22 view .LVU553
  1678 000e 00F53063 		add	r3, r0, #2816
  1679              	.LVL118:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 65
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 65
 
 
  955:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx_OUTEP(epnum)->DOEPTSIZ &= ~(USB_OTG_DOEPTSIZ_PKTCNT);
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1716              		.loc 1 967 5 is_stmt 1 view .LVU571
  967:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  1717              		.loc 1 967 22 is_stmt 0 view .LVU572
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 66
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 66
 
 
  1718 003a 1C69     		ldr	r4, [r3, #16]
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1758              		.loc 1 905 23 is_stmt 0 view .LVU586
  1759 0062 00EB4314 		add	r4, r0, r3, lsl #5
  1760 0066 D4F81059 		ldr	r5, [r4, #2320]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 67
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 67
 
 
  905:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       USBx_INEP(epnum)->DIEPTSIZ |= (USB_OTG_DIEPTSIZ_PKTCNT & (1U << 19));
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  945:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
  1799              		.loc 1 945 9 is_stmt 1 view .LVU603
  945:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 68
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 68
 
 
  1800              		.loc 1 945 20 is_stmt 0 view .LVU604
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  921:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
  1840              		.loc 1 921 22 is_stmt 0 view .LVU619
  1841 00e2 8D61     		str	r5, [r1, #24]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 69
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 69
 
 
  1842              	.L122:
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1880 0114 C3F80029 		str	r2, [r3, #2304]
  1881 0118 9EE7     		b	.L125
  1882              	.LVL130:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 70
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 70
 
 
  1883              	.L130:
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1927              		.loc 1 998 3 view .LVU647
  998:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  1928              		.loc 1 998 9 is_stmt 0 view .LVU648
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 71
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 71
 
 
  1929 000a 4878     		ldrb	r0, [r1, #1]	@ zero_extendqisi2
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  1970 0036 0020     		movs	r0, #0
  1971 0038 F2E7     		b	.L134
  1972              	.L143:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 72
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 72
 
 
 1003:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       USBx_INEP(ep->num)->DIEPCTL |= (USB_OTG_DIEPCTL_EPDIS);
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2010              		.loc 1 994 21 view .LVU678
  2011 0076 0020     		movs	r0, #0
  2012 0078 D2E7     		b	.L134
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 73
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 73
 
 
  2013              	.L142:
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  994:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
  2051              		.loc 1 994 21 view .LVU695
  2052 00b6 0020     		movs	r0, #0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 74
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 74
 
 
  2053 00b8 B2E7     		b	.L134
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2096              		.loc 1 1066 5 is_stmt 1 view .LVU708
 1066:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
  2097              		.loc 1 1066 12 is_stmt 0 view .LVU709
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 75
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 75
 
 
  2098 000e 4FF0000C 		mov	ip, #0
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2139              		.thumb
  2140              		.thumb_func
  2142              	USB_EPStartXfer:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 76
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 76
 
 
  2143              	.LVL147:
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  842:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  2184              		.loc 1 842 5 is_stmt 1 view .LVU737
  842:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 77
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 77
 
 
  2185              		.loc 1 842 22 is_stmt 0 view .LVU738
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  866:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
  2223              		.loc 1 866 8 view .LVU755
  2224 005c 012A     		cmp	r2, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 78
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 78
 
 
  2225 005e 00F0D380 		beq	.L169
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  762:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
  2265              		.loc 1 762 7 is_stmt 1 view .LVU770
  762:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 79
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 79
 
 
  2266              		.loc 1 762 23 is_stmt 0 view .LVU771
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  817:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         }
  2304              		.loc 1 817 54 view .LVU788
  2305 00ca 01F00F01 		and	r1, r1, #15
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 80
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 80
 
 
  817:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         }
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2344 0106 B5FBF7F5 		udiv	r5, r5, r7
  773:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                                      (((ep->xfer_len + ep->maxpacket - 1U) / ep->maxpacket) << 19))
  2345              		.loc 1 773 62 view .LVU805
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 81
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 81
 
 
  2346 010a 494F     		ldr	r7, .L172
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2383              		.loc 1 787 7 is_stmt 1 view .LVU822
  787:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       {
  2384              		.loc 1 787 23 is_stmt 0 view .LVU823
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 82
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 82
 
 
  2385 0142 4A69     		ldr	r2, [r1, #20]
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  796:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         }
  2424              		.loc 1 796 27 view .LVU839
  2425 0174 D1F80029 		ldr	r2, [r1, #2304]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 83
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 83
 
 
  796:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         }
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  831:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
  2466              		.loc 1 831 15 view .LVU854
  2467 01b2 FFF7FEFF 		bl	USB_WritePacket
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 84
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 84
 
 
  2468              	.LVL169:
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2506 01e4 CCF81040 		str	r4, [ip, #16]
  2507              	.LVL173:
  855:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 85
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 85
 
 
  2508              		.loc 1 855 7 is_stmt 1 view .LVU871
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  874:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
  2547              		.loc 1 874 9 is_stmt 1 view .LVU887
  874:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 86
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 86
 
 
  2548              		.loc 1 874 26 is_stmt 0 view .LVU888
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2593 000a 02F00302 		and	r2, r2, #3
  2594              	.LVL179:
 1095:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 87
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 87
 
 
  2595              		.loc 1 1095 3 is_stmt 1 view .LVU900
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1112:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       i++;
  2633              		.loc 1 1112 7 discriminator 1 view .LVU917
 1112:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       i++;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 88
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 88
 
 
  2634              		.loc 1 1112 50 is_stmt 0 discriminator 1 view .LVU918
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2678              		@ frame_needed = 0, uses_anonymous_args = 0
  2679              		@ link register save eliminated.
 1130:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t epnum = (uint32_t)ep->num;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 89
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 89
 
 
  2680              		.loc 1 1130 3 view .LVU931
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1150:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** }
  2718              		.loc 1 1150 3 is_stmt 1 view .LVU948
 1151:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 90
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 90
 
 
  2719              		.loc 1 1151 1 is_stmt 0 view .LVU949
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1160:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
  2764              		.loc 1 1160 1 is_stmt 1 view -0
  2765              		.cfi_startproc
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 91
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 91
 
 
  2766              		@ args = 0, pretend = 0, frame = 0
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2804 0024 7047     		bx	lr
  2805              	.LVL205:
  2806              	.L189:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 92
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 92
 
 
 1166:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     if ((ep->type == EP_TYPE_INTR) || (ep->type == EP_TYPE_BULK))
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2848              		.syntax unified
  2849              		.thumb
  2850              		.thumb_func
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 93
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 93
 
 
  2852              	USB_StopDevice:
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2891              		.loc 1 1202 3 view .LVU1006
 1202:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   USBx_DEVICE->DOEPMSK  = 0U;
  2892              		.loc 1 1202 25 is_stmt 0 view .LVU1007
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 94
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 94
 
 
  2893 001e 0022     		movs	r2, #0
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2933              		.global	USB_SetDevAddress
  2934              		.syntax unified
  2935              		.thumb
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 95
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 95
 
 
  2936              		.thumb_func
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  2980              	USB_DevConnect:
  2981              	.LVL222:
  2982              	.LFB363:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 96
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 96
 
 
 1245:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3026 0000 D0F8003E 		ldr	r3, [r0, #3584]
 1266:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  3027              		.loc 1 1266 16 is_stmt 0 view .LVU1049
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 97
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 97
 
 
  3028 0004 23F00303 		bic	r3, r3, #3
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3070              		.loc 1 1286 1 is_stmt 0 view .LVU1063
  3071 0004 1040     		ands	r0, r0, r2
  3072              	.LVL229:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 98
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 98
 
 
 1286:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3117              		.section	.text.USB_ReadDevAllInEpInterrupt,"ax",%progbits
  3118              		.align	1
  3119              		.global	USB_ReadDevAllInEpInterrupt
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 99
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 99
 
 
  3120              		.syntax unified
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3165              	.LFB368:
 1328:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
  3166              		.loc 1 1328 1 is_stmt 1 view -0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 100
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 100
 
 
  3167              		.cfi_startproc
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1347:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t tmpreg;
  3211              		.loc 1 1347 3 view .LVU1102
 1348:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t msk;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 101
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 101
 
 
  3212              		.loc 1 1348 3 view .LVU1103
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3248              		.loc 1 1358 1 view .LVU1121
  3249 0022 7047     		bx	lr
  3250              		.cfi_endproc
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 102
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 102
 
 
  3251              	.LFE369:
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3300 0006 7047     		bx	lr
  3301              		.cfi_endproc
  3302              	.LFE371:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 103
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 103
 
 
  3304              		.section	.text.USB_SetCurrentMode,"ax",%progbits
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3346 0018 C360     		str	r3, [r0, #12]
  244:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
  3347              		.loc 1 244 12 view .LVU1144
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 104
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 104
 
 
  3348 001a 0024     		movs	r4, #0
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3387 003a 43F00053 		orr	r3, r3, #536870912
  3388 003e C360     		str	r3, [r0, #12]
  244:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 105
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 105
 
 
  3389              		.loc 1 244 12 view .LVU1160
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3433              		.thumb
  3434              		.thumb_func
  3436              	USB_ActivateSetup:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 106
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 106
 
 
  3437              	.LVL272:
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3481              		@ link register save eliminated.
 1412:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
  3482              		.loc 1 1412 1 is_stmt 0 view .LVU1184
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 107
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 107
 
 
  3483 0000 10B4     		push	{r4}
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3520 0028 44F01804 		orr	r4, r4, #24
  3521 002c C0F8104B 		str	r4, [r0, #2832]
 1427:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 108
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 108
 
 
  3522              		.loc 1 1427 3 is_stmt 1 view .LVU1202
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3566              		.thumb
  3567              		.thumb_func
  3569              	USB_HostInit:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 109
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 109
 
 
  3570              	.LVL280:
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3599              		.loc 1 1499 7 is_stmt 0 view .LVU1223
  3600 0012 A36B     		ldr	r3, [r4, #56]
  3601              		.loc 1 1499 15 view .LVU1224
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 110
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 110
 
 
  3602 0014 23F40013 		bic	r3, r3, #2097152
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3637              	.L226:
 1516:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
 1517:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 111
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 111
 
 
 1518:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   else
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3673 0072 09E0     		b	.L231
  3674              	.LVL287:
  3675              	.L232:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 112
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 112
 
 
 1537:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3711 00a0 4FF40073 		mov	r3, #512
  3712 00a4 6362     		str	r3, [r4, #36]
 1552:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     USBx->DIEPTXF0_HNPTXFSIZ = (uint32_t)(((0x100U << 16) & USB_OTG_NPTXFD) | 0x200U);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 113
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 113
 
 
  3713              		.loc 1 1552 5 is_stmt 1 view .LVU1271
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3744 00c6 2846     		mov	r0, r5
  3745 00c8 BDE83840 		pop	{r3, r4, r5, lr}
  3746              		.cfi_remember_state
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 114
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 114
 
 
  3747              		.cfi_restore 14
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1581:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  freq  clock frequency
 1582:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   *          This parameter can be one of these values:
 1583:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   *           HCFG_48_MHZ : Full Speed 48 MHz Clock
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 115
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 115
 
 
 1584:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   *           HCFG_6_MHZ : Low Speed 6 MHz Clock
@@ -6898,7 +6898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1607:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   return HAL_OK;
  3823              		.loc 1 1607 3 view .LVU1307
 1608:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 116
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 116
 
 
  3824              		.loc 1 1608 1 is_stmt 0 view .LVU1308
@@ -6958,7 +6958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3866              		.cfi_def_cfa_offset 24
  3867 0004 0446     		mov	r4, r0
 1619:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 117
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 117
 
 
  3868              		.loc 1 1619 3 is_stmt 1 view .LVU1316
@@ -7018,7 +7018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3907              		.loc 1 1634 1 is_stmt 0 view .LVU1334
  3908 0038 2846     		mov	r0, r5
  3909 003a 03B0     		add	sp, sp, #12
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 118
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 118
 
 
  3910              		.cfi_def_cfa_offset 12
@@ -7078,7 +7078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3949 000e 23F02E03 		bic	r3, r3, #46
  3950 0012 0193     		str	r3, [sp, #4]
 1652:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****              USB_OTG_HPRT_PENCHNG | USB_OTG_HPRT_POCCHNG);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 119
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 119
 
 
 1653:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -7138,7 +7138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  3992 003c 43F48053 		orr	r3, r3, #4096
 1656:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
  3993              		.loc 1 1656 16 view .LVU1362
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 120
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 120
 
 
  3994 0040 C0F84034 		str	r3, [r0, #1088]
@@ -7198,7 +7198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4032              		.loc 1 1681 1 view .LVU1373
  4033 000e C0F34140 		ubfx	r0, r0, #17, #2
  4034 0012 02B0     		add	sp, sp, #8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 121
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 121
 
 
  4035              		.cfi_def_cfa_offset 0
@@ -7258,7 +7258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1695:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** /**
 1696:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @brief  Initialize a host channel
 1697:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  USBx  Selected device
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 122
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 122
 
 
 1698:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   * @param  ch_num  Channel number
@@ -7318,7 +7318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1728:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
 1729:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   /* Clear old interrupt conditions for this host channel. */
 1730:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   USBx_HC((uint32_t)ch_num)->HCINT = 0xFFFFFFFFU;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 123
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 123
 
 
  4104              		.loc 1 1730 3 view .LVU1387
@@ -7378,7 +7378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1751:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         {
 1752:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****           USBx_HC((uint32_t)ch_num)->HCINTMSK |= USB_OTG_HCINTMSK_NYET |
  4138              		.loc 1 1752 11 is_stmt 1 view .LVU1398
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 124
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 124
 
 
  4139              		.loc 1 1752 36 is_stmt 0 view .LVU1399
@@ -7438,7 +7438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1770:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       }
 1771:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
 1772:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       break;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 125
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 125
 
 
 1773:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -7498,7 +7498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4195              		.loc 1 1801 6 is_stmt 0 view .LVU1423
  4196 0082 19F0800F 		tst	r9, #128
  4197 0086 44D1     		bne	.L278
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 126
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 126
 
 
 1802:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
@@ -7558,7 +7558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4228              		.loc 1 1824 66 view .LVU1437
  4229 00ae 01F44021 		and	r1, r1, #786432
 1823:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****                                       ((((uint32_t)epnum & 0x7FU) << 11) & USB_OTG_HCCHAR_EPNUM) |
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 127
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 127
 
 
  4230              		.loc 1 1823 98 view .LVU1438
@@ -7618,7 +7618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4270 00e4 42F48072 		orr	r2, r2, #256
  4271 00e8 DA60     		str	r2, [r3, #12]
 1723:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 128
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 128
 
 
  4272              		.loc 1 1723 21 view .LVU1456
@@ -7678,7 +7678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4313 0118 0228     		cmp	r0, #2
  4314 011a 02D0     		beq	.L281
 1815:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 129
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 129
 
 
  4315              		.loc 1 1815 20 view .LVU1470
@@ -7738,7 +7738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1869:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
 1870:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
 1871:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 130
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 130
 
 
 1872:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
@@ -7798,7 +7798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1926:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   else
 1927:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
 1928:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     tmpreg &= ~USB_OTG_HCCHAR_EPDIR;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 131
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 131
 
 
 1929:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
@@ -7858,7 +7858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1983:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   */
 1984:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** uint32_t USB_HC_ReadInterrupt(USB_OTG_GlobalTypeDef *USBx)
 1985:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 132
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 132
 
 
  4335              		.loc 1 1985 1 is_stmt 1 view -0
@@ -7918,7 +7918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4376              	.LVL327:
 2001:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t hcnum = (uint32_t)hc_num;
  4377              		.loc 1 2001 3 view .LVU1481
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 133
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 133
 
 
 2002:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   __IO uint32_t count = 0U;
@@ -7978,7 +7978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 2018:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
 2019:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       if ((USBx->HNPTXSTS & (0xFFU << 16)) == 0U)
 2020:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 134
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 134
 
 
 2021:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         USBx_HC(hcnum)->HCCHAR &= ~USB_OTG_HCCHAR_CHENA;
@@ -8038,7 +8038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 2048:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       {
 2049:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         count++;
  4443              		.loc 1 2049 9 view .LVU1511
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 135
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 135
 
 
  4444              		.loc 1 2049 14 is_stmt 0 view .LVU1512
@@ -8098,7 +8098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4482              		.loc 1 2021 9 is_stmt 1 view .LVU1528
 2021:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         USBx_HC(hcnum)->HCCHAR |= USB_OTG_HCCHAR_CHENA;
  4483              		.loc 1 2021 23 is_stmt 0 view .LVU1529
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 136
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 136
 
 
  4484 0092 D1F80035 		ldr	r3, [r1, #1280]
@@ -8158,7 +8158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 2056:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
 2057:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     else
 2058:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 137
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 137
 
 
 2059:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       USBx_HC(hcnum)->HCCHAR |= USB_OTG_HCCHAR_CHENA;
@@ -8218,7 +8218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4559              		@ args = 0, pretend = 0, frame = 0
  4560              		@ frame_needed = 0, uses_anonymous_args = 0
  4561              		@ link register save eliminated.
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 138
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 138
 
 
 2075:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t USBx_BASE = (uint32_t)USBx;
@@ -8278,7 +8278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4601              		.syntax unified
  4602              		.thumb
  4603              		.thumb_func
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 139
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 139
 
 
  4605              	USB_HC_StartXfer:
@@ -8338,7 +8338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4642              		.loc 1 1858 8 is_stmt 0 view .LVU1584
  4643 0012 012A     		cmp	r2, #1
  4644 0014 16D0     		beq	.L314
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 140
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 140
 
 
  4645              	.L298:
@@ -8398,7 +8398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 1881:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     }
  4681              		.loc 1 1881 20 view .LVU1603
  4682 003c 0D61     		str	r5, [r1, #16]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 141
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 141
 
 
 1880:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****       hc->XferSize = (uint32_t)num_packets * hc->max_packet;
@@ -8458,7 +8458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4722              		.loc 1 1893 9 is_stmt 0 view .LVU1618
  4723 006a CD78     		ldrb	r5, [r1, #3]	@ zero_extendqisi2
 1893:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 142
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 142
 
 
  4724              		.loc 1 1893 6 view .LVU1619
@@ -8518,7 +8518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4761 00a0 12B1     		cbz	r2, .L304
 1910:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
  4762              		.loc 1 1910 5 is_stmt 1 view .LVU1637
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 143
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 143
 
 
 1910:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   }
@@ -8578,7 +8578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4800 00e0 0394     		str	r4, [sp, #12]
 1922:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
  4801              		.loc 1 1922 3 is_stmt 1 view .LVU1655
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 144
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 144
 
 
 1922:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   {
@@ -8638,7 +8638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4838 0108 032A     		cmp	r2, #3
  4839 010a 15D8     		bhi	.L307
  4840 010c DFE802F0 		tbb	[pc, r2]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 145
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 145
 
 
  4841              	.L309:
@@ -8698,7 +8698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4881              		.loc 1 1952 25 view .LVU1687
  4882 0132 43F02003 		orr	r3, r3, #32
  4883 0136 8361     		str	r3, [r0, #24]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 146
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 146
 
 
  4884              	.LVL362:
@@ -8758,7 +8758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  4925 015a 8369     		ldr	r3, [r0, #24]
 1964:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****         }
  4926              		.loc 1 1964 25 view .LVU1701
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 147
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 147
 
 
  4927 015c 43F08063 		orr	r3, r3, #67108864
@@ -8818,7 +8818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 2103:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   uint32_t i;
  4970              		.loc 1 2103 3 view .LVU1710
 2104:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 148
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 148
 
 
 2105:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   (void)USB_DisableGlobalInt(USBx);
@@ -8878,7 +8878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  5008 002a 04EB4211 		add	r1, r4, r2, lsl #5
  5009              		.loc 1 2121 11 discriminator 3 view .LVU1726
  5010 002e D1F80035 		ldr	r3, [r1, #1280]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 149
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 149
 
 
  5011              	.LVL377:
@@ -8938,7 +8938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 2134:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****     value &= ~USB_OTG_HCCHAR_EPDIR;
  5051              		.loc 1 2134 5 view .LVU1743
  5052 005a 23F40043 		bic	r3, r3, #32768
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 150
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 150
 
 
  5053              	.LVL384:
@@ -8998,7 +8998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
 2152:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_ll_usb.c ****   (void)USB_EnableGlobalInt(USBx);
  5090              		.loc 1 2152 3 is_stmt 1 view .LVU1760
  5091              		.loc 1 2152 9 is_stmt 0 view .LVU1761
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 151
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 151
 
 
  5092 0086 2046     		mov	r0, r4
@@ -9058,7 +9058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  5131              		.loc 1 2169 5 is_stmt 1 view .LVU1771
  5132              		.loc 1 2169 16 is_stmt 0 view .LVU1772
  5133 000e 4368     		ldr	r3, [r0, #4]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 152
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 152
 
 
  5134              		.loc 1 2169 23 view .LVU1773
@@ -9118,7 +9118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  5171 000c 0020     		movs	r0, #0
  5172              	.LVL393:
  5173              		.loc 1 2188 1 view .LVU1784
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 153
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 153
 
 
  5174 000e 7047     		bx	lr
@@ -9133,130 +9133,130 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 1
  5184              		.file 6 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_def.h"
  5185              		.file 7 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_usb.h"
  5186              		.file 8 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 154
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 154
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32u5xx_ll_usb.c
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:22     .text.USB_CoreReset:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:27     .text.USB_CoreReset:0000000000000000 USB_CoreReset
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:120    .text.USB_CoreReset:000000000000004c $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:125    .text.USB_CoreInit:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:131    .text.USB_CoreInit:0000000000000000 USB_CoreInit
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:197    .text.USB_SetTurnaroundTime:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:203    .text.USB_SetTurnaroundTime:0000000000000000 USB_SetTurnaroundTime
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:356    .text.USB_SetTurnaroundTime:00000000000000a8 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:375    .text.USB_EnableGlobalInt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:381    .text.USB_EnableGlobalInt:0000000000000000 USB_EnableGlobalInt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:405    .text.USB_DisableGlobalInt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:411    .text.USB_DisableGlobalInt:0000000000000000 USB_DisableGlobalInt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:435    .text.USB_FlushTxFifo:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:441    .text.USB_FlushTxFifo:0000000000000000 USB_FlushTxFifo
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:536    .text.USB_FlushTxFifo:000000000000004c $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:541    .text.USB_FlushRxFifo:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:547    .text.USB_FlushRxFifo:0000000000000000 USB_FlushRxFifo
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:638    .text.USB_FlushRxFifo:0000000000000048 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:643    .text.USB_SetDevSpeed:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:649    .text.USB_SetDevSpeed:0000000000000000 USB_SetDevSpeed
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:676    .text.USB_DevInit:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:682    .text.USB_DevInit:0000000000000000 USB_DevInit
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1006   .text.USB_DevInit:0000000000000164 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1011   .text.USB_GetDevSpeed:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1017   .text.USB_GetDevSpeed:0000000000000000 USB_GetDevSpeed
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1075   .text.USB_ActivateEndpoint:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1081   .text.USB_ActivateEndpoint:0000000000000000 USB_ActivateEndpoint
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1196   .text.USB_ActivateDedicatedEndpoint:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1202   .text.USB_ActivateDedicatedEndpoint:0000000000000000 USB_ActivateDedicatedEndpoint
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1326   .text.USB_DeactivateEndpoint:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1332   .text.USB_DeactivateEndpoint:0000000000000000 USB_DeactivateEndpoint
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1500   .text.USB_DeactivateEndpoint:00000000000000d8 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1506   .text.USB_DeactivateDedicatedEndpoint:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1512   .text.USB_DeactivateDedicatedEndpoint:0000000000000000 USB_DeactivateDedicatedEndpoint
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1641   .text.USB_EP0StartXfer:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1647   .text.USB_EP0StartXfer:0000000000000000 USB_EP0StartXfer
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1899   .text.USB_EPStopXfer:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:1905   .text.USB_EPStopXfer:0000000000000000 USB_EPStopXfer
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2062   .text.USB_WritePacket:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2068   .text.USB_WritePacket:0000000000000000 USB_WritePacket
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2136   .text.USB_EPStartXfer:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2142   .text.USB_EPStartXfer:0000000000000000 USB_EPStartXfer
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2557   .text.USB_EPStartXfer:0000000000000230 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2562   .text.USB_ReadPacket:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2568   .text.USB_ReadPacket:0000000000000000 USB_ReadPacket
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2666   .text.USB_EPSetStall:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2672   .text.USB_EPSetStall:0000000000000000 USB_EPSetStall
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2755   .text.USB_EPClearStall:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2761   .text.USB_EPClearStall:0000000000000000 USB_EPClearStall
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2846   .text.USB_StopDevice:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2852   .text.USB_StopDevice:0000000000000000 USB_StopDevice
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2932   .text.USB_SetDevAddress:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2938   .text.USB_SetDevAddress:0000000000000000 USB_SetDevAddress
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2974   .text.USB_DevConnect:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:2980   .text.USB_DevConnect:0000000000000000 USB_DevConnect
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 155
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:22     .text.USB_CoreReset:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:27     .text.USB_CoreReset:0000000000000000 USB_CoreReset
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:120    .text.USB_CoreReset:000000000000004c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:125    .text.USB_CoreInit:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:131    .text.USB_CoreInit:0000000000000000 USB_CoreInit
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:197    .text.USB_SetTurnaroundTime:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:203    .text.USB_SetTurnaroundTime:0000000000000000 USB_SetTurnaroundTime
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:356    .text.USB_SetTurnaroundTime:00000000000000a8 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:375    .text.USB_EnableGlobalInt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:381    .text.USB_EnableGlobalInt:0000000000000000 USB_EnableGlobalInt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:405    .text.USB_DisableGlobalInt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:411    .text.USB_DisableGlobalInt:0000000000000000 USB_DisableGlobalInt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:435    .text.USB_FlushTxFifo:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:441    .text.USB_FlushTxFifo:0000000000000000 USB_FlushTxFifo
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:536    .text.USB_FlushTxFifo:000000000000004c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:541    .text.USB_FlushRxFifo:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:547    .text.USB_FlushRxFifo:0000000000000000 USB_FlushRxFifo
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:638    .text.USB_FlushRxFifo:0000000000000048 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:643    .text.USB_SetDevSpeed:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:649    .text.USB_SetDevSpeed:0000000000000000 USB_SetDevSpeed
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:676    .text.USB_DevInit:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:682    .text.USB_DevInit:0000000000000000 USB_DevInit
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1006   .text.USB_DevInit:0000000000000164 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1011   .text.USB_GetDevSpeed:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1017   .text.USB_GetDevSpeed:0000000000000000 USB_GetDevSpeed
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1075   .text.USB_ActivateEndpoint:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1081   .text.USB_ActivateEndpoint:0000000000000000 USB_ActivateEndpoint
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1196   .text.USB_ActivateDedicatedEndpoint:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1202   .text.USB_ActivateDedicatedEndpoint:0000000000000000 USB_ActivateDedicatedEndpoint
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1326   .text.USB_DeactivateEndpoint:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1332   .text.USB_DeactivateEndpoint:0000000000000000 USB_DeactivateEndpoint
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1500   .text.USB_DeactivateEndpoint:00000000000000d8 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1506   .text.USB_DeactivateDedicatedEndpoint:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1512   .text.USB_DeactivateDedicatedEndpoint:0000000000000000 USB_DeactivateDedicatedEndpoint
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1641   .text.USB_EP0StartXfer:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1647   .text.USB_EP0StartXfer:0000000000000000 USB_EP0StartXfer
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1899   .text.USB_EPStopXfer:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:1905   .text.USB_EPStopXfer:0000000000000000 USB_EPStopXfer
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2062   .text.USB_WritePacket:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2068   .text.USB_WritePacket:0000000000000000 USB_WritePacket
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2136   .text.USB_EPStartXfer:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2142   .text.USB_EPStartXfer:0000000000000000 USB_EPStartXfer
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2557   .text.USB_EPStartXfer:0000000000000230 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2562   .text.USB_ReadPacket:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2568   .text.USB_ReadPacket:0000000000000000 USB_ReadPacket
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2666   .text.USB_EPSetStall:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2672   .text.USB_EPSetStall:0000000000000000 USB_EPSetStall
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2755   .text.USB_EPClearStall:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2761   .text.USB_EPClearStall:0000000000000000 USB_EPClearStall
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2846   .text.USB_StopDevice:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2852   .text.USB_StopDevice:0000000000000000 USB_StopDevice
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2932   .text.USB_SetDevAddress:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2938   .text.USB_SetDevAddress:0000000000000000 USB_SetDevAddress
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2974   .text.USB_DevConnect:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:2980   .text.USB_DevConnect:0000000000000000 USB_DevConnect
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 155
 
 
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3010   .text.USB_DevDisconnect:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3016   .text.USB_DevDisconnect:0000000000000000 USB_DevDisconnect
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3046   .text.USB_ReadInterrupts:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3052   .text.USB_ReadInterrupts:0000000000000000 USB_ReadInterrupts
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3079   .text.USB_ReadDevAllOutEpInterrupt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3085   .text.USB_ReadDevAllOutEpInterrupt:0000000000000000 USB_ReadDevAllOutEpInterrupt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3118   .text.USB_ReadDevAllInEpInterrupt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3124   .text.USB_ReadDevAllInEpInterrupt:0000000000000000 USB_ReadDevAllInEpInterrupt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3157   .text.USB_ReadDevOutEPInterrupt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3163   .text.USB_ReadDevOutEPInterrupt:0000000000000000 USB_ReadDevOutEPInterrupt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3197   .text.USB_ReadDevInEPInterrupt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3203   .text.USB_ReadDevInEPInterrupt:0000000000000000 USB_ReadDevInEPInterrupt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3254   .text.USB_ClearInterrupts:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3260   .text.USB_ClearInterrupts:0000000000000000 USB_ClearInterrupts
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3280   .text.USB_GetMode:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3286   .text.USB_GetMode:0000000000000000 USB_GetMode
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3305   .text.USB_SetCurrentMode:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3311   .text.USB_SetCurrentMode:0000000000000000 USB_SetCurrentMode
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3430   .text.USB_ActivateSetup:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3436   .text.USB_ActivateSetup:0000000000000000 USB_ActivateSetup
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3468   .text.USB_EP0_OutStart:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3474   .text.USB_EP0_OutStart:0000000000000000 USB_EP0_OutStart
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3558   .text.USB_EP0_OutStart:000000000000005c $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3563   .text.USB_HostInit:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3569   .text.USB_HostInit:0000000000000000 USB_HostInit
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3776   .text.USB_HostInit:00000000000000e4 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3783   .text.USB_InitFSLSPClkSel:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3789   .text.USB_InitFSLSPClkSel:0000000000000000 USB_InitFSLSPClkSel
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3846   .text.USB_ResetPort:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3852   .text.USB_ResetPort:0000000000000000 USB_ResetPort
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3918   .text.USB_DriveVbus:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:3924   .text.USB_DriveVbus:0000000000000000 USB_DriveVbus
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4000   .text.USB_GetHostSpeed:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4006   .text.USB_GetHostSpeed:0000000000000000 USB_GetHostSpeed
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4042   .text.USB_GetCurrentFrame:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4048   .text.USB_GetCurrentFrame:0000000000000000 USB_GetCurrentFrame
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4071   .text.USB_HC_Init:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4077   .text.USB_HC_Init:0000000000000000 USB_HC_Init
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4118   .text.USB_HC_Init:0000000000000022 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4122   .text.USB_HC_Init:0000000000000026 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4326   .text.USB_HC_ReadInterrupt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4332   .text.USB_HC_ReadInterrupt:0000000000000000 USB_HC_ReadInterrupt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4355   .text.USB_HC_Halt:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4361   .text.USB_HC_Halt:0000000000000000 USB_HC_Halt
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4548   .text.USB_DoPing:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4554   .text.USB_DoPing:0000000000000000 USB_DoPing
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4594   .text.USB_DoPing:0000000000000020 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4599   .text.USB_HC_StartXfer:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4605   .text.USB_HC_StartXfer:0000000000000000 USB_HC_StartXfer
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4842   .text.USB_HC_StartXfer:0000000000000110 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4847   .text.USB_HC_StartXfer:0000000000000114 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4935   .text.USB_HC_StartXfer:0000000000000164 $d
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4940   .text.USB_StopHost:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:4946   .text.USB_StopHost:0000000000000000 USB_StopHost
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:5107   .text.USB_ActivateRemoteWakeup:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:5113   .text.USB_ActivateRemoteWakeup:0000000000000000 USB_ActivateRemoteWakeup
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:5148   .text.USB_DeActivateRemoteWakeup:0000000000000000 $t
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s 			page 156
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3010   .text.USB_DevDisconnect:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3016   .text.USB_DevDisconnect:0000000000000000 USB_DevDisconnect
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3046   .text.USB_ReadInterrupts:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3052   .text.USB_ReadInterrupts:0000000000000000 USB_ReadInterrupts
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3079   .text.USB_ReadDevAllOutEpInterrupt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3085   .text.USB_ReadDevAllOutEpInterrupt:0000000000000000 USB_ReadDevAllOutEpInterrupt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3118   .text.USB_ReadDevAllInEpInterrupt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3124   .text.USB_ReadDevAllInEpInterrupt:0000000000000000 USB_ReadDevAllInEpInterrupt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3157   .text.USB_ReadDevOutEPInterrupt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3163   .text.USB_ReadDevOutEPInterrupt:0000000000000000 USB_ReadDevOutEPInterrupt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3197   .text.USB_ReadDevInEPInterrupt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3203   .text.USB_ReadDevInEPInterrupt:0000000000000000 USB_ReadDevInEPInterrupt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3254   .text.USB_ClearInterrupts:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3260   .text.USB_ClearInterrupts:0000000000000000 USB_ClearInterrupts
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3280   .text.USB_GetMode:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3286   .text.USB_GetMode:0000000000000000 USB_GetMode
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3305   .text.USB_SetCurrentMode:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3311   .text.USB_SetCurrentMode:0000000000000000 USB_SetCurrentMode
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3430   .text.USB_ActivateSetup:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3436   .text.USB_ActivateSetup:0000000000000000 USB_ActivateSetup
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3468   .text.USB_EP0_OutStart:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3474   .text.USB_EP0_OutStart:0000000000000000 USB_EP0_OutStart
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3558   .text.USB_EP0_OutStart:000000000000005c $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3563   .text.USB_HostInit:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3569   .text.USB_HostInit:0000000000000000 USB_HostInit
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3776   .text.USB_HostInit:00000000000000e4 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3783   .text.USB_InitFSLSPClkSel:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3789   .text.USB_InitFSLSPClkSel:0000000000000000 USB_InitFSLSPClkSel
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3846   .text.USB_ResetPort:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3852   .text.USB_ResetPort:0000000000000000 USB_ResetPort
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3918   .text.USB_DriveVbus:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:3924   .text.USB_DriveVbus:0000000000000000 USB_DriveVbus
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4000   .text.USB_GetHostSpeed:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4006   .text.USB_GetHostSpeed:0000000000000000 USB_GetHostSpeed
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4042   .text.USB_GetCurrentFrame:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4048   .text.USB_GetCurrentFrame:0000000000000000 USB_GetCurrentFrame
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4071   .text.USB_HC_Init:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4077   .text.USB_HC_Init:0000000000000000 USB_HC_Init
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4118   .text.USB_HC_Init:0000000000000022 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4122   .text.USB_HC_Init:0000000000000026 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4326   .text.USB_HC_ReadInterrupt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4332   .text.USB_HC_ReadInterrupt:0000000000000000 USB_HC_ReadInterrupt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4355   .text.USB_HC_Halt:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4361   .text.USB_HC_Halt:0000000000000000 USB_HC_Halt
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4548   .text.USB_DoPing:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4554   .text.USB_DoPing:0000000000000000 USB_DoPing
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4594   .text.USB_DoPing:0000000000000020 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4599   .text.USB_HC_StartXfer:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4605   .text.USB_HC_StartXfer:0000000000000000 USB_HC_StartXfer
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4842   .text.USB_HC_StartXfer:0000000000000110 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4847   .text.USB_HC_StartXfer:0000000000000114 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4935   .text.USB_HC_StartXfer:0000000000000164 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4940   .text.USB_StopHost:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:4946   .text.USB_StopHost:0000000000000000 USB_StopHost
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:5107   .text.USB_ActivateRemoteWakeup:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:5113   .text.USB_ActivateRemoteWakeup:0000000000000000 USB_ActivateRemoteWakeup
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:5148   .text.USB_DeActivateRemoteWakeup:0000000000000000 $t
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s 			page 156
 
 
-C:\Users\Yamaan\AppData\Local\Temp\cccT3N5h.s:5154   .text.USB_DeActivateRemoteWakeup:0000000000000000 USB_DeActivateRemoteWakeup
+C:\Users\Yamaan\AppData\Local\Temp\ccBYvAUA.s:5154   .text.USB_DeActivateRemoteWakeup:0000000000000000 USB_DeActivateRemoteWakeup
 
 UNDEFINED SYMBOLS
 HAL_Delay

@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 1
 
 
    1              		.cpu cortex-m33
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
   27:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     [..]
   28:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       DMA transfer modes are divided to 2 major categories :
   29:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           (+) Normal transfers (legacy)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 2
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 2
 
 
   30:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           (+) Linked-list transfers
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
   84:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           (+) SrcBurstLength        : Specifies the source burst length (number of beats) for the D
   85:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****               (++) can be a value of between 1 and 64
   86:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 3
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 3
 
 
   87:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           (+) DestBurstLength       : Specifies the destination burst length (number of beats) for 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  141:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  142:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  143:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     *** State and errors ***
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 4
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 4
 
 
  144:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     ========================
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  198:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /* Private constants ------------------------------------------------------------------------------
  199:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /* Private macro ----------------------------------------------------------------------------------
  200:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /* Private variables ------------------------------------------------------------------------------
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 5
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 5
 
 
  201:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /* Private function prototypes --------------------------------------------------------------------
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  255:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  256:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   assert_param(IS_DMA_BLOCK_HW_REQUEST(hdma->Init.BlkHWRequest));
  257:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   assert_param(IS_DMA_SOURCE_INC(hdma->Init.SrcInc));
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 6
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 6
 
 
  258:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   assert_param(IS_DMA_DESTINATION_INC(hdma->Init.DestInc));
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  312:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /**
  313:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   * @brief  DeInitialize the DMA channel when it is configured in normal mode.
  314:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   * @param  hdma : Pointer to a DMA_HandleTypeDef structure that contains the configuration informa
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 7
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 7
 
 
  315:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   *                specified DMA Channel.
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  369:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  370:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  371:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   /* Clear privilege attribute */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 8
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 8
 
 
  372:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   CLEAR_BIT(p_dma_instance->PRIVCFGR, (1UL << (GET_DMA_CHANNEL(hdma) & 0x1FU)));
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  426:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       (+) Abort DMA transfer
  427:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       (+) Poll for transfer complete
  428:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       (+) Handle DMA interrupt request
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 9
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 9
 
 
  429:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       (+) Register and Unregister DMA callbacks
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  483:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     DMA_SetConfig(hdma, SrcAddress, DstAddress, SrcDataSize);
  484:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  485:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Enable DMA channel */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 10
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 10
 
 
  486:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     __HAL_DMA_ENABLE(hdma);
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  540:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Enable common interrupts: Transfer Complete and Transfer Errors ITs */
  541:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     __HAL_DMA_ENABLE_IT(hdma, (DMA_IT_TC | DMA_IT_DTE | DMA_IT_ULE | DMA_IT_USE | DMA_IT_TO));
  542:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 11
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 11
 
 
  543:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Check half transfer complete callback */
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  597:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Update the DMA channel error code */
  598:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     hdma->ErrorCode = HAL_DMA_ERROR_NO_XFER;
  599:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 12
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 12
 
 
  600:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Process Unlocked */
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  654:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
  655:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       /* Update the linked-list queue state */
  656:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       hdma->LinkedListQueue->State = HAL_DMA_QUEUE_STATE_READY;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 13
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 13
 
 
  657:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  711:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** HAL_StatusTypeDef HAL_DMA_PollForTransfer(DMA_HandleTypeDef *const hdma,
  712:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****                                           HAL_DMA_LevelCompleteTypeDef CompleteLevel,
  713:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****                                           uint32_t Timeout)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 14
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 14
 
 
  714:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** {
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  768:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           Note that the Abort function will
  769:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           - Clear all transfer flags.
  770:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           - Unlock.
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 15
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 15
 
 
  771:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           - Set the State.
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  825:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  826:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Reset the channel */
  827:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     hdma->Instance->CCR |= DMA_CCR_RESET;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 16
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 16
 
 
  828:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  882:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   */
  883:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** void HAL_DMA_IRQHandler(DMA_HandleTypeDef *const hdma)
  884:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 17
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 17
 
 
  885:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   DMA_TypeDef *p_dma_instance = GET_DMA_INSTANCE(hdma);
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  939:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Check if interrupt source is enabled */
  940:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     if (__HAL_DMA_GET_IT_SOURCE(hdma, DMA_IT_TO) != 0U)
  941:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 18
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 18
 
 
  942:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       /* Clear the trigger overrun flag */
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  996:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  997:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         /* Check DMA channel transfer mode */
  998:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         if ((hdma->Mode & DMA_LINKEDLIST) == DMA_LINKEDLIST)
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 19
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 19
 
 
  999:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         {
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1053:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       else
 1054:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       {
 1055:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         /* If normal transfer */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 20
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 20
 
 
 1056:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         if (hdma->Instance->CBR1 == 0U)
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1110:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     }
 1111:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
 1112:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 21
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 21
 
 
 1113:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1167:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         hdma->XferAbortCallback = pCallback;
 1168:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         break;
 1169:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 22
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 22
 
 
 1170:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1224:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
 1225:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       case HAL_DMA_XFER_CPLT_CB_ID:
 1226:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 23
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 23
 
 
 1227:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         /* UnRegister transfer complete callback */
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1281:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Update error status */
 1282:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     status = HAL_ERROR;
 1283:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 24
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 24
 
 
 1284:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1338:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   */
 1339:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
 1340:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /** @addtogroup DMA_Exported_Functions_Group4
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 25
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 25
 
 
 1341:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   *
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1395:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   /* Check DMA channel privilege attribute management */
 1396:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   if ((ChannelAttributes & DMA_CHANNEL_ATTR_PRIV_MASK) == DMA_CHANNEL_ATTR_PRIV_MASK)
 1397:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 26
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 26
 
 
 1398:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Configure DMA channel privilege attribute */
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1452:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
 1453:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   return HAL_OK;
 1454:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 27
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 27
 
 
 1455:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1509:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** HAL_StatusTypeDef HAL_DMA_LockChannelAttributes(DMA_HandleTypeDef const *const hdma)
 1510:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** {
 1511:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   DMA_TypeDef *p_dma_instance;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 28
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 28
 
 
 1512:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   uint32_t channel_idx;
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1566:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   */
 1567:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
 1568:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** /**
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 29
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 29
 
 
 1569:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   * @}
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1599:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
 1600:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   /* Configure DMA channel source address */
 1601:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   hdma->Instance->CSAR = SrcAddress;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 30
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 30
 
 
   54              		.loc 1 1601 3 view .LVU5
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
   93              		.loc 1 1618 10 is_stmt 0 view .LVU16
   94 0002 016A     		ldr	r1, [r0, #32]
   95              	.LVL3:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 31
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 31
 
 
 1619:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  140 004c 9142     		cmp	r1, r2
  141 004e 78D0     		beq	.L4
  142              		.loc 1 1628 7 discriminator 10 view .LVU32
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 32
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 32
 
 
  143 0050 02F18052 		add	r2, r2, #268435456
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  197 00bc 02F18052 		add	r2, r2, #268435456
  198 00c0 9142     		cmp	r1, r2
  199 00c2 3ED0     		beq	.L4
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 33
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 33
 
 
  200              		.loc 1 1628 7 discriminator 36 view .LVU45
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  254              		.loc 1 1628 7 discriminator 60 view .LVU57
  255 0130 02F17042 		add	r2, r2, #-268435456
  256 0134 8032     		adds	r2, r2, #128
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 34
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 34
 
 
  257 0136 9142     		cmp	r1, r2
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  297              		.loc 1 1639 3 is_stmt 1 view .LVU73
  298              		.loc 1 1639 22 is_stmt 0 view .LVU74
  299 016c 8368     		ldr	r3, [r0, #8]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 35
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 35
 
 
  300              		.loc 1 1639 49 view .LVU75
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  333 01a0 4B64     		str	r3, [r1, #68]
 1661:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****                                     DMA_CTR2_BREQ  | DMA_CTR2_DREQ    | DMA_CTR2_SWREQ   | DMA_CTR2
 1662:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 36
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 36
 
 
 1663:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  378 01f0 5A65     		str	r2, [r3, #84]
 1673:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
 1674:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 37
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 37
 
 
 1675:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     /* Write DMA Channel Block Register 2 (CBR2) **************************************************
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1644:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
  420              		.loc 1 1644 9 discriminator 8 view .LVU107
  421 0234 01F17041 		add	r1, r1, #-268435456
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 38
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 38
 
 
  422 0238 8031     		adds	r1, r1, #128
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  466 028e 01F17041 		add	r1, r1, #-268435456
  467 0292 8031     		adds	r1, r1, #128
  468 0294 8A42     		cmp	r2, r1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 39
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 39
 
 
  469 0296 4CD0     		beq	.L7
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  513 02ee 8A42     		cmp	r2, r1
  514 02f0 1FD0     		beq	.L7
 1644:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 40
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 40
 
 
  515              		.loc 1 1644 9 discriminator 50 view .LVU128
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1652:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  558              		.loc 1 1652 12 view .LVU140
  559 033c 25E7     		b	.L8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 41
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 41
 
 
  560              	.L17:
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  603              		.loc 1 258 3 view .LVU153
  259:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   assert_param(IS_DMA_DESTINATION_DATA_WIDTH(hdma->Init.DestDataWidth));
  604              		.loc 1 259 3 view .LVU154
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 42
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 42
 
 
  260:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   assert_param(IS_DMA_PRIORITY(hdma->Init.Priority));
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  285:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
  639              		.loc 1 285 5 is_stmt 1 view .LVU175
  285:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 43
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 43
 
 
  640              		.loc 1 285 10 is_stmt 0 view .LVU176
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  309:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** }
  678              		.loc 1 309 3 is_stmt 1 view .LVU193
  679              	.LVL17:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 44
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 44
 
 
  680              	.L19:
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  725              		.loc 1 330 3 is_stmt 1 view .LVU204
  333:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  726              		.loc 1 333 3 view .LVU205
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 45
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 45
 
 
  333:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  350:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     }
  765              		.loc 1 350 14 is_stmt 0 view .LVU222
  766 003e 0120     		movs	r0, #1
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 46
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 46
 
 
  767 0040 59E0     		b	.L26
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  801              		.loc 1 361 25 view .LVU242
  802 005c 1A65     		str	r2, [r3, #80]
  362:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 47
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 47
 
 
  803              		.loc 1 362 3 is_stmt 1 view .LVU243
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  367:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     hdma->Instance->CBR2 = 0U;
  846              		.loc 1 367 5 is_stmt 1 view .LVU255
  367:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     hdma->Instance->CBR2 = 0U;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 48
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 48
 
 
  847              		.loc 1 367 26 is_stmt 0 view .LVU256
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  391:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  886              		.loc 1 391 3 is_stmt 1 view .LVU272
  391:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 49
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 49
 
 
  887              		.loc 1 391 25 is_stmt 0 view .LVU273
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  923              		.loc 1 326 12 view .LVU291
  924 00fa FCE7     		b	.L26
  925              	.L36:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 50
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 50
 
 
  926              		.align	2
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  970              		.loc 1 474 11 is_stmt 0 discriminator 2 view .LVU303
  971 0014 94F85400 		ldrb	r0, [r4, #84]	@ zero_extendqisi2
  972 0018 C0B2     		uxtb	r0, r0
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 51
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 51
 
 
  474:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1011 0040 43F00103 		orr	r3, r3, #1
  1012 0044 5361     		str	r3, [r2, #20]
  499:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 52
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 52
 
 
  1013              		.loc 1 499 3 view .LVU320
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1061 0004 10B5     		push	{r4, lr}
  1062              		.cfi_def_cfa_offset 8
  1063              		.cfi_offset 4, -8
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 53
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 53
 
 
  1064              		.cfi_offset 14, -4
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  572:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  1101              		.loc 1 572 1 view .LVU346
  1102 002c 10BD     		pop	{r4, pc}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 54
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 54
 
 
  1103              	.LVL41:
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1143              	.L51:
  558:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  1144              		.loc 1 558 5 view .LVU361
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 55
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 55
 
 
  1145 0064 2268     		ldr	r2, [r4]
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1194              		.cfi_offset 14, -4
  1195 0002 0446     		mov	r4, r0
  586:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 56
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 56
 
 
  1196              		.loc 1 586 3 is_stmt 1 view .LVU369
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1233              		.loc 1 608 19 view .LVU386
  1234 0028 5369     		ldr	r3, [r2, #20]
  608:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 57
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 57
 
 
  1235              		.loc 1 608 25 view .LVU387
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1272              		.loc 1 626 9 is_stmt 1 view .LVU404
  626:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         {
  1273              		.loc 1 626 18 is_stmt 0 view .LVU405
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 58
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 58
 
 
  1274 0058 236D     		ldr	r3, [r4, #80]
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1311 0086 0123     		movs	r3, #1
  1312 0088 84F85430 		strb	r3, [r4, #84]
  653:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 59
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 59
 
 
  1313              		.loc 1 653 5 is_stmt 1 view .LVU423
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1353              		.syntax unified
  1354              		.thumb
  1355              		.thumb_func
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 60
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 60
 
 
  1357              	HAL_DMA_Abort_IT:
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1395 001c 5369     		ldr	r3, [r2, #20]
  697:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  1396              		.loc 1 697 25 view .LVU455
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 61
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 61
 
 
  1397 001e 43F40053 		orr	r3, r3, #8192
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1444 000a FFF7FEFF 		bl	HAL_GetTick
  1445              	.LVL61:
  717:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   uint32_t tmp_csr;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 62
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 62
 
 
  1446              		.loc 1 717 3 is_stmt 1 view .LVU465
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1482              		.loc 1 742 19 view .LVU483
  1483 0032 03F08103 		and	r3, r3, #129
  742:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 63
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 63
 
 
  1484              		.loc 1 742 6 view .LVU484
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1523 0056 2368     		ldr	r3, [r4]
  780:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  1524              		.loc 1 780 13 view .LVU500
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 64
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 64
 
 
  1525 0058 1B69     		ldr	r3, [r3, #16]
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1564              	.L95:
  784:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
  1565              		.loc 1 784 3 is_stmt 1 view .LVU516
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 65
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 65
 
 
  784:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1603              		.loc 1 860 14 is_stmt 0 view .LVU533
  1604 00b8 236D     		ldr	r3, [r4, #80]
  860:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 66
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 66
 
 
  1605              		.loc 1 860 8 view .LVU534
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  810:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  1644              		.loc 1 810 7 is_stmt 1 view .LVU550
  810:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 67
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 67
 
 
  1645              		.loc 1 810 11 is_stmt 0 view .LVU551
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  833:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
  1684              		.loc 1 833 14 is_stmt 0 view .LVU567
  1685 0122 236D     		ldr	r3, [r4, #80]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 68
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 68
 
 
  833:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1725              		.loc 1 871 12 view .LVU582
  1726 014a 0120     		movs	r0, #1
  1727 014c 6EE7     		b	.L74
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 69
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 69
 
 
  1728              		.cfi_endproc
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1772              		.loc 1 889 6 view .LVU594
  1773 0020 1942     		tst	r1, r3
  1774 0022 00F0D380 		beq	.L98
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 70
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 70
 
 
  895:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1812              		.loc 1 915 7 is_stmt 1 view .LVU611
  1813 0056 4FF40062 		mov	r2, #2048
  1814 005a DA60     		str	r2, [r3, #12]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 71
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 71
 
 
  918:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     }
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1852              		.loc 1 940 5 is_stmt 1 view .LVU628
  940:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
  1853              		.loc 1 940 9 is_stmt 0 view .LVU629
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 72
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 72
 
 
  1854 008e 5A69     		ldr	r2, [r3, #20]
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  963:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****       }
  1892              		.loc 1 963 9 is_stmt 0 view .LVU646
  1893 00c2 9847     		blx	r3
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 73
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 73
 
 
  1894              	.LVL89:
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  1932              	.L105:
 1032:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
  1933              		.loc 1 1032 3 view .LVU663
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 74
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 74
 
 
 1032:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1049:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           }
  1970              		.loc 1 1049 17 is_stmt 0 view .LVU682
  1971 0120 626F     		ldr	r2, [r4, #116]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 75
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 75
 
 
 1049:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****           }
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2009              		.loc 1 1001 15 is_stmt 0 view .LVU699
  2010 0152 636F     		ldr	r3, [r4, #116]
 1001:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 76
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 76
 
 
  2011              		.loc 1 1001 40 view .LVU700
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2048 0176 0123     		movs	r3, #1
 1059:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         }
  2049              		.loc 1 1059 23 view .LVU718
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 77
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 77
 
 
  2050 0178 84F85430 		strb	r3, [r4, #84]
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1084:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
  2087              		.loc 1 1084 24 view .LVU736
  2088 01a2 5B69     		ldr	r3, [r3, #20]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 78
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 78
 
 
 1084:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     {
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1112:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  2126              		.loc 1 1112 1 is_stmt 0 view .LVU754
  2127 01cc 10BD     		pop	{r4, pc}
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 79
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 79
 
 
  2128              	.LVL94:
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1138:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
  2171              		.loc 1 1138 11 is_stmt 0 discriminator 2 view .LVU768
  2172 0012 93F85400 		ldrb	r0, [r3, #84]	@ zero_extendqisi2
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 80
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 80
 
 
  2173 0016 C0B2     		uxtb	r0, r0
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2213              	.L126:
 1153:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         break;
  2214              		.loc 1 1153 9 is_stmt 1 view .LVU783
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 81
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 81
 
 
 1153:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         break;
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2250              	.L128:
 1131:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
  2251              		.loc 1 1131 12 view .LVU803
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 82
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 82
 
 
  2252 0052 0120     		movs	r0, #1
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2295              		.loc 1 1220 11 is_stmt 0 discriminator 2 view .LVU816
  2296 0014 90F85400 		ldrb	r0, [r0, #84]	@ zero_extendqisi2
  2297              	.LVL103:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 83
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 83
 
 
 1220:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2338 003c F0E7     		b	.L135
  2339              	.L141:
 1235:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         break;
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 84
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 84
 
 
  2340              		.loc 1 1235 9 is_stmt 1 view .LVU831
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2377 005c 9866     		str	r0, [r3, #104]
 1266:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         hdma->XferSuspendCallback  = NULL;
  2378              		.loc 1 1266 9 is_stmt 1 view .LVU849
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 85
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 85
 
 
 1266:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****         hdma->XferSuspendCallback  = NULL;
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2423 0004 7047     		bx	lr
  2424              		.cfi_endproc
  2425              	.LFE350:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 86
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 86
 
 
  2427              		.section	.text.HAL_DMA_GetError,"ax",%progbits
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1390:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
  2473              		.loc 1 1390 20 is_stmt 0 view .LVU873
  2474 0002 0368     		ldr	r3, [r0]
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 87
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 87
 
 
  2475 0004 23F47F62 		bic	r2, r3, #4080
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1401:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     }
  2514              		.loc 1 1401 7 is_stmt 1 view .LVU889
 1401:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****     }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 88
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 88
 
 
  2515              		.loc 1 1401 21 is_stmt 0 view .LVU890
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1471:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
  2560              		.loc 1 1471 3 view .LVU902
 1471:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 89
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 89
 
 
  2561              		.loc 1 1471 6 is_stmt 0 view .LVU903
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
 1499:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** }
  2600              		.loc 1 1499 10 discriminator 4 view .LVU919
  2601 002a 7047     		bx	lr
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 90
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 90
 
 
  2602              	.LVL133:
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2646              		.loc 1 1547 22 discriminator 1 view .LVU931
  2647 0002 B1B1     		cbz	r1, .L165
 1553:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 91
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 91
 
 
  2648              		.loc 1 1553 3 is_stmt 1 view .LVU932
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2687              		.loc 1 1549 12 view .LVU947
  2688 002e 0120     		movs	r0, #1
  2689              	.LVL147:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 92
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 92
 
 
 1549:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_dma.c ****   }
@@ -5484,54 +5484,54 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 1
  2708              		.file 6 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dma.h"
  2709              		.file 7 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_dma_ex.h"
  2710              		.file 8 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s 			page 93
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s 			page 93
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32u5xx_hal_dma.c
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:22     .text.DMA_SetConfig:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:27     .text.DMA_SetConfig:0000000000000000 DMA_SetConfig
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:74     .text.DMA_Init:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:79     .text.DMA_Init:0000000000000000 DMA_Init
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:396    .text.DMA_Init:0000000000000204 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:403    .text.DMA_Init:000000000000020c $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:563    .text.DMA_Init:0000000000000340 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:568    .text.HAL_DMA_Init:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:574    .text.HAL_DMA_Init:0000000000000000 HAL_DMA_Init
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:694    .text.HAL_DMA_DeInit:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:700    .text.HAL_DMA_DeInit:0000000000000000 HAL_DMA_DeInit
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:928    .text.HAL_DMA_DeInit:00000000000000fc $d
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:933    .text.HAL_DMA_Start:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:939    .text.HAL_DMA_Start:0000000000000000 HAL_DMA_Start
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1043   .text.HAL_DMA_Start_IT:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1049   .text.HAL_DMA_Start_IT:0000000000000000 HAL_DMA_Start_IT
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1175   .text.HAL_DMA_Abort:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1181   .text.HAL_DMA_Abort:0000000000000000 HAL_DMA_Abort
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1351   .text.HAL_DMA_Abort_IT:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1357   .text.HAL_DMA_Abort_IT:0000000000000000 HAL_DMA_Abort_IT
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1417   .text.HAL_DMA_PollForTransfer:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1423   .text.HAL_DMA_PollForTransfer:0000000000000000 HAL_DMA_PollForTransfer
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1732   .text.HAL_DMA_IRQHandler:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:1738   .text.HAL_DMA_IRQHandler:0000000000000000 HAL_DMA_IRQHandler
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2140   .text.HAL_DMA_RegisterCallback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2146   .text.HAL_DMA_RegisterCallback:0000000000000000 HAL_DMA_RegisterCallback
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2198   .text.HAL_DMA_RegisterCallback:000000000000002e $d
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2265   .text.HAL_DMA_UnRegisterCallback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2271   .text.HAL_DMA_UnRegisterCallback:0000000000000000 HAL_DMA_UnRegisterCallback
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2322   .text.HAL_DMA_UnRegisterCallback:0000000000000030 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2328   .text.HAL_DMA_UnRegisterCallback:0000000000000036 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2404   .text.HAL_DMA_GetState:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2410   .text.HAL_DMA_GetState:0000000000000000 HAL_DMA_GetState
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2428   .text.HAL_DMA_GetError:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2434   .text.HAL_DMA_GetError:0000000000000000 HAL_DMA_GetError
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2452   .text.HAL_DMA_ConfigChannelAttributes:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2458   .text.HAL_DMA_ConfigChannelAttributes:0000000000000000 HAL_DMA_ConfigChannelAttributes
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2543   .text.HAL_DMA_GetConfigChannelAttributes:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2549   .text.HAL_DMA_GetConfigChannelAttributes:0000000000000000 HAL_DMA_GetConfigChannelAttributes
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2627   .text.HAL_DMA_GetLockChannelAttributes:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2633   .text.HAL_DMA_GetLockChannelAttributes:0000000000000000 HAL_DMA_GetLockChannelAttributes
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2203   .text.HAL_DMA_RegisterCallback:0000000000000033 $d
-C:\Users\Yamaan\AppData\Local\Temp\ccSd7xcZ.s:2203   .text.HAL_DMA_RegisterCallback:0000000000000034 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:22     .text.DMA_SetConfig:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:27     .text.DMA_SetConfig:0000000000000000 DMA_SetConfig
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:74     .text.DMA_Init:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:79     .text.DMA_Init:0000000000000000 DMA_Init
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:396    .text.DMA_Init:0000000000000204 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:403    .text.DMA_Init:000000000000020c $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:563    .text.DMA_Init:0000000000000340 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:568    .text.HAL_DMA_Init:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:574    .text.HAL_DMA_Init:0000000000000000 HAL_DMA_Init
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:694    .text.HAL_DMA_DeInit:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:700    .text.HAL_DMA_DeInit:0000000000000000 HAL_DMA_DeInit
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:928    .text.HAL_DMA_DeInit:00000000000000fc $d
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:933    .text.HAL_DMA_Start:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:939    .text.HAL_DMA_Start:0000000000000000 HAL_DMA_Start
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1043   .text.HAL_DMA_Start_IT:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1049   .text.HAL_DMA_Start_IT:0000000000000000 HAL_DMA_Start_IT
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1175   .text.HAL_DMA_Abort:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1181   .text.HAL_DMA_Abort:0000000000000000 HAL_DMA_Abort
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1351   .text.HAL_DMA_Abort_IT:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1357   .text.HAL_DMA_Abort_IT:0000000000000000 HAL_DMA_Abort_IT
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1417   .text.HAL_DMA_PollForTransfer:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1423   .text.HAL_DMA_PollForTransfer:0000000000000000 HAL_DMA_PollForTransfer
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1732   .text.HAL_DMA_IRQHandler:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:1738   .text.HAL_DMA_IRQHandler:0000000000000000 HAL_DMA_IRQHandler
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2140   .text.HAL_DMA_RegisterCallback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2146   .text.HAL_DMA_RegisterCallback:0000000000000000 HAL_DMA_RegisterCallback
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2198   .text.HAL_DMA_RegisterCallback:000000000000002e $d
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2265   .text.HAL_DMA_UnRegisterCallback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2271   .text.HAL_DMA_UnRegisterCallback:0000000000000000 HAL_DMA_UnRegisterCallback
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2322   .text.HAL_DMA_UnRegisterCallback:0000000000000030 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2328   .text.HAL_DMA_UnRegisterCallback:0000000000000036 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2404   .text.HAL_DMA_GetState:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2410   .text.HAL_DMA_GetState:0000000000000000 HAL_DMA_GetState
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2428   .text.HAL_DMA_GetError:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2434   .text.HAL_DMA_GetError:0000000000000000 HAL_DMA_GetError
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2452   .text.HAL_DMA_ConfigChannelAttributes:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2458   .text.HAL_DMA_ConfigChannelAttributes:0000000000000000 HAL_DMA_ConfigChannelAttributes
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2543   .text.HAL_DMA_GetConfigChannelAttributes:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2549   .text.HAL_DMA_GetConfigChannelAttributes:0000000000000000 HAL_DMA_GetConfigChannelAttributes
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2627   .text.HAL_DMA_GetLockChannelAttributes:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2633   .text.HAL_DMA_GetLockChannelAttributes:0000000000000000 HAL_DMA_GetLockChannelAttributes
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2203   .text.HAL_DMA_RegisterCallback:0000000000000033 $d
+C:\Users\Yamaan\AppData\Local\Temp\ccHwaKFa.s:2203   .text.HAL_DMA_RegisterCallback:0000000000000034 $t
 
 UNDEFINED SYMBOLS
 HAL_GetTick

@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 1
 
 
    1              		.cpu cortex-m33
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
   26:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** /** @addtogroup STM32U5xx_HAL_Driver
   27:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   * @{
   28:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 2
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 2
 
 
   29:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** 
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
   73:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   uint32_t Tx_Offset;
   41              		.loc 1 73 3 view .LVU3
   74:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 3
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 3
 
 
   75:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   /*  TXn min size = 16 words. (n  : Transmit FIFO index)
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
   66 0014 7047     		bx	lr
   67              	.LVL4:
   68              	.L2:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 4
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 4
 
 
   69              		.cfi_restore_state
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  107              		.loc 1 100 65 is_stmt 0 view .LVU30
  108 003c 40EA0240 		orr	r0, r0, r2, lsl #16
  109              	.LVL10:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 5
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 5
 
 
  100:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   }
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  154              	HAL_PCDEx_ActivateLPM:
  155              	.LVL13:
  156              	.LFB342:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 6
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 6
 
 
  118:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  194 0024 7047     		bx	lr
  195              		.cfi_endproc
  196              	.LFE342:
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 7
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 7
 
 
  198              		.section	.text.HAL_PCDEx_DeActivateLPM,"ax",%progbits
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  149:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   return HAL_OK;
  239              		.loc 1 149 3 is_stmt 1 view .LVU69
  150:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** }
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 8
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 8
 
 
  240              		.loc 1 150 1 is_stmt 0 view .LVU70
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  192:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** #endif /* defined (STM32U575xx) || defined (STM32U585xx) */
  193:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   {
  194:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****     /* Case of Standard Downstream Port */
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 9
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 9
 
 
  195:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** #if (USE_HAL_PCD_REGISTER_CALLBACKS == 1U)
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  249:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****     hpcd->BCDCallback(hpcd, PCD_BCD_DISCOVERY_COMPLETED);
  250:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** #else
  251:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****     HAL_PCDEx_BCD_Callback(hpcd, PCD_BCD_DISCOVERY_COMPLETED);
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 10
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 10
 
 
  252:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** #endif /* USE_HAL_PCD_REGISTER_CALLBACKS */
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  287 0020 9A63     		str	r2, [r3, #56]
  274:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** #endif /* defined (STM32U575xx) || defined (STM32U585xx) */
  275:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c **** 
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 11
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 11
 
 
  276:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   hpcd->battery_charging_active = 1U;
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  329 000a 9963     		str	r1, [r3, #56]
  291:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   USBx->GCCFG &= ~(USB_OTG_GCCFG_PDEN);
  330              		.loc 1 291 3 is_stmt 1 view .LVU99
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 12
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 12
 
 
  331              		.loc 1 291 7 is_stmt 0 view .LVU100
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  366              		@ args = 0, pretend = 0, frame = 0
  367              		@ frame_needed = 0, uses_anonymous_args = 0
  368              		@ link register save eliminated.
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 13
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 13
 
 
  313:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   /* Prevent unused argument(s) compilation warning */
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  401              		.syntax unified
  402              		.thumb
  403              		.thumb_func
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 14
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 14
 
 
  405              	HAL_PCDEx_BCD_VBUSDetect:
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  445 001c A36B     		ldr	r3, [r4, #56]
  171:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   {
  446              		.loc 1 171 6 view .LVU132
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 15
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 15
 
 
  447 001e 13F0010F 		tst	r3, #1
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  238:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   {
  487              		.loc 1 238 3 is_stmt 1 view .LVU147
  238:Drivers/STM32U5xx_HAL_Driver/Src/stm32u5xx_hal_pcd_ex.c ****   {
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 16
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 16
 
 
  488              		.loc 1 238 8 is_stmt 0 view .LVU148
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  529              		.loc 1 208 5 is_stmt 1 view .LVU161
  530 008c 3220     		movs	r0, #50
  531 008e FFF7FEFF 		bl	HAL_Delay
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 17
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 17
 
 
  532              	.LVL45:
@@ -1007,29 +1007,29 @@ ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 1
  569              		.file 6 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_ll_usb.h"
  570              		.file 7 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_pcd.h"
  571              		.file 8 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal.h"
-ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s 			page 18
+ARM GAS  C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s 			page 18
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32u5xx_hal_pcd_ex.c
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:22     .text.HAL_PCDEx_SetTxFiFo:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:28     .text.HAL_PCDEx_SetTxFiFo:0000000000000000 HAL_PCDEx_SetTxFiFo
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:119    .text.HAL_PCDEx_SetRxFiFo:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:125    .text.HAL_PCDEx_SetRxFiFo:0000000000000000 HAL_PCDEx_SetRxFiFo
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:148    .text.HAL_PCDEx_ActivateLPM:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:154    .text.HAL_PCDEx_ActivateLPM:0000000000000000 HAL_PCDEx_ActivateLPM
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:199    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:205    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 HAL_PCDEx_DeActivateLPM
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:246    .text.HAL_PCDEx_ActivateBCD:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:252    .text.HAL_PCDEx_ActivateBCD:0000000000000000 HAL_PCDEx_ActivateBCD
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:304    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:310    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 HAL_PCDEx_DeActivateBCD
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:355    .text.HAL_PCDEx_LPM_Callback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:361    .text.HAL_PCDEx_LPM_Callback:0000000000000000 HAL_PCDEx_LPM_Callback
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:377    .text.HAL_PCDEx_BCD_Callback:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:383    .text.HAL_PCDEx_BCD_Callback:0000000000000000 HAL_PCDEx_BCD_Callback
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:399    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 $t
-C:\Users\Yamaan\AppData\Local\Temp\cc3OySfr.s:405    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 HAL_PCDEx_BCD_VBUSDetect
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:22     .text.HAL_PCDEx_SetTxFiFo:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:28     .text.HAL_PCDEx_SetTxFiFo:0000000000000000 HAL_PCDEx_SetTxFiFo
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:119    .text.HAL_PCDEx_SetRxFiFo:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:125    .text.HAL_PCDEx_SetRxFiFo:0000000000000000 HAL_PCDEx_SetRxFiFo
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:148    .text.HAL_PCDEx_ActivateLPM:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:154    .text.HAL_PCDEx_ActivateLPM:0000000000000000 HAL_PCDEx_ActivateLPM
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:199    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:205    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 HAL_PCDEx_DeActivateLPM
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:246    .text.HAL_PCDEx_ActivateBCD:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:252    .text.HAL_PCDEx_ActivateBCD:0000000000000000 HAL_PCDEx_ActivateBCD
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:304    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:310    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 HAL_PCDEx_DeActivateBCD
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:355    .text.HAL_PCDEx_LPM_Callback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:361    .text.HAL_PCDEx_LPM_Callback:0000000000000000 HAL_PCDEx_LPM_Callback
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:377    .text.HAL_PCDEx_BCD_Callback:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:383    .text.HAL_PCDEx_BCD_Callback:0000000000000000 HAL_PCDEx_BCD_Callback
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:399    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 $t
+C:\Users\Yamaan\AppData\Local\Temp\ccCze4MH.s:405    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 HAL_PCDEx_BCD_VBUSDetect
 
 UNDEFINED SYMBOLS
 HAL_GetTick
