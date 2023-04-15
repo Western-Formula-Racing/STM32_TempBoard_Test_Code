@@ -25,8 +25,8 @@
 
 /* USER CODE END Includes */
 
-DMA_NodeTypeDef YourNodeName;
-DMA_QListTypeDef YourQueueName;
+DMA_NodeTypeDef ADCNode;
+DMA_QListTypeDef ADCQueue;
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
@@ -40,52 +40,47 @@ DMA_QListTypeDef YourQueueName;
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-extern uint16_t data[];
+
 /* USER CODE END PM */
 
 /**
-  * @brief  DMA Linked-list YourQueueName configuration
+  * @brief  DMA Linked-list ADCQueue configuration
   * @param  None
   * @retval None
   */
-HAL_StatusTypeDef MX_YourQueueName_Config(void)
+HAL_StatusTypeDef MX_ADCQueue_Config(void)
 {
   HAL_StatusTypeDef ret = HAL_OK;
   /* DMA node configuration declaration */
   DMA_NodeConfTypeDef pNodeConfig;
 
   /* Set node configuration ################################################*/
-  pNodeConfig.NodeType = DMA_GPDMA_2D_NODE;
+  pNodeConfig.NodeType = DMA_GPDMA_LINEAR_NODE;
   pNodeConfig.Init.Request = GPDMA1_REQUEST_ADC1;
   pNodeConfig.Init.BlkHWRequest = DMA_BREQ_SINGLE_BURST;
   pNodeConfig.Init.Direction = DMA_PERIPH_TO_MEMORY;
   pNodeConfig.Init.SrcInc = DMA_SINC_FIXED;
   pNodeConfig.Init.DestInc = DMA_DINC_INCREMENTED;
-  pNodeConfig.Init.SrcDataWidth = DMA_SRC_DATAWIDTH_HALFWORD;
-  pNodeConfig.Init.DestDataWidth = DMA_DEST_DATAWIDTH_HALFWORD;
+  pNodeConfig.Init.SrcDataWidth = DMA_SRC_DATAWIDTH_WORD;
+  pNodeConfig.Init.DestDataWidth = DMA_DEST_DATAWIDTH_WORD;
   pNodeConfig.Init.SrcBurstLength = 1;
   pNodeConfig.Init.DestBurstLength = 1;
   pNodeConfig.Init.TransferAllocatedPort = DMA_SRC_ALLOCATED_PORT0|DMA_DEST_ALLOCATED_PORT0;
   pNodeConfig.Init.TransferEventMode = DMA_TCEM_BLOCK_TRANSFER;
-  pNodeConfig.RepeatBlockConfig.RepeatCount = 1;
-  pNodeConfig.RepeatBlockConfig.SrcAddrOffset = 0;
-  pNodeConfig.RepeatBlockConfig.DestAddrOffset = 0;
-  pNodeConfig.RepeatBlockConfig.BlkSrcAddrOffset = 0;
-  pNodeConfig.RepeatBlockConfig.BlkDestAddrOffset = 0;
   pNodeConfig.TriggerConfig.TriggerPolarity = DMA_TRIG_POLARITY_MASKED;
   pNodeConfig.DataHandlingConfig.DataExchange = DMA_EXCHANGE_NONE;
   pNodeConfig.DataHandlingConfig.DataAlignment = DMA_DATA_RIGHTALIGN_ZEROPADDED;
-  pNodeConfig.SrcAddress = (uint32_t)&(ADC1->DR);
-  pNodeConfig.DstAddress = data;
-  pNodeConfig.DataSize = (64*2);
+  pNodeConfig.SrcAddress = 0;
+  pNodeConfig.DstAddress = 0;
+  pNodeConfig.DataSize = 0;
 
-  /* Build YourNodeName Node */
-  ret |= HAL_DMAEx_List_BuildNode(&pNodeConfig, &YourNodeName);
+  /* Build ADCNode Node */
+  ret |= HAL_DMAEx_List_BuildNode(&pNodeConfig, &ADCNode);
 
-  /* Insert YourNodeName to Queue */
-  ret |= HAL_DMAEx_List_InsertNode_Tail(&YourQueueName, &YourNodeName);
+  /* Insert ADCNode to Queue */
+  ret |= HAL_DMAEx_List_InsertNode_Tail(&ADCQueue, &ADCNode);
 
-  ret |= HAL_DMAEx_List_SetCircularMode(&YourQueueName);
+  ret |= HAL_DMAEx_List_SetCircularMode(&ADCQueue);
 
    return ret;
 }

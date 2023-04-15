@@ -38,6 +38,7 @@ BUILD_DIR = build
 C_SOURCES =  \
 Core/Src/linked_list.c \
 Core/Src/main.c \
+Core/Src/retarget.c \
 Core/Src/stm32u5xx_hal_msp.c \
 Core/Src/stm32u5xx_it.c \
 Core/Src/system_stm32u5xx.c \
