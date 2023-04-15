@@ -496,6 +496,7 @@ static int setMux(int channel)
     return 0;
   }
   printf("Channel %d selected\n", channel);
+  channel -= 1; // convert from counting from 1 to counting from 0
   HAL_GPIO_WritePin(S0_GPIO_Port, S0_Pin, (channel & (1 << 0)) >> 0);
   HAL_GPIO_WritePin(S1_GPIO_Port, S1_Pin, (channel & (1 << 1)) >> 1);
   HAL_GPIO_WritePin(S2_GPIO_Port, S2_Pin, (channel & (1 << 2)) >> 2);
