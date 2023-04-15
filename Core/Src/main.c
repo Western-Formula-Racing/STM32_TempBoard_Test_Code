@@ -117,9 +117,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    // printf("toggling pin! \n");
-    HAL_GPIO_TogglePin(S0_GPIO_Port, S0_Pin);
-    HAL_Delay(1000);
 
     /* USER CODE END WHILE */
 
@@ -499,6 +496,10 @@ static int setMux(int channel)
     return 0;
   }
   printf("Channel %d selected\n", channel);
+  HAL_GPIO_WritePin(S0_GPIO_Port, S0_Pin, (channel & (1 << 0)) >> 0);
+  HAL_GPIO_WritePin(S1_GPIO_Port, S1_Pin, (channel & (1 << 1)) >> 1);
+  HAL_GPIO_WritePin(S2_GPIO_Port, S2_Pin, (channel & (1 << 2)) >> 2);
+
   return 1;
 }
 void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
