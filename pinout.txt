@@ -1,7 +1,9 @@
-temp1 = A0 PA3
+
 S0 = d7 PF13
 s1 = d5 PE11
 s2 = d2 PF15
+
+temp1 = A0 PA3
 
 temp2 = A1 PA2
 
